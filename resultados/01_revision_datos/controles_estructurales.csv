@@ -1,0 +1,115 @@
+control,estado,incidencias,detalle
+Clave completa ventas_mensual,OK,0,"t, segmento, canal"
+Clave única ventas_mensual,OK,0,"t, segmento, canal"
+Clave completa mercado_mensual,OK,0,"t, segmento, canal"
+Clave única mercado_mensual,OK,0,"t, segmento, canal"
+Clave completa stock_mensual,OK,0,"t, segmento"
+Clave única stock_mensual,OK,0,"t, segmento"
+Clave completa macro_mensual,OK,0,t
+Clave única macro_mensual,OK,0,t
+Clave completa calendario_A013,OK,0,t
+Clave única calendario_A013,OK,0,t
+Clave completa segmentos,OK,0,segmento
+Clave única segmentos,OK,0,segmento
+Clave completa codigos,OK,0,"segmento, codigo_modelo, generacion"
+Clave única codigos,OK,0,"segmento, codigo_modelo, generacion"
+Cobertura completa ventas_mensual,OK,0,"Todas las combinaciones esperadas, incluidas las celdas de cero ventas."
+Etiquetas coherentes ventas_mensual,OK,0,"t, año, mes y periodo coinciden."
+Cobertura completa mercado_mensual,OK,0,"Todas las combinaciones esperadas, incluidas las celdas de cero ventas."
+Etiquetas coherentes mercado_mensual,OK,0,"t, año, mes y periodo coinciden."
+Cobertura completa stock_mensual,OK,0,"Todas las combinaciones esperadas, incluidas las celdas de cero ventas."
+Etiquetas coherentes stock_mensual,OK,0,"t, año, mes y periodo coinciden."
+Cobertura completa macro_mensual,OK,0,"Todas las combinaciones esperadas, incluidas las celdas de cero ventas."
+Etiquetas coherentes macro_mensual,OK,0,"t, año, mes y periodo coinciden."
+Cobertura completa calendario_A013,OK,0,"Todas las combinaciones esperadas, incluidas las celdas de cero ventas."
+Etiquetas coherentes calendario_A013,OK,0,"t, año, mes y periodo coinciden."
+Dominio ventas_mensual.t,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.mes,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.unidades,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.u_automatriculacion,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.u_venta_especial,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.u_0_90,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.u_91_180,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.u_mas_180,OK,0,Cantidad no negativa; recuentos enteros.
+Importe ventas_mensual.pvp_medio,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe ventas_mensual.pff_medio,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe ventas_mensual.vm_medio,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Dominio ventas_mensual.dias_0_90_medio,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.dias_91_180_medio,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio ventas_mensual.dias_mas_180_medio,OK,0,Cantidad no negativa; recuentos enteros.
+Indicador ventas_mensual.renovacion_gama,OK,0,"Solo 0 y 1, sin ausencias."
+Dominio ventas_mensual.meses_desde_renovacion,OK,0,Cantidad no negativa; recuentos enteros.
+Segmentos conocidos ventas_mensual,OK,0,Siete segmentos del caso.
+Canales conocidos ventas_mensual,OK,0,Tres canales del caso.
+Dominio mercado_mensual.t,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio mercado_mensual.mes,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio mercado_mensual.unidades,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio mercado_mensual.marca_propia,OK,0,Cantidad no negativa; recuentos enteros.
+Fracción mercado_mensual.pct_diesel,OK,0,"0,09 significa 9 %, no 0,09 %."
+Fracción mercado_mensual.pct_electrificado,OK,0,"0,09 significa 9 %, no 0,09 %."
+Fracción mercado_mensual.pct_renting,OK,0,"0,09 significa 9 %, no 0,09 %."
+Dominio mercado_mensual.n_marcas,OK,0,Cantidad no negativa; recuentos enteros.
+Segmentos conocidos mercado_mensual,OK,0,Siete segmentos del caso.
+Canales conocidos mercado_mensual,OK,0,Tres canales del caso.
+Dominio stock_mensual.t,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.mes,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.stock_total,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.s_0_90,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.s_91_180,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.s_mas_180,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.s_sin_cliente,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio stock_mensual.wholesale,OK,0,Cantidad no negativa; recuentos enteros.
+Segmentos conocidos stock_mensual,OK,0,Siete segmentos del caso.
+Dominio macro_mensual.t,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio macro_mensual.mes,OK,0,Cantidad no negativa; recuentos enteros.
+Indicador macro_mensual.incentivo_publico,OK,0,"Solo 0 y 1, sin ausencias."
+Indicador macro_mensual.adelanto_compras,OK,0,"Solo 0 y 1, sin ausencias."
+Indicador macro_mensual.caida_tras_adelanto,OK,0,"Solo 0 y 1, sin ausencias."
+Indicador macro_mensual.subida_iva,OK,0,"Solo 0 y 1, sin ausencias."
+Dominio macro_mensual.dias_laborables,OK,0,Cantidad no negativa; recuentos enteros.
+Indicador macro_mensual.semana_santa,OK,0,"Solo 0 y 1, sin ausencias."
+Dominio segmentos.unidades_totales,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio segmentos.unidades_ult_anio,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio segmentos.codigos,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio segmentos.codigos_A013,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio segmentos.codigos_nuevos_A013,OK,0,Cantidad no negativa; recuentos enteros.
+Importe segmentos.pvp_medio,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.pff_medio,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Fracción segmentos.iedmt_pct,OK,0,"0,09 significa 9 %, no 0,09 %."
+Fracción segmentos.margen_conc_base_pct,OK,0,"0,09 significa 9 %, no 0,09 %."
+Fracción segmentos.margen_conc_var_pct,OK,0,"0,09 significa 9 %, no 0,09 %."
+Importe segmentos.margen_bruto_conc_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.precio_conc_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.beneficio_bruto_marca_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.prima_co2_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.vm_tarifa_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.vm_real_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.vm_real_0_90_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.vm_real_91_180_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Importe segmentos.vm_real_mas_180_eur,OK,0,"Precio, VM o cargo no negativo. CVP puede ser negativo y se trata aparte."
+Segmentos conocidos segmentos,OK,0,Siete segmentos del caso.
+Dominio codigos.generacion,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio codigos.unidades,OK,0,Cantidad no negativa; recuentos enteros.
+Indicador codigos.en_tarifa_A013,OK,0,"Solo 0 y 1, sin ausencias."
+Segmentos conocidos codigos,OK,0,Siete segmentos del caso.
+Dominio calendario_A013.t,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio calendario_A013.mes,OK,0,Cantidad no negativa; recuentos enteros.
+Dominio calendario_A013.dias_laborables,OK,0,Cantidad no negativa; recuentos enteros.
+Indicador calendario_A013.semana_santa,OK,0,"Solo 0 y 1, sin ausencias."
+Automatriculaciones contenidas,OK,0,"Se restan de unidades, no se suman."
+Ventas especiales contenidas,OK,0,No se restan: pueden ser compras de clientes.
+Kaido dentro del mercado,OK,0,"Kaido está incluido en el mercado, no se añade otra vez."
+Tramos de stock,OK,0,Tres tramos disjuntos.
+Stock sin cliente contenido,OK,0,"Es un subconjunto, no un cuarto tramo de edad."
+Tramos de ventas desde A009 febrero,OK,0,Tramos de matriculaciones; no sabemos el tramo de cada automatriculación.
+Mercado y ventas internas,OK,0,Comparación de todas las celdas desde A003.
+Ficha y ventas históricas,OK,0,Totales acumulados por segmento.
+Ficha y ventas A012,OK,0,Último año por segmento.
+Códigos y ventas históricas,OK,0,Suma de todas las generaciones.
+Códigos distintos con ventas,OK,0,Un nombre reutilizado se cuenta una sola vez en esta columna.
+Gama A013,OK,0,Códigos en tarifa por segmento.
+Códigos nuevos A013,OK,0,Códigos en tarifa sin historia de ventas.
+Letras de códigos,OK,0,La letra D no identifica por sí sola un segmento.
+Código NA conservado,OK,0,"Es texto válido, nunca una ausencia."
+Beneficio bruto = vm_tarifa_eur + cvp_tarifa_eur,OK,0,Tolerancia declarada de 2 € por redondeo de cifras enteras.
+Beneficio bruto = vm_real_eur + cvp_real_eur,OK,0,Tolerancia declarada de 2 € por redondeo de cifras enteras.

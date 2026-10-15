@@ -1,0 +1,72 @@
+{
+  "politica": {
+    "nivel_servicio_objetivo": 0.9,
+    "metodo_seguridad": "max_formula_y_bootstrap",
+    "multiplicador_seguridad": 1.0,
+    "pipeline_multiplicador": 1.0,
+    "continuacion_A014_multiplicador": 1.0,
+    "capacidad_multiplicador_plan": 1.25,
+    "fraccion_transfer_deficit": 0.5,
+    "permitir_transfers_no_rentables": false,
+    "revision_activa": true,
+    "observacion_revision": "ventas",
+    "ventana_revision_meses": 3,
+    "peso_nueva_revision": 0.5,
+    "revision_minima": 0.5,
+    "revision_maxima": 1.75,
+    "dias_mes": 30,
+    "dia_venta": 15,
+    "edades_iniciales": "centros"
+  },
+  "fuentes_sha256": {
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+  },
+  "etapa_05_sha256": {
+    "calculo_marzo.csv": "e9854f1010efb7d7028cf4973ce908674299b96bfb5530e4a6d98b8d7788c4e1",
+    "capacidad.csv": "bdf27851c7e4e41f614969f5cac34aec8c2aeae2f998e8488ab163aceb3be0b9",
+    "horizonte.csv": "ae434e6bb7afbaec682f966ae450fa849f19014c420230fe8168f0484859adfa",
+    "metodo.json": "1c05a8a345590ba43ee92d190da22e935a32926ec0567699ba8e873e87a7126c",
+    "pipeline_inicial.csv": "e76114bf970d81c1eaaef2efe173d19aa8d211f2277b50f214f1770af39dbfee",
+    "plan_central.csv": "654b17768790742ccd4b6ae12a14a5ee4e1dfa262c99b3c3c7169c00cea53b52",
+    "plan_central.npz": "c71b57e89fa750b55659d2c09b041bfaed2c7b7b4f0479a15d4c5a19177cc739",
+    "politica_transfers.csv": "2a6f219bb545db8a0651e0d3087cb0ee8b1937f4f78a6b6ce5695750051f836d",
+    "seguridad.csv": "1ca205b0a68bacf7555b81d693e9ad68cd6de51a68c6f825556f9a44bb56e6cd",
+    "sensibilidad_plan.csv": "70210f50e25563a360ec3cf3f97fda1a3cc8a47c88c7acd39b9ddf3af67fb880",
+    "stock_inicial.csv": "13a8e1a07af1699da9b99c5846a3fb2acf2531bf0a5e0fb82e6be2804408a84f"
+  },
+  "etapa_04_sha256": {
+    "bandas_mensuales.csv": "fef0b5da5ccfbf0021d7b5f65c9ead54c14e98930951b4155677f5ba9f7c2327",
+    "correlacion_residuos.csv": "afccb6fcd318659909af4aa0478e13025f3e4098eb513ce33088821dd2b75f8a",
+    "descomposicion_efectos.csv": "532289445d0e6ddcd4bb349410f570f6ef6aa84b9b20023c2619f194585b82a7",
+    "entradas_costes.csv": "ba42b51f9c37204dd117dac7ad44a58f214031d44711681d41500398fe336365",
+    "entradas_suministro.csv": "e9f97f006deaccb2bb08be429fe0c5fb095050985653d8d829487c2396c15c50",
+    "macro_escenarios_A013.csv": "8e2f6a2f29295d9c28ae217249697f81a0a30e4102869af92fd6d145e33ae5cd",
+    "metodo.json": "6ba6d0ba4085f943e077c6665fda020585ed4b9db6ea47a0788fd592c66b2838",
+    "prevision_escenarios_A013.csv": "d35b0ef001d0da4bf3d9447d14f23c444c0cc23c7c45f82da13d9d631ff5d2f4",
+    "replicas_demanda_A013.npz": "2bb22d2e286dd553bdead2b8c8cfaba7f91e9c45e532009050ba8e8560e34eab",
+    "residuos_calibracion.csv": "b79af00c08921c04fdeb83fb5e6d08ca3ea582701fbf8f33162af2295cde3658",
+    "resumen_anual.csv": "9b559fb76152093bfcdf362c3e67039e3eaf1fac80283a858d040cf83accae82",
+    "sensibilidad_hipotesis.csv": "1a9e9eb74267ee21439fb1a7160d168099a261799d60fd55d90ca23229f18171"
+  },
+  "replicas_por_escenario": 1000,
+  "trayectorias_mes_segmento": 252000,
+  "revision": "Ventas realizadas hasta el mes actual; pedidos solo en sensibilidad con observabilidad supuesta",
+  "FIFO": "Cohortes iniciales y nuevas; venta en día 15, llegadas inicio de mes, 30 días por mes",
+  "transfer": "Cobertura 50% del déficit rentable, sin permanencia en red; no resta stock local",
+  "datos_para_07": "Ventas por edad, días-coche de crédito/stock y vencimientos nuevos; no margen anual calculado",
+  "fabricacion": "Mes i llega i+3; primer trimestre común; trimestre final fabricado llega A014",
+  "salidas_sha256": {
+    "ejemplos_mensuales_5_replicas.csv": "a5601681e4da7f5b62394015de452b407da1b8095ae9d970e695e360d5a59360",
+    "resultados_anuales_replicas.csv": "a9ddf7238949c964b51d48049acec6b4527ab802fc0f7a808fe75747ffc26090",
+    "resumen_anual.csv": "834869ac4e49cd51dd69b6f803a209ca050d9f853739582d5262547e16472613",
+    "resumen_mensual.csv": "cb3bebd01d8e82ba6aaebf6c8ae0cd15b2ac7fa3e0371b5994125311cf917649",
+    "sensibilidad_operativa.csv": "d855492f7f6a71654134d167939411f79ab7ae572992ad0dc9a3549a87ab92e7",
+    "trayectorias_A013.npz": "a870d8998a18846ebac251097863d7a5c28eb1a192d74cf9b220515f55334f1b"
+  }
+}

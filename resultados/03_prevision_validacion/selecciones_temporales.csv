@@ -1,0 +1,22 @@
+segmento,alpha,ventana,wape_cv_pct,wape_ingenua_cv_pct,ultimo_t_seleccion,regla,corte_prevision
+B,30.0,12,50.86751878240294,53.76020627417275,108,Menor WAPE mensual agregado por segmento; solo pasado,108
+C,30.0,12,24.965687854504093,22.2555594775856,108,Menor WAPE mensual agregado por segmento; solo pasado,108
+MD,30.0,12,24.012862841825253,30.20615476546161,108,Menor WAPE mensual agregado por segmento; solo pasado,108
+SSUV,10.0,12,,,108,Predeterminada: segmento sin historia validable,108
+CSUV,10.0,12,,,108,Predeterminada: segmento sin historia validable,108
+MSUV,1.0,12,22.709989186467077,22.34927234927235,108,Menor WAPE mensual agregado por segmento; solo pasado,108
+S,1.0,24,70.41528464935121,67.37400530503979,108,Menor WAPE mensual agregado por segmento; solo pasado,108
+B,30.0,12,39.68904613391333,44.161545215100965,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+C,30.0,12,21.947949145993412,22.243177279786998,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+MD,30.0,12,24.367766825770225,30.452586206896555,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+SSUV,30.0,24,18.670720083793853,21.892925430210326,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+CSUV,10.0,12,,,120,Predeterminada: segmento sin historia validable,120
+MSUV,1.0,12,23.64576170898367,27.1861517415553,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+S,1.0,12,57.93000220234712,56.59526493799324,120,Menor WAPE mensual agregado por segmento; solo pasado,120
+B,30.0,12,36.61636501769133,40.2918524523713,132,Menor WAPE mensual agregado por segmento; solo pasado,132
+C,30.0,12,21.53582509906289,23.280208163929096,132,Menor WAPE mensual agregado por segmento; solo pasado,132
+MD,30.0,12,27.14640690364488,30.975954738330973,132,Menor WAPE mensual agregado por segmento; solo pasado,132
+SSUV,30.0,24,25.105459507347366,22.83943906946407,132,Menor WAPE mensual agregado por segmento; solo pasado,132
+CSUV,10.0,12,,,132,Predeterminada: segmento sin historia validable,132
+MSUV,1.0,12,21.612468152069038,27.591385246502085,132,Menor WAPE mensual agregado por segmento; solo pasado,132
+S,10.0,24,51.97280172799815,51.536098310291855,132,Menor WAPE mensual agregado por segmento; solo pasado,132

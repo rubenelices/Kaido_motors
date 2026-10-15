@@ -1,0 +1,66 @@
+{
+  "fuentes_sha256": {
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+  },
+  "corte_seleccion": 132,
+  "corte_prueba_final": 132,
+  "corte_reajuste": 144,
+  "cortes_cv": [
+    84,
+    96,
+    108,
+    120
+  ],
+  "alphas": [
+    1.0,
+    10.0,
+    30.0
+  ],
+  "ventanas_cuota": [
+    12,
+    24
+  ],
+  "economia": {
+    "PARTICULARES": [
+      "paro",
+      "confianza_consumidor",
+      "tipo_credito_consumo"
+    ],
+    "EMPRESAS_RENTING": [
+      "paro",
+      "pib_var",
+      "indice_actividad"
+    ],
+    "ALQUILADORES": [
+      "paro",
+      "viajeros_var"
+    ]
+  },
+  "macro_futura": "Media Q4 persistente; turistas media de últimos 12 meses",
+  "caida_A013_meses": 3,
+  "objetivo": "Clientes observados; no demanda potencial identificada",
+  "CSUV": "No validable en A012; cuota Aug-Oct A012; efecto anual de lanzamiento desconocido",
+  "error_calibracion": "Predicciones anidadas A010–A011 + prueba A012, sin selección con su año futuro",
+  "signos": "Restricciones económicas supuestas; coeficientes asociativos, no causales",
+  "replica": "Determinista; no particiones aleatorias",
+  "salidas_sha256": {
+    "candidatos_cv.csv": "42597374884e0743071623d69aa37f3b8dcb53f6bd6546b8aa6afeb7fe604456",
+    "coeficientes_A013.csv": "cb902f40d557acb0b94c8b44be9ce6a7c823e4e7584fe51b8e779fb41f3308f4",
+    "diagnostico_mercado_cuota.csv": "6852246cc09b99cdeea94ce6b6c21cf3a684cb9149bf959cc96ffddf9cdcd9fd",
+    "errores_fuera_muestra.csv": "9e95dc0ece65a857c7ec742e8c393bd17600a73e97990b9e9d30a58c11f46174",
+    "macro_base_A013.csv": "4b3a8228fd35e5e2ae1b98476e0c0ee64ef972717d9520948bf1cdfe31bd1d61",
+    "macro_exante_A012.csv": "69e675f8ba6fb627dbc201f606647472bf2108640756b86e20f543430c1a6123",
+    "metricas_A012.csv": "966c4fbae1641627b91c6c581a4736f03e831c582cd77c80e116a899a6416189",
+    "prevision_base_A013.csv": "88aa26941d888f9639c7e014bd1e62626291a72e300f60e5134ebae7d5a28829",
+    "renovaciones_historicas.csv": "c7024c34076039fb699e62cd52559f53eb3de2775c025750d798f2cd9f5096e7",
+    "seleccion_modelos.csv": "528cec3a194c1f18e45715488e23a1a73ab2c555b1973340d61aa440077a1a4f",
+    "selecciones_temporales.csv": "69c0c7b2a0b134d232f86e39598c71a8a2a22d6747f4d4120a7cc128b3aedf86",
+    "validacion_A012.csv": "0f13af49b4e4795804ab459a30550a2438c4ca2c8c8cb7d53625a684f56529a1"
+  }
+}

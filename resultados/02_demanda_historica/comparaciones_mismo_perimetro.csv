@@ -1,0 +1,4 @@
+comparacion,segmentos,meses,clientes_A011,clientes_A012,variacion_coches,crecimiento_pct
+Año completo,"B, C, MD, MSUV, S, SSUV","1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",19543,19514,-29,-0.14839072813794818
+Enero a octubre,"B, C, MD, MSUV, S, SSUV","1, 2, 3, 4, 5, 6, 7, 8, 9, 10",16178,15470,-708,-4.376313512177033
+Meses sin sucesos marcados en ambos años,"B, C, MD, MSUV, S, SSUV","1, 2, 3, 4, 5, 6, 7",11586,11225,-361,-3.1158294493354055

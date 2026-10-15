@@ -1,0 +1,156 @@
+{
+  "fuentes_sha256": {
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+  },
+  "costes": {
+    "coste_marca_eur_dia": 2.0,
+    "tipo_credito_0_90": 0.01,
+    "tipo_credito_91_180": 0.05,
+    "dias_anio_financiero": 365,
+    "transfer_fraccion_bruto": 0.2,
+    "csuv_vm_mas_180_factor": 1.2,
+    "base_arancel_cambio": "nuevas_y_transfers",
+    "nota": "CSUV >180: 120% de su VM 91-180, hipótesis. Arancel y ahorro de cambio se imputan al vender llegadas A013 y transfers, sin recargar el stock ya importado en A012. Transfers: proxy de coste escenario del 04. CO2 se aplica a todo retail A013."
+  },
+  "politica_base": {
+    "nivel_servicio_objetivo": 0.9,
+    "metodo_seguridad": "max_formula_y_bootstrap",
+    "multiplicador_seguridad": 1.0,
+    "pipeline_multiplicador": 1.0,
+    "continuacion_A014_multiplicador": 1.0,
+    "capacidad_multiplicador_plan": 1.25,
+    "fraccion_transfer_deficit": 0.5,
+    "permitir_transfers_no_rentables": false,
+    "revision_activa": true,
+    "observacion_revision": "ventas",
+    "ventana_revision_meses": 3,
+    "peso_nueva_revision": 0.5,
+    "revision_minima": 0.5,
+    "revision_maxima": 1.75,
+    "dias_mes": 30,
+    "dia_venta": 15,
+    "edades_iniciales": "centros"
+  },
+  "etapa_07_sha256": {
+    "costes_mensuales_A013.npz": "b8af036d3d2714bc665c7539865497fcaf4411f2cf4adb3fd04b5f16a9b6bbf8",
+    "metodo.json": "25f808f469d985be6b7d57cc46262bf732aa902a9834cc591ebb1736a4157b73",
+    "parametros_vm.csv": "c5ad57dcb9c5ec478b63bfad2b619649ad1abb5c328365e815648f52eedcee66",
+    "resultados_economicos_replicas.csv": "09d5aa081537d4851e77a39ca1b5eccd800c66e37c190805b2e5a4dffe499196",
+    "resumen_economico.csv": "570c35275ff3fff2a86318c23df49a84dff5df0879846d6020319a162486a402",
+    "tabla_5.csv": "e7e94a47400c46767d92b0f3e9f006249c2935fbc2fa8a8ee61266d7503402b5"
+  },
+  "replicas_por_variante_escenario": 1000,
+  "variantes": [
+    {
+      "nombre": "Base",
+      "cambios": {}
+    },
+    {
+      "nombre": "Sin revisión",
+      "cambios": {
+        "revision_activa": false
+      }
+    },
+    {
+      "nombre": "Pedidos registrados",
+      "cambios": {
+        "observacion_revision": "pedidos"
+      }
+    },
+    {
+      "nombre": "Sin transfers",
+      "cambios": {
+        "fraccion_transfer_deficit": 0
+      }
+    },
+    {
+      "nombre": "Transfer de todo el déficit rentable",
+      "cambios": {
+        "fraccion_transfer_deficit": 1
+      }
+    },
+    {
+      "nombre": "Pipeline -25%",
+      "cambios": {
+        "pipeline_multiplicador": 0.75
+      }
+    },
+    {
+      "nombre": "Pipeline +25%",
+      "cambios": {
+        "pipeline_multiplicador": 1.25
+      }
+    },
+    {
+      "nombre": "Seguridad mitad",
+      "cambios": {
+        "multiplicador_seguridad": 0.5
+      }
+    },
+    {
+      "nombre": "Seguridad +50%",
+      "cambios": {
+        "multiplicador_seguridad": 1.5
+      }
+    },
+    {
+      "nombre": "Edades iniciales jóvenes",
+      "cambios": {
+        "edades_iniciales": "jovenes"
+      }
+    },
+    {
+      "nombre": "Edades iniciales mayores",
+      "cambios": {
+        "edades_iniciales": "mayores"
+      }
+    },
+    {
+      "nombre": "Seguridad 75%",
+      "cambios": {
+        "multiplicador_seguridad": 0.75
+      }
+    },
+    {
+      "nombre": "Seguridad 125%",
+      "cambios": {
+        "multiplicador_seguridad": 1.25
+      }
+    },
+    {
+      "nombre": "Seguridad doble",
+      "cambios": {
+        "multiplicador_seguridad": 2
+      }
+    },
+    {
+      "nombre": "Seguridad mitad y transfer completo",
+      "cambios": {
+        "multiplicador_seguridad": 0.5,
+        "fraccion_transfer_deficit": 1
+      }
+    },
+    {
+      "nombre": "Seguridad +50% y transfer completo",
+      "cambios": {
+        "multiplicador_seguridad": 1.5,
+        "fraccion_transfer_deficit": 1
+      }
+    }
+  ],
+  "criterio": "Maximizar peor media de contribución entre tres escenarios dentro de políticas ensayadas. Filtro adicional: servicio medio >=95% en cada escenario.",
+  "sensibilidad_costes": "Mismas trayectorias físicas; aísla valoración, sin volver a decidir transfers ni producción.",
+  "limites": "Muestras pareadas, capacidad física común. No probabilidad de escenarios, no optimización global, selección y evaluación en mismas réplicas.",
+  "salidas_sha256": {
+    "comparacion_politicas.csv": "5aed21ad183f4b5160034056bb6bfbe41e7abe3d764876a471b6e5519da83d8b",
+    "diferencias_pareadas.csv": "c8bc157dde0de283015ed1367282fb07754b3be88df149185f2ee0c5bd9791df",
+    "ranking_robusto.csv": "89fba12d18ee7b578f666a29aa1646eb926c50b01e8f09faf6586ca8d37ba231",
+    "sensibilidad_costes.csv": "3078feabed536f2860aaef33eeebdb2cfa2e3dd0c8b7972a0fa09aaa6ce8542c"
+  }
+}

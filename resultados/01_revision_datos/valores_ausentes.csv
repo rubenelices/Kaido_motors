@@ -1,0 +1,19 @@
+archivo,columna,ausentes,explicados_por_regla,pendientes,interpretacion,decision
+ventas_mensual,u_0_90,1533,1533,0,Antigüedad de ventas disponible desde A009 febrero.,No imputar automáticamente.
+ventas_mensual,u_91_180,1533,1533,0,Antigüedad de ventas disponible desde A009 febrero.,No imputar automáticamente.
+ventas_mensual,u_mas_180,1533,1533,0,Antigüedad de ventas disponible desde A009 febrero.,No imputar automáticamente.
+ventas_mensual,pvp_medio,1128,1128,0,Media indefinida en una celda sin matriculaciones.,No imputar automáticamente.
+ventas_mensual,pff_medio,1128,1128,0,Media indefinida en una celda sin matriculaciones.,No imputar automáticamente.
+ventas_mensual,vm_medio,1128,1128,0,Media indefinida en una celda sin matriculaciones.,No imputar automáticamente.
+ventas_mensual,dias_0_90_medio,1840,1840,0,No hay medición histórica o no hay coches en ese tramo.,No imputar automáticamente.
+ventas_mensual,dias_91_180_medio,1956,1956,0,No hay medición histórica o no hay coches en ese tramo.,No imputar automáticamente.
+ventas_mensual,dias_mas_180_medio,1991,1991,0,No hay medición histórica o no hay coches en ese tramo.,No imputar automáticamente.
+ventas_mensual,meses_desde_renovacion,687,687,0,Aún no ha ocurrido una renovación registrada del segmento.,No imputar automáticamente.
+mercado_mensual,pct_diesel,112,110,2,Composición o potencia media indefinida en una celda sin mercado. También hay ausencias con una matriculación; la causa no está documentada.,Conservar la matrícula y el hueco; estas variables de composición no se usan para calcular clientes.
+mercado_mensual,pct_electrificado,112,110,2,Composición o potencia media indefinida en una celda sin mercado. También hay ausencias con una matriculación; la causa no está documentada.,Conservar la matrícula y el hueco; estas variables de composición no se usan para calcular clientes.
+mercado_mensual,pct_renting,836,835,1,Renting disponible desde A004; sin media si el mercado es cero. También hay ausencias con una matriculación; la causa no está documentada.,Conservar la matrícula y el hueco; estas variables de composición no se usan para calcular clientes.
+mercado_mensual,cv_medio,112,110,2,Composición o potencia media indefinida en una celda sin mercado. También hay ausencias con una matriculación; la causa no está documentada.,Conservar la matrícula y el hueco; estas variables de composición no se usan para calcular clientes.
+stock_mensual,wholesale,7,7,0,Facturación disponible desde A009 febrero.,No imputar automáticamente.
+segmentos,vm_real_mas_180_eur,1,0,1,CSUV solo tiene cinco meses de historia; VM de más de 180 días no observado.,"Necesitará una hipótesis y sensibilidad en la etapa de costes, nunca cero por defecto."
+codigos,primer_mes,7,7,0,Código nuevo de A013 que todavía no tiene ventas.,No imputar automáticamente.
+codigos,ultimo_mes,7,7,0,Código nuevo de A013 que todavía no tiene ventas.,No imputar automáticamente.

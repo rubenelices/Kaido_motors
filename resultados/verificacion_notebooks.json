@@ -1,0 +1,53 @@
+{
+  "python": "3.12.14",
+  "notebooks": [
+    {
+      "notebook": "01_datos_y_demanda_historica.ipynb",
+      "celdas_codigo": 13,
+      "segundos": 11.09,
+      "sha256": "c9281c1e0b84d4342422b453418be61d75a691b044aa8bf520f6e6efc2c2c026",
+      "estado": "Correcto"
+    },
+    {
+      "notebook": "02_modelo_y_validacion.ipynb",
+      "celdas_codigo": 13,
+      "segundos": 16.79,
+      "sha256": "ea376dd773b7ef5f00b3d0e089f764c6b130e4d1beb6b081fbc55097ac7820d9",
+      "estado": "Correcto"
+    },
+    {
+      "notebook": "03_escenarios_produccion_y_simulacion.ipynb",
+      "celdas_codigo": 34,
+      "segundos": 16.51,
+      "sha256": "800ed6b28b0d48e5c8469209f0c043d7c5353165b8214db6afec6a667af9dfd0",
+      "estado": "Correcto"
+    },
+    {
+      "notebook": "04_costes_y_politicas.ipynb",
+      "celdas_codigo": 18,
+      "segundos": 15.85,
+      "sha256": "42ee1faf484a476323b67b0aec9cf5b6b6589917ca397a78b2e344630f72257f",
+      "estado": "Correcto"
+    }
+  ],
+  "fuentes_sin_cambios": true,
+  "fuentes_sha256": {
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+  },
+  "dependencias": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0"
+  }
+}

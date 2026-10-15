@@ -1,0 +1,27 @@
+{
+  "base": "matriculaciones menos automatriculaciones; no se restan ventas especiales",
+  "adelanto": "indicadores conservados; referencia estacional descartada por sensibilidad",
+  "stock": "señales descriptivas; no se imputan ventas perdidas",
+  "gama_comparable": [
+    "B",
+    "C",
+    "MD",
+    "MSUV",
+    "S",
+    "SSUV"
+  ],
+  "stock_umbral_base": 0.15,
+  "pendientes": [
+    "pedidos no atendidos desconocidos",
+    "efecto causal del adelanto no identificado"
+  ],
+  "fuentes_sha256": {
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02"
+  }
+}

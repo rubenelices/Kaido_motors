@@ -1,0 +1,108 @@
+archivo,columna,tipo_observado,unidad,descripcion,ausentes,pct_ausentes,valores_distintos,pct_cardinalidad,minimo,maximo,media,mediana,desviacion,ceros,negativos,longitud_minima,longitud_maxima,frecuentes
+ventas_mensual,t,int64,mes ordinal,Índice mensual consecutivo; A001 enero es t=1.,0,0.0,120,4.761904761904762,25.0,144.0,84.5,84.5,34.64668834247274,0.0,0.0,,,
+ventas_mensual,periodo,object,código Axxxmm01,Etiqueta del mes del caso; no es una fecha de un año real.,0,0.0,120,4.761904761904762,,,,,,,,8.0,8.0,A0030101: 21; A0030201: 21; A0100501: 21; A0100401: 21; A0100301: 21
+ventas_mensual,anio,object,código Axxx,Año del caso.,0,0.0,10,0.3968253968253968,,,,,,,,4.0,4.0,A003: 252; A004: 252; A005: 252; A006: 252; A007: 252
+ventas_mensual,mes,int64,1 a 12,Mes del año.,0,0.0,12,0.47619047619047616,1.0,12.0,6.5,6.5,3.4527376645080734,0.0,0.0,,,
+ventas_mensual,segmento,object,categoría,Grupo de coches al que pertenece el registro.,0,0.0,7,0.2777777777777778,,,,,,,,1.0,4.0,B: 360; C: 360; CSUV: 360; MD: 360; MSUV: 360
+ventas_mensual,descripcion,object,texto,Nombre del segmento.,0,0.0,7,0.2777777777777778,,,,,,,,7.0,13.0,Pequeño: 360; Compacto: 360; SUV compacto: 360; Berlina media: 360; SUV medio: 360
+ventas_mensual,canal,object,categoría,Tipo de comprador.,0,0.0,3,0.11904761904761904,,,,,,,,12.0,16.0,ALQUILADORES: 840; EMPRESAS_RENTING: 840; PARTICULARES: 840
+ventas_mensual,unidades,int64,coches,"Matriculaciones; en códigos, ventas acumuladas del código.",0,0.0,329,13.055555555555555,0.0,789.0,49.61507936507937,3.0,103.67299918980821,1128.0,0.0,,,
+ventas_mensual,u_automatriculacion,int64,coches,"De las unidades, coches matriculados por marca o concesionario.",0,0.0,79,3.134920634920635,0.0,169.0,5.313095238095238,0.0,13.043792362536298,1408.0,0.0,,,
+ventas_mensual,u_venta_especial,int64,coches,"De las unidades, operaciones especiales; no son un conjunto disjunto de otros indicadores.",0,0.0,103,4.087301587301587,0.0,216.0,6.553174603174603,0.0,19.730406832917748,1565.0,0.0,,,
+ventas_mensual,u_0_90,float64,coches,"Matriculaciones de coches vendidos con hasta 90 días en la red, desde A009 febrero.",1533,60.83333333333333,230,9.126984126984127,0.0,621.0,64.67375886524823,18.0,110.42101318358505,307.0,0.0,,,
+ventas_mensual,u_91_180,float64,coches,Matriculaciones con antigüedad entre 91 y 180 días.,1533,60.83333333333333,86,3.4126984126984126,0.0,221.0,10.97872340425532,2.0,21.033985664456107,423.0,0.0,,,
+ventas_mensual,u_mas_180,float64,coches,Matriculaciones con antigüedad superior a 180 días.,1533,60.83333333333333,50,1.9841269841269842,0.0,94.0,5.321175278622087,1.0,9.813741423476202,458.0,0.0,,,
+ventas_mensual,pvp_medio,float64,euros por coche,"Precio medio de tarifa al cliente, con impuestos.",1128,44.761904761904766,1252,49.682539682539684,12959.0,41610.0,26617.305316091955,27047.0,6488.044468341601,0.0,0.0,,,
+ventas_mensual,pff_medio,float64,euros por coche,Precio medio franco fábrica.,1128,44.761904761904766,1233,48.92857142857143,10006.0,32789.0,20884.91091954023,21383.0,5163.265167902178,0.0,0.0,,,
+ventas_mensual,vm_medio,float64,euros por coche,Gasto comercial real medio de las matriculaciones de la celda.,1128,44.761904761904766,1045,41.46825396825397,0.0,7067.0,2309.8599137931033,2144.5,923.0660898561968,5.0,0.0,,,
+ventas_mensual,dias_0_90_medio,float64,días,Días medios de los coches matriculados del primer tramo.,1840,73.01587301587301,62,2.4603174603174605,12.0,90.0,31.108823529411765,29.5,11.03068067435785,0.0,0.0,,,
+ventas_mensual,dias_91_180_medio,float64,días,Días medios de los coches matriculados del segundo tramo.,1956,77.61904761904762,74,2.9365079365079363,91.0,176.0,127.677304964539,127.0,14.175834984917822,0.0,0.0,,,
+ventas_mensual,dias_mas_180_medio,float64,días,Días medios de los coches matriculados del tercer tramo.,1991,79.0079365079365,171,6.785714285714286,181.0,615.0,262.16824196597355,253.0,52.537036475597965,0.0,0.0,,,
+ventas_mensual,renovacion_gama,int64,0 o 1,Mes en que empieza a venderse un código nuevo con volumen.,0,0.0,2,0.07936507936507936,0.0,1.0,0.047619047619047616,0.0,0.21300112132072957,2400.0,0.0,,,
+ventas_mensual,meses_desde_renovacion,float64,meses,Tiempo desde la última renovación de gama.,687,27.26190476190476,49,1.9444444444444444,0.0,48.0,12.013093289689035,9.0,10.468753824506829,120.0,0.0,,,
+mercado_mensual,t,int64,mes ordinal,Índice mensual consecutivo; A001 enero es t=1.,0,0.0,144,4.761904761904762,1.0,144.0,72.5,72.5,41.575091782203486,0.0,0.0,,,
+mercado_mensual,periodo,object,código Axxxmm01,Etiqueta del mes del caso; no es una fecha de un año real.,0,0.0,144,4.761904761904762,,,,,,,,8.0,8.0,A0010101: 21; A0010201: 21; A0080901: 21; A0081001: 21; A0081101: 21
+mercado_mensual,anio,object,código Axxx,Año del caso.,0,0.0,12,0.3968253968253968,,,,,,,,4.0,4.0,A001: 252; A002: 252; A003: 252; A004: 252; A005: 252
+mercado_mensual,mes,int64,1 a 12,Mes del año.,0,0.0,12,0.3968253968253968,1.0,12.0,6.5,6.5,3.4526234470163697,0.0,0.0,,,
+mercado_mensual,segmento,object,categoría,Grupo de coches al que pertenece el registro.,0,0.0,7,0.23148148148148148,,,,,,,,1.0,4.0,B: 432; C: 432; CSUV: 432; MD: 432; MSUV: 432
+mercado_mensual,descripcion,object,texto,Nombre del segmento.,0,0.0,7,0.23148148148148148,,,,,,,,7.0,13.0,Pequeño: 432; Compacto: 432; SUV compacto: 432; Berlina media: 432; SUV medio: 432
+mercado_mensual,canal,object,categoría,Tipo de comprador.,0,0.0,3,0.0992063492063492,,,,,,,,12.0,16.0,ALQUILADORES: 1008; EMPRESAS_RENTING: 1008; PARTICULARES: 1008
+mercado_mensual,unidades,int64,coches,"Matriculaciones; en códigos, ventas acumuladas del código.",0,0.0,2066,68.32010582010582,0.0,21586.0,2667.011243386243,1427.0,3297.8941016446383,110.0,0.0,,,
+mercado_mensual,marca_propia,int64,coches,"De las matriculaciones del mercado, las de Kaido.",0,0.0,363,12.003968253968255,0.0,789.0,48.26917989417989,2.0,101.02735075014014,1381.0,0.0,,,
+mercado_mensual,pct_diesel,float64,fracción 0 a 1,Peso del diésel en el mercado de la celda.,112,3.7037037037037033,821,27.1494708994709,0.0,1.0,0.5975899725274725,0.684,0.3223208747228476,288.0,0.0,,,
+mercado_mensual,pct_electrificado,float64,fracción 0 a 1,"Peso de híbridos, enchufables y eléctricos.",112,3.7037037037037033,181,5.985449735449736,0.0,0.667,0.01716758241758242,0.0,0.04046942949174386,1797.0,0.0,,,
+mercado_mensual,pct_renting,float64,fracción 0 a 1,"Peso del renting, disponible desde A004.",836,27.645502645502646,540,17.857142857142858,0.0,1.0,0.16066087751371116,0.066,0.19515707433516558,950.0,0.0,,,
+mercado_mensual,cv_medio,float64,CV,Potencia media de los coches de la celda de mercado.,112,3.7037037037037033,162,5.357142857142857,73.0,424.0,125.69745879120879,125.0,29.671222938996905,0.0,0.0,,,
+mercado_mensual,n_marcas,int64,marcas,Número de marcas presentes en la celda de mercado.,0,0.0,25,0.8267195767195767,0.0,24.0,11.593584656084657,13.0,6.518187881037704,80.0,0.0,,,
+stock_mensual,t,int64,mes ordinal,Índice mensual consecutivo; A001 enero es t=1.,0,0.0,48,14.285714285714286,97.0,144.0,120.5,120.5,13.87406040922433,0.0,0.0,,,
+stock_mensual,periodo,object,código Axxxmm01,Etiqueta del mes del caso; no es una fecha de un año real.,0,0.0,48,14.285714285714286,,,,,,,,8.0,8.0,A0090101: 7; A0090201: 7; A0110301: 7; A0110401: 7; A0110501: 7
+stock_mensual,anio,object,código Axxx,Año del caso.,0,0.0,4,1.1904761904761905,,,,,,,,4.0,4.0,A009: 84; A010: 84; A011: 84; A012: 84
+stock_mensual,mes,int64,1 a 12,Mes del año.,0,0.0,12,3.5714285714285716,1.0,12.0,6.5,6.5,3.4572010074582225,0.0,0.0,,,
+stock_mensual,segmento,object,categoría,Grupo de coches al que pertenece el registro.,0,0.0,7,2.0833333333333335,,,,,,,,1.0,4.0,B: 48; C: 48; CSUV: 48; MD: 48; MSUV: 48
+stock_mensual,descripcion,object,texto,Nombre del segmento.,0,0.0,7,2.0833333333333335,,,,,,,,7.0,13.0,Pequeño: 48; Compacto: 48; SUV compacto: 48; Berlina media: 48; SUV medio: 48
+stock_mensual,stock_total,int64,coches,Existencias de la red al cierre del mes.,0,0.0,252,75.0,0.0,1900.0,428.42261904761904,282.5,395.241003326745,44.0,0.0,,,
+stock_mensual,s_0_90,int64,coches,"Del stock final, coches con hasta 90 días desde la factura.",0,0.0,242,72.02380952380952,0.0,1530.0,309.60714285714283,189.0,307.6155292882254,45.0,0.0,,,
+stock_mensual,s_91_180,int64,coches,"Del stock final, coches entre 91 y 180 días.",0,0.0,163,48.51190476190476,0.0,516.0,82.11904761904762,55.0,92.26783269123658,49.0,0.0,,,
+stock_mensual,s_mas_180,int64,coches,"Del stock final, coches con más de 180 días.",0,0.0,105,31.25,0.0,201.0,36.69642857142857,23.0,40.19129762917926,57.0,0.0,,,
+stock_mensual,s_sin_cliente,int64,coches,"Del stock final, coches sin comprador con contrato.",0,0.0,229,68.1547619047619,0.0,1475.0,298.0595238095238,192.5,291.1296208698666,44.0,0.0,,,
+stock_mensual,wholesale,float64,coches,"Coches facturados a la red en el mes, desde A009 febrero.",7,2.083333333333333,224,66.66666666666667,0.0,1702.0,242.08206686930092,137.0,251.5173876559551,43.0,0.0,,,
+macro_mensual,t,int64,mes ordinal,Índice mensual consecutivo; A001 enero es t=1.,0,0.0,144,100.0,1.0,144.0,72.5,72.5,41.71330722922842,0.0,0.0,,,
+macro_mensual,periodo,object,código Axxxmm01,Etiqueta del mes del caso; no es una fecha de un año real.,0,0.0,144,100.0,,,,,,,,8.0,8.0,A0010101: 1; A0010201: 1; A0080901: 1; A0081001: 1; A0081101: 1
+macro_mensual,anio,object,código Axxx,Año del caso.,0,0.0,12,8.333333333333334,,,,,,,,4.0,4.0,A001: 12; A002: 12; A003: 12; A004: 12; A005: 12
+macro_mensual,mes,int64,1 a 12,Mes del año.,0,0.0,12,8.333333333333334,1.0,12.0,6.5,6.5,3.4641016151377544,0.0,0.0,,,
+macro_mensual,pib_var,float64,"porcentaje, puntos",Variación anual del PIB.,0,0.0,48,33.333333333333336,-4.364,4.162,0.6320625,1.3445,2.4303137965934742,0.0,48.0,,,
+macro_mensual,consumo_privado_var,float64,"porcentaje, puntos",Variación anual del consumo de hogares.,0,0.0,48,33.333333333333336,-5.328,3.308,0.06145833333333349,1.1495000000000002,2.6568685571025674,0.0,57.0,,,
+macro_mensual,paro,float64,"porcentaje, puntos",Tasa de paro.,0,0.0,48,33.333333333333336,9.6,26.94,19.49583333333333,19.865000000000002,4.469681939842771,0.0,0.0,,,
+macro_mensual,confianza_consumidor,float64,índice,Índice de confianza de consumidores.,0,0.0,134,93.05555555555556,37.6,108.77,79.08604166666666,77.08000000000001,19.188707314924372,0.0,0.0,,,
+macro_mensual,hipotecas,float64,número,Hipotecas firmadas en el mes.,0,0.0,144,100.0,12146.0,93838.0,32896.90972222222,27101.5,17208.83249470904,0.0,0.0,,,
+macro_mensual,tipo_credito_consumo,float64,"porcentaje, puntos",Tipo de interés del crédito al consumo.,0,0.0,139,96.52777777777777,6.42,11.147,8.403284722222221,8.118,1.0852169752640808,0.0,0.0,,,
+macro_mensual,indice_actividad,float64,índice,Índice de actividad de empresas.,0,0.0,144,100.0,82.845,130.685,104.00491666666666,102.47,10.23533991530414,0.0,0.0,,,
+macro_mensual,indice_comercio,float64,índice,Índice de actividad del comercio.,0,0.0,144,100.0,83.596,131.426,104.70547916666666,102.674,11.661750815528473,0.0,0.0,,,
+macro_mensual,viajeros_var,float64,"porcentaje, puntos",Variación anual de viajeros alojados.,0,0.0,144,100.0,-19.824,19.053,2.262840277777778,3.558,6.071527469547615,0.0,40.0,,,
+macro_mensual,incentivo_publico,int64,0 o 1,Mes con plan público de ayuda.,0,0.0,2,1.3888888888888888,0.0,1.0,0.2986111111111111,0.0,0.45924628295409026,101.0,0.0,,,
+macro_mensual,adelanto_compras,int64,0 o 1,Mes con compras adelantadas por normativa.,0,0.0,2,1.3888888888888888,0.0,1.0,0.020833333333333332,0.0,0.1433246595738432,141.0,0.0,,,
+macro_mensual,caida_tras_adelanto,int64,0 o 1,Mes con caída después de un adelanto.,0,0.0,2,1.3888888888888888,0.0,1.0,0.027777777777777776,0.0,0.1649091483060512,140.0,0.0,,,
+macro_mensual,subida_iva,int64,0 o 1,Mes anterior a una subida del IVA.,0,0.0,2,1.3888888888888888,0.0,1.0,0.013888888888888888,0.0,0.11743834038236318,142.0,0.0,,,
+macro_mensual,dias_laborables,int64,días,Días laborables observados o del calendario facilitado.,0,0.0,6,4.166666666666667,18.0,23.0,21.131944444444443,21.0,1.0394089752696087,0.0,0.0,,,
+macro_mensual,semana_santa,int64,0 o 1,Indica el mes con Semana Santa.,0,0.0,2,1.3888888888888888,0.0,1.0,0.08333333333333333,0.0,0.2773500981126146,132.0,0.0,,,
+segmentos,segmento,object,categoría,Grupo de coches al que pertenece el registro.,0,0.0,7,100.0,,,,,,,,1.0,4.0,B: 1; C: 1; MD: 1; SSUV: 1; CSUV: 1
+segmentos,descripcion,object,texto,Nombre del segmento.,0,0.0,7,100.0,,,,,,,,7.0,13.0,Pequeño: 1; Compacto: 1; Berlina media: 1; SUV pequeño: 1; SUV compacto: 1
+segmentos,letra,object,texto,Letra de la familia de códigos; D se comparte entre tres segmentos.,0,0.0,5,71.42857142857143,,,,,,,,1.0,1.0,D: 3; B: 1; G: 1; K: 1; N: 1
+segmentos,primer_mes,object,código Axxxmm01,Primer mes de ventas; vacío para códigos futuros sin historia.,0,0.0,4,57.142857142857146,,,,,,,,8.0,8.0,A0030101: 4; A0080401: 1; A0120801: 1; A0050101: 1
+segmentos,unidades_totales,int64,coches,Matriculaciones históricas del segmento.,0,0.0,7,100.0,1435.0,46230.0,17861.428571428572,13144.0,15767.65846976169,0.0,0.0,,,
+segmentos,unidades_ult_anio,int64,coches,Matriculaciones del segmento en A012.,0,0.0,7,100.0,589.0,8213.0,3310.714285714286,1764.0,2977.0246172023117,0.0,0.0,,,
+segmentos,codigos,int64,códigos,Número de nombres de código distintos con ventas; puede haber generaciones reutilizadas.,0,0.0,5,71.42857142857143,1.0,16.0,9.0,10.0,4.47213595499958,0.0,0.0,,,
+segmentos,codigos_A013,int64,códigos,Número de códigos en la tarifa de A013.,0,0.0,5,71.42857142857143,1.0,5.0,3.0,3.0,1.4142135623730951,0.0,0.0,,,
+segmentos,codigos_nuevos_A013,int64,códigos,Códigos de A013 que no tienen historia de ventas.,0,0.0,3,42.857142857142854,0.0,2.0,1.0,1.0,1.0,3.0,0.0,,,
+segmentos,pvp_medio,float64,euros por coche,"Precio medio de tarifa al cliente, con impuestos.",0,0.0,7,100.0,17534.0,34968.0,28455.571428571428,31617.0,6215.330209976588,0.0,0.0,,,
+segmentos,pff_medio,float64,euros por coche,Precio medio franco fábrica.,0,0.0,7,100.0,13644.0,27552.0,22488.285714285714,24843.0,5007.075417656023,0.0,0.0,,,
+segmentos,iedmt_pct,float64,fracción 0 a 1,Tipo del impuesto de matriculación.,0,0.0,5,71.42857142857143,0.011,0.0497,0.03932857142857143,0.0475,0.014778894217285484,0.0,0.0,,,
+segmentos,margen_conc_base_pct,float64,fracción 0 a 1,Margen base contractual del concesionario.,0,0.0,3,42.857142857142854,0.09,0.12,0.10714285714285714,0.1,0.012535663410560172,0.0,0.0,,,
+segmentos,margen_conc_var_pct,float64,fracción 0 a 1,Margen variable contractual del concesionario.,0,0.0,2,28.571428571428573,0.0178,0.023,0.019285714285714285,0.0178,0.002537340189666186,0.0,0.0,,,
+segmentos,margen_bruto_conc_eur,float64,euros por coche,Margen bruto del concesionario; no su beneficio neto.,0,0.0,7,100.0,1471.0,3797.0,2887.714285714286,3220.0,840.3314255470307,0.0,0.0,,,
+segmentos,precio_conc_eur,float64,euros por coche,PFF menos margen base facturado al concesionario.,0,0.0,7,100.0,12416.0,24246.0,20035.714285714286,21862.0,4283.163656079687,0.0,0.0,,,
+segmentos,beneficio_bruto_marca_eur,float64,euros por coche,Beneficio bruto de tarifa A013 antes de VM y prima CO2.,0,0.0,7,100.0,1842.0,7782.0,5529.285714285715,6174.0,2193.5221079567987,0.0,0.0,,,
+segmentos,prima_co2_eur,float64,euros por coche,Cargo por coche si la matriz traslada la penalización a la filial.,0,0.0,7,100.0,1912.0,4493.0,2861.0,2555.0,1071.813727597602,0.0,0.0,,,
+segmentos,vm_tarifa_eur,float64,euros por coche,VM presupuestado en la tarifa A013.,0,0.0,7,100.0,1505.0,2926.0,2150.5714285714284,2173.0,551.0658935623027,0.0,0.0,,,
+segmentos,cvp_tarifa_eur,float64,euros por coche,Beneficio bruto menos VM presupuestado.,0,0.0,7,100.0,-533.0,6021.0,3378.714285714286,3328.0,2155.543296888723,0.0,1.0,,,
+segmentos,vm_real_eur,float64,euros por coche,VM real medio de A011 y A012.,0,0.0,7,100.0,1910.0,3802.0,2445.0,2265.0,627.6846341914066,0.0,0.0,,,
+segmentos,cvp_real_eur,float64,euros por coche,Beneficio bruto menos VM real.,0,0.0,7,100.0,-69.0,5714.0,3084.1428571428573,3760.0,2003.4617897172739,0.0,1.0,,,
+segmentos,vm_real_0_90_eur,float64,euros por coche,VM real de coches vendidos en el primer tramo de edad.,0,0.0,7,100.0,1717.0,3517.0,2238.1428571428573,1976.0,610.8312447180559,0.0,0.0,,,
+segmentos,vm_real_91_180_eur,float64,euros por coche,VM real de coches vendidos en el segundo tramo.,0,0.0,7,100.0,1745.0,3701.0,2392.1428571428573,2143.0,640.2086713386057,0.0,0.0,,,
+segmentos,vm_real_mas_180_eur,float64,euros por coche,VM real de coches vendidos con más de 180 días.,1,14.285714285714285,6,85.71428571428571,1583.0,3964.0,2570.3333333333335,2416.5,843.6929931359313,0.0,0.0,,,
+segmentos,credito_dia_0_90_eur,float64,euros por coche y día,Interés diario del concesionario en el primer tramo.,0,0.0,7,100.0,0.37,0.75,0.6171428571428571,0.68,0.13756383799461805,0.0,0.0,,,
+segmentos,credito_dia_91_180_eur,float64,euros por coche y día,Interés diario del concesionario en el segundo tramo.,0,0.0,7,100.0,1.87,3.77,3.0814285714285714,3.4,0.6852840912455839,0.0,0.0,,,
+codigos,letra,object,texto,Letra de la familia de códigos; D se comparte entre tres segmentos.,0,0.0,5,6.578947368421052,,,,,,,,1.0,1.0,D: 33; K: 14; B: 11; G: 11; N: 7
+codigos,segmento,object,categoría,Grupo de coches al que pertenece el registro.,0,0.0,7,9.210526315789474,,,,,,,,1.0,4.0,B: 19; MSUV: 14; C: 11; SSUV: 11; MD: 11
+codigos,codigo_modelo,object,texto,Nombre del código; NA es un código válido.,0,0.0,68,89.47368421052632,,,,,,,,2.0,3.0,KF: 3; GS: 2; KR: 2; DJ: 2; DA: 2
+codigos,generacion,int64,entero,Distingue un código reutilizado años después.,0,0.0,3,3.9473684210526314,1.0,3.0,1.118421052631579,1.0,0.3639452436162302,0.0,0.0,,,
+codigos,primer_mes,object,código Axxxmm01,Primer mes de ventas; vacío para códigos futuros sin historia.,7,9.210526315789473,33,43.421052631578945,,,,,,,,8.0,8.0,A0030101: 14; A0110601: 5; A0100401: 4; A0110801: 4; A0061001: 3
+codigos,ultimo_mes,object,código Axxxmm01,Último mes de ventas; vacío para códigos futuros sin historia.,7,9.210526315789473,38,50.0,,,,,,,,8.0,8.0,A0121201: 16; A0101201: 4; A0090301: 3; A0120201: 3; A0041001: 3
+codigos,unidades,int64,coches,"Matriculaciones; en códigos, ventas acumuladas del código.",0,0.0,67,88.15789473684211,0.0,14457.0,1645.1315789473683,411.5,2589.4449306990114,7.0,0.0,,,
+codigos,en_tarifa_A013,int64,0 o 1,Indica si el código está en la gama del futuro A013.,0,0.0,2,2.6315789473684212,0.0,1.0,0.27631578947368424,0.0,0.45014617508912413,55.0,0.0,,,
+calendario_A013,t,int64,mes ordinal,Índice mensual consecutivo; A001 enero es t=1.,0,0.0,12,100.0,145.0,156.0,150.5,150.5,3.605551275463989,0.0,0.0,,,
+calendario_A013,periodo,object,código Axxxmm01,Etiqueta del mes del caso; no es una fecha de un año real.,0,0.0,12,100.0,,,,,,,,8.0,8.0,A0130101: 1; A0130201: 1; A0130301: 1; A0130401: 1; A0130501: 1
+calendario_A013,anio,object,código Axxx,Año del caso.,0,0.0,1,8.333333333333334,,,,,,,,4.0,4.0,A013: 12
+calendario_A013,mes,int64,1 a 12,Mes del año.,0,0.0,12,100.0,1.0,12.0,6.5,6.5,3.605551275463989,0.0,0.0,,,
+calendario_A013,dias_laborables,int64,días,Días laborables observados o del calendario facilitado.,0,0.0,4,33.333333333333336,20.0,23.0,21.25,21.0,0.8660254037844386,0.0,0.0,,,
+calendario_A013,semana_santa,int64,0 o 1,Indica el mes con Semana Santa.,0,0.0,2,16.666666666666668,0.0,1.0,0.08333333333333333,0.0,0.28867513459481287,11.0,0.0,,,

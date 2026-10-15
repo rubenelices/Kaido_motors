@@ -1,0 +1,1537 @@
+variante,escenario,segmento,metrica,delta_media,delta_p05,delta_p95,error_montecarlo_delta_media
+Base,Central,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,B,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,C,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,C,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,MD,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,MD,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,S,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Central,TOTAL,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Central,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Central,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Base,Central,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,B,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,C,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,C,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,MD,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,S,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Optimista,TOTAL,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Optimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Optimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Base,Optimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,B,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,C,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,C,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,MD,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,S,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Base,Pesimista,TOTAL,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Base,Pesimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Base,Pesimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Base,Pesimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin revisión,Central,B,contribucion_marca_eur,-25671.16,-131084.4,35504.3,1584.4356529340942
+Sin revisión,Central,B,ventas_perdidas,-20.68,-136.0,108.09999999999991,2.2621987408588002
+Sin revisión,Central,B,stock_medio,37.45558333333333,-54.13124999999999,166.14166666666662,2.1682818084691946
+Sin revisión,Central,B,servicio_unidades_pct,1.4058526411871741,-5.680202111622094,8.503825243578177,0.12919353751934004
+Sin revisión,Central,C,contribucion_marca_eur,-43974.727,-375374.0599999998,260372.6800000001,5805.094495459766
+Sin revisión,Central,C,ventas_perdidas,16.748,-135.14999999999998,192.0,2.95828496699455
+Sin revisión,Central,C,stock_medio,5.559958333333335,-186.38125000000002,296.5291666666665,4.553443609330679
+Sin revisión,Central,C,servicio_unidades_pct,-0.28999416786643184,-4.638676972327769,4.022504475927983,0.0761771478460924
+Sin revisión,Central,CSUV,contribucion_marca_eur,-425190.14239999995,-2565448.3200000003,27218.999999999964,26377.984173627832
+Sin revisión,Central,CSUV,ventas_perdidas,85.506,0.0,524.1999999999998,5.453031956766944
+Sin revisión,Central,CSUV,stock_medio,-6.741833333333332,-140.04374999999996,68.41666666666674,2.3607955971784627
+Sin revisión,Central,CSUV,servicio_unidades_pct,-2.4978556431039136,-14.310101587850145,0.0,0.14615683282923814
+Sin revisión,Central,MD,contribucion_marca_eur,18532.523199999967,-194219.31999999992,204361.49000000005,3652.046201010775
+Sin revisión,Central,MD,ventas_perdidas,-4.558,-40.0,39.0,0.7424054160644317
+Sin revisión,Central,MD,stock_medio,6.98275,-34.08541666666667,80.59166666666667,1.1619063132635243
+Sin revisión,Central,MD,servicio_unidades_pct,0.7908125662610737,-4.437874207703552,5.667787333692113,0.09537139889048475
+Sin revisión,Central,MSUV,contribucion_marca_eur,-42560.317199999765,-2637760.3299999954,2033884.5200000014,41647.17371601868
+Sin revisión,Central,MSUV,ventas_perdidas,-1.119,-298.05,383.0999999999999,6.121106009356298
+Sin revisión,Central,MSUV,stock_medio,49.42308333333333,-359.1125,670.8937499999997,10.434167106092254
+Sin revisión,Central,MSUV,servicio_unidades_pct,0.15867842594616957,-4.59010389565842,4.2073542241233755,0.07976074740419185
+Sin revisión,Central,S,contribucion_marca_eur,10089.653799999987,-236865.08999999962,339761.0900000001,5579.752475581208
+Sin revisión,Central,S,ventas_perdidas,-7.22,-59.0,42.049999999999955,0.8882728345664008
+Sin revisión,Central,S,stock_medio,34.24770833333333,-44.75416666666667,116.67500000000001,1.7214633658909155
+Sin revisión,Central,S,servicio_unidades_pct,1.1799565137602082,-3.82941334782769,7.88171745594391,0.1051198234781741
+Sin revisión,Central,SSUV,contribucion_marca_eur,45245.758,-479747.2299999991,722078.4799999995,12492.948883346407
+Sin revisión,Central,SSUV,ventas_perdidas,-29.704,-208.0,145.04999999999995,3.3381452331493304
+Sin revisión,Central,SSUV,stock_medio,93.30258333333333,-186.9916666666667,419.99999999999994,6.151046589874811
+Sin revisión,Central,SSUV,servicio_unidades_pct,0.5381937680796588,-2.063868852825755,3.3689350512968064,0.05157304603883993
+Sin revisión,Central,TOTAL,contribucion_marca_eur,-463528.4115999996,-3670082.529999991,1882039.2099999932,53258.47348673516
+Sin revisión,Central,TOTAL,ventas_perdidas,38.973,-382.25,617.0,9.819744683883417
+Sin revisión,Central,TOTAL,stock_medio,220.22983333333332,-331.6270833333332,889.8708333333326,12.146571118325685
+Sin revisión,Central,TOTAL,servicio_unidades_pct,-0.13309974011741377,-2.571460535612151,1.7660813014687753,0.042869741001327774
+Sin revisión,Optimista,B,contribucion_marca_eur,-3300.313039999983,-68013.57599999991,48712.996000000014,1125.9704351998048
+Sin revisión,Optimista,B,ventas_perdidas,91.641,-94.05,339.0,4.287886202674588
+Sin revisión,Optimista,B,stock_medio,-28.689958333333333,-81.2625,58.6666666666666,1.3414850328688424
+Sin revisión,Optimista,B,servicio_unidades_pct,-4.050119718242736,-14.7657179445628,5.208074422290651,0.19445159194375614
+Sin revisión,Optimista,C,contribucion_marca_eur,-434776.73295999994,-1142383.4709999992,317435.4909999998,14502.568923996045
+Sin revisión,Optimista,C,ventas_perdidas,218.846,-132.05,535.1999999999998,6.712804184841386
+Sin revisión,Optimista,C,stock_medio,-91.43333333333334,-203.43958333333333,104.3833333333331,3.0635539033561607
+Sin revisión,Optimista,C,servicio_unidades_pct,-4.5883079316555415,-10.708676725413119,3.5515535669808713,0.14371609733867594
+Sin revisión,Optimista,CSUV,contribucion_marca_eur,-1238231.38152,-4491093.796000003,23696.99999999995,47198.41057281227
+Sin revisión,Optimista,CSUV,ventas_perdidas,241.577,0.0,862.05,9.10548328738771
+Sin revisión,Optimista,CSUV,stock_medio,-56.581375,-169.29999999999998,68.41666666666674,2.388917149828397
+Sin revisión,Optimista,CSUV,servicio_unidades_pct,-6.462819090839803,-18.52885486429568,0.0,0.21494617295784976
+Sin revisión,Optimista,MD,contribucion_marca_eur,-92812.45404000006,-421503.9819999999,163723.53999999972,5771.588930207778
+Sin revisión,Optimista,MD,ventas_perdidas,19.727,-29.0,77.04999999999995,1.0484272367077605
+Sin revisión,Optimista,MD,stock_medio,-24.942333333333327,-50.87708333333333,28.058333333333252,0.8132781116042607
+Sin revisión,Optimista,MD,servicio_unidades_pct,-1.997690438417656,-7.85208806937778,3.8773906691863327,0.11504517321862799
+Sin revisión,Optimista,MSUV,contribucion_marca_eur,-2897235.5578,-8167215.204999998,1554310.1389999867,95778.81647439656
+Sin revisión,Optimista,MSUV,ventas_perdidas,396.92,-204.05,1086.1999999999998,12.708560623182828
+Sin revisión,Optimista,MSUV,stock_medio,-215.7410416666667,-439.34375,158.83958333333325,6.041143538840982
+Sin revisión,Optimista,MSUV,servicio_unidades_pct,-4.1351587622803905,-10.658386669152224,2.680364370807126,0.13106677221231344
+Sin revisión,Optimista,S,contribucion_marca_eur,-82310.86736,-706057.7889999993,287440.56649999984,9187.274457230036
+Sin revisión,Optimista,S,ventas_perdidas,13.992,-39.0,113.0,1.4447543913244394
+Sin revisión,Optimista,S,stock_medio,-11.309583333333334,-76.79583333333333,66.33333333333331,1.4858733035362273
+Sin revisión,Optimista,S,servicio_unidades_pct,-0.8711169280796396,-8.346139699036796,4.769065080594242,0.12268290422289643
+Sin revisión,Optimista,SSUV,contribucion_marca_eur,-3915253.69452,-5586181.754500002,-2281503.7485000016,31148.042368864615
+Sin revisión,Optimista,SSUV,ventas_perdidas,1003.188,597.8,1428.0,7.7682604569186875
+Sin revisión,Optimista,SSUV,stock_medio,-149.53241666666665,-253.07916666666662,-76.7333333333334,1.7421616122470824
+Sin revisión,Optimista,SSUV,servicio_unidades_pct,-9.746823423169651,-12.598668790407606,-6.692990955435389,0.05626898662541095
+Sin revisión,Optimista,TOTAL,contribucion_marca_eur,-8663921.001240002,-15028726.80099998,-3200488.251499991,112118.65396853034
+Sin revisión,Optimista,TOTAL,ventas_perdidas,1985.891,1038.8500000000001,3052.6499999999996,19.284893939383053
+Sin revisión,Optimista,TOTAL,stock_medio,-578.2300416666666,-915.2583333333333,-131.01458333333366,7.794422553041642
+Sin revisión,Optimista,TOTAL,servicio_unidades_pct,-6.554114882070697,-9.461246271772966,-3.5959183207472294,0.05565193705531574
+Sin revisión,Pesimista,B,contribucion_marca_eur,-149341.47584,-444758.83999999997,65489.61600000022,5160.359880077044
+Sin revisión,Pesimista,B,ventas_perdidas,-29.812,-125.05,17.09999999999991,1.5981616866815376
+Sin revisión,Pesimista,B,stock_medio,84.92783333333334,-39.25833333333331,219.29999999999998,2.448036816734876
+Sin revisión,Pesimista,B,servicio_unidades_pct,1.9737588467146188,-1.0537406937918559,8.39438969272107,0.1007691101777519
+Sin revisión,Pesimista,C,contribucion_marca_eur,-140077.10712,-549361.5239999995,212975.22899999985,7651.2968169962905
+Sin revisión,Pesimista,C,ventas_perdidas,-33.624,-255.1,78.14999999999986,3.5293178815046833
+Sin revisión,Pesimista,C,stock_medio,104.16333333333334,-131.82083333333333,364.0687499999999,4.664245718755658
+Sin revisión,Pesimista,C,servicio_unidades_pct,1.1081422364038576,-2.0645622596386968,7.970473185564219,0.10250064498697001
+Sin revisión,Pesimista,CSUV,contribucion_marca_eur,-123568.60783999998,-763286.9839999999,25080.0,8504.639007075875
+Sin revisión,Pesimista,CSUV,ventas_perdidas,103.022,0.0,767.0,8.53388250837019
+Sin revisión,Pesimista,CSUV,stock_medio,13.390416666666669,-121.94374999999997,68.41666666666674,2.1406485354601403
+Sin revisión,Pesimista,CSUV,servicio_unidades_pct,-3.0753007670930157,-23.200241984271017,0.0,0.23627792037370068
+Sin revisión,Pesimista,MD,contribucion_marca_eur,-8724.846800000007,-103808.264,64902.83199999992,1548.3745359559587
+Sin revisión,Pesimista,MD,ventas_perdidas,-36.855,-90.05,0.0,0.9352800242300292
+Sin revisión,Pesimista,MD,stock_medio,54.581875,2.329166666666676,124.43749999999997,1.1674310170246072
+Sin revisión,Pesimista,MD,servicio_unidades_pct,5.615992125252353,0.0,13.795642679396671,0.14377347339081284
+Sin revisión,Pesimista,MSUV,contribucion_marca_eur,-18046.737299999855,-711422.7840000006,503737.2070000004,11454.081169093875
+Sin revisión,Pesimista,MSUV,ventas_perdidas,-186.195,-830.5,444.14999999999986,11.861925655442935
+Sin revisión,Pesimista,MSUV,stock_medio,179.722125,-306.5604166666667,776.1229166666667,10.561499603775285
+Sin revisión,Pesimista,MSUV,servicio_unidades_pct,3.0120874704615503,-5.936797850120683,12.981254936232178,0.1757088682366436
+Sin revisión,Pesimista,S,contribucion_marca_eur,-88224.81789,-164860.3845,-12061.37850000006,1397.3876412854966
+Sin revisión,Pesimista,S,ventas_perdidas,-9.041,-61.05,0.0,0.7037717056074461
+Sin revisión,Pesimista,S,stock_medio,91.836125,6.016666666666679,155.5083333333333,1.5236659920961684
+Sin revisión,Pesimista,S,servicio_unidades_pct,1.5009064337078295,0.0,10.265199281592722,0.10911455728951755
+Sin revisión,Pesimista,SSUV,contribucion_marca_eur,-309613.3869299999,-554972.8619999998,-111919.52850000028,4371.024476531009
+Sin revisión,Pesimista,SSUV,ventas_perdidas,-176.449,-480.0,0.0,5.5107407544415175
+Sin revisión,Pesimista,SSUV,stock_medio,291.1159583333333,-29.147916666666664,583.1874999999998,5.90597862692717
+Sin revisión,Pesimista,SSUV,servicio_unidades_pct,3.0102847713472873,0.0,8.174885263959863,0.09304388289920298
+Sin revisión,Pesimista,TOTAL,contribucion_marca_eur,-837596.9797200001,-1805420.2074999998,12479.885499998836,17389.498552804016
+Sin revisión,Pesimista,TOTAL,ventas_perdidas,-368.954,-1151.0,563.3999999999996,16.327247376422363
+Sin revisión,Pesimista,TOTAL,stock_medio,819.7376666666667,247.70416666666654,1483.3979166666666,12.099644587029735
+Sin revisión,Pesimista,TOTAL,servicio_unidades_pct,1.872580804860861,-2.6636700779574967,5.663022905183715,0.07935425727585829
+Pedidos registrados,Central,B,contribucion_marca_eur,-5658.15,-19435.75,0.0,210.64067822912273
+Pedidos registrados,Central,B,ventas_perdidas,-5.734,-36.0,0.0,0.4490421838567986
+Pedidos registrados,Central,B,stock_medio,8.3545,0.0,25.5,0.27394922255346654
+Pedidos registrados,Central,B,servicio_unidades_pct,0.31633662581256516,0.0,1.977332266532505,0.024265626391329263
+Pedidos registrados,Central,C,contribucion_marca_eur,-127.562,-1025.9999999999995,0.0,53.832448960799866
+Pedidos registrados,Central,C,ventas_perdidas,-0.032,0.0,0.0,0.023948894537108596
+Pedidos registrados,Central,C,stock_medio,0.2736250000000001,0.0,1.5958333333333599,0.04006162685287352
+Pedidos registrados,Central,C,servicio_unidades_pct,0.0008186991043660897,0.0,0.0,0.0006043048332160262
+Pedidos registrados,Central,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Pedidos registrados,Central,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Pedidos registrados,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Pedidos registrados,Central,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pedidos registrados,Central,MD,contribucion_marca_eur,1712.3972000000015,-3780.0,19786.68999999981,291.6761023632242
+Pedidos registrados,Central,MD,ventas_perdidas,-0.474,-4.0,0.0,0.05462882305439417
+Pedidos registrados,Central,MD,stock_medio,1.1810833333333335,0.0,5.670833333333334,0.06321735859305608
+Pedidos registrados,Central,MD,servicio_unidades_pct,0.06252875333728018,0.0,0.5079735282780948,0.0072085873823979135
+Pedidos registrados,Central,MSUV,contribucion_marca_eur,10197.696199999966,-27966.0,94874.43999999709,2226.6425271137728
+Pedidos registrados,Central,MSUV,ventas_perdidas,-2.246,-13.049999999999997,0.0,0.30603454239863376
+Pedidos registrados,Central,MSUV,stock_medio,8.1635,0.0,42.00416666666666,0.4459676456898115
+Pedidos registrados,Central,MSUV,servicio_unidades_pct,0.030444853117123118,0.0,0.16873804446127239,0.004164172890087168
+Pedidos registrados,Central,S,contribucion_marca_eur,3334.981799999993,-29499.0,67372.61999999982,994.6584965841365
+Pedidos registrados,Central,S,ventas_perdidas,-1.695,-12.049999999999997,0.0,0.1462989349871638
+Pedidos registrados,Central,S,stock_medio,5.863916666666666,0.0,23.26249999999999,0.2505779842846386
+Pedidos registrados,Central,S,servicio_unidades_pct,0.18179707712187046,0.0,1.2778075582953752,0.015197035089744808
+Pedidos registrados,Central,SSUV,contribucion_marca_eur,42016.48760000002,-96916.8,373578.6000000015,4658.603956996449
+Pedidos registrados,Central,SSUV,ventas_perdidas,-25.904,-110.05,0.0,1.1760688423395638
+Pedidos registrados,Central,SSUV,stock_medio,77.6875,28.83124999999993,136.08750000000003,0.9944352697246509
+Pedidos registrados,Central,SSUV,servicio_unidades_pct,0.4084114724786059,0.0,1.7094036974499465,0.01824665261878309
+Pedidos registrados,Central,TOTAL,contribucion_marca_eur,51475.850800000066,-109513.8,377019.3899999998,5088.137305273624
+Pedidos registrados,Central,TOTAL,ventas_perdidas,-36.085,-121.0,0.0,1.2761568678463282
+Pedidos registrados,Central,TOTAL,stock_medio,101.524125,53.48958333333335,166.6041666666668,1.1236321267998983
+Pedidos registrados,Central,TOTAL,servicio_unidades_pct,0.16241699584601088,0.0,0.5406310322242049,0.0057663058423517
+Pedidos registrados,Optimista,B,contribucion_marca_eur,-6339.784320000002,-28326.791999999987,16121.624000000002,420.56459791099167
+Pedidos registrados,Optimista,B,ventas_perdidas,-25.972,-111.05,0.0,1.218277232576976
+Pedidos registrados,Optimista,B,stock_medio,18.077583333333333,0.0,41.5,0.4316866156838192
+Pedidos registrados,Optimista,B,servicio_unidades_pct,1.1878137880562327,0.0,5.1001400768932745,0.054196559504140464
+Pedidos registrados,Optimista,C,contribucion_marca_eur,1079.5739400000004,-9915.0,21786.992999999664,419.66079758977577
+Pedidos registrados,Optimista,C,ventas_perdidas,-1.389,-10.049999999999997,0.0,0.18816238753822212
+Pedidos registrados,Optimista,C,stock_medio,2.933458333333332,0.0,16.0,0.1677384239570049
+Pedidos registrados,Optimista,C,servicio_unidades_pct,0.031173275689533354,0.0,0.23716353129535292,0.004223105573533773
+Pedidos registrados,Optimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Pedidos registrados,Optimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Pedidos registrados,Optimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Pedidos registrados,Optimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pedidos registrados,Optimista,MD,contribucion_marca_eur,2017.9756000000048,-7741.6,27393.51000000032,426.8125271549731
+Pedidos registrados,Optimista,MD,ventas_perdidas,-0.96,-5.0,0.0,0.07237152504706279
+Pedidos registrados,Optimista,MD,stock_medio,3.65925,0.0,8.337500000000006,0.08426139374310804
+Pedidos registrados,Optimista,MD,servicio_unidades_pct,0.11058897362715515,0.0,0.6006548064309797,0.008234131003285575
+Pedidos registrados,Optimista,MSUV,contribucion_marca_eur,86709.92830000013,-53067.0,496701.2930000025,6279.126105986477
+Pedidos registrados,Optimista,MSUV,ventas_perdidas,-14.285,-68.05,0.0,0.8210809636990429
+Pedidos registrados,Optimista,MSUV,stock_medio,29.645625,0.0,75.75416666666666,0.7988749183191913
+Pedidos registrados,Optimista,MSUV,servicio_unidades_pct,0.15557059422951194,0.0,0.741938096165526,0.008943787292066586
+Pedidos registrados,Optimista,S,contribucion_marca_eur,16275.770470000003,-26103.0,127231.979999999,1610.6186559973546
+Pedidos registrados,Optimista,S,ventas_perdidas,-3.869,-20.0,0.0,0.2319863285985979
+Pedidos registrados,Optimista,S,stock_medio,6.887125,0.25,20.33749999999999,0.2003405731058618
+Pedidos registrados,Optimista,S,servicio_unidades_pct,0.3493080298811561,0.0,1.784116982901765,0.0199884602914277
+Pedidos registrados,Optimista,SSUV,contribucion_marca_eur,964780.01503,340125.6265000012,1496619.521999992,11129.974220998229
+Pedidos registrados,Optimista,SSUV,ventas_perdidas,-255.457,-385.05,-110.95000000000005,2.6794282014053836
+Pedidos registrados,Optimista,SSUV,stock_medio,82.46995833333334,28.120833333333334,151.26666666666665,1.2283175309916066
+Pedidos registrados,Optimista,SSUV,servicio_unidades_pct,2.4864699531711394,1.1370116262607497,3.5638069172936495,0.023419443670298475
+Pedidos registrados,Optimista,TOTAL,contribucion_marca_eur,1064523.4790200002,429738.69149998354,1703714.0799999945,12133.094656685029
+Pedidos registrados,Optimista,TOTAL,ventas_perdidas,-301.932,-466.0,-139.0,3.1478609252005407
+Pedidos registrados,Optimista,TOTAL,stock_medio,143.673,70.78750000000028,234.88333333333335,1.6200523970666698
+Pedidos registrados,Optimista,TOTAL,servicio_unidades_pct,1.0050728448440582,0.474936377312384,1.5588541169136612,0.010216389596765874
+Pedidos registrados,Pesimista,B,contribucion_marca_eur,-11030.08356,-47638.800000000716,0.0,827.1493742485801
+Pedidos registrados,Pesimista,B,ventas_perdidas,-2.333,-13.0,0.0,0.2705648098262528
+Pedidos registrados,Pesimista,B,stock_medio,5.594375,0.0,20.758333333333326,0.22913823789678023
+Pedidos registrados,Pesimista,B,servicio_unidades_pct,0.1397911925956028,0.0,0.7873987242036127,0.01587017088498014
+Pedidos registrados,Pesimista,C,contribucion_marca_eur,-414.19584000000077,-600.0,0.0,138.5490580902741
+Pedidos registrados,Pesimista,C,ventas_perdidas,-0.168,0.0,0.0,0.10647588042891738
+Pedidos registrados,Pesimista,C,stock_medio,0.2942500000000001,0.0,0.8333333333333712,0.05362645061840423
+Pedidos registrados,Pesimista,C,servicio_unidades_pct,0.004510369582002994,0.0,0.0,0.002822732241739458
+Pedidos registrados,Pesimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Pedidos registrados,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Pedidos registrados,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Pedidos registrados,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pedidos registrados,Pesimista,MD,contribucion_marca_eur,1383.4097599999989,-2220.0,14371.991999999975,217.6222813830714
+Pedidos registrados,Pesimista,MD,ventas_perdidas,-1.804,-14.0,0.0,0.19720667958888838
+Pedidos registrados,Pesimista,MD,stock_medio,0.9194166666666668,0.0,3.625,0.04388896895305732
+Pedidos registrados,Pesimista,MD,servicio_unidades_pct,0.2669035335461283,0.0,2.049559158134249,0.02912122297063072
+Pedidos registrados,Pesimista,MSUV,contribucion_marca_eur,13246.857020000012,-23163.0,149941.0370000002,1881.6811723092237
+Pedidos registrados,Pesimista,MSUV,ventas_perdidas,-22.907,-180.0,0.0,2.111657986145117
+Pedidos registrados,Pesimista,MSUV,stock_medio,10.605625,0.0,38.03124999999997,0.4217792872678906
+Pedidos registrados,Pesimista,MSUV,servicio_unidades_pct,0.3357981770800343,0.0,2.5986531468369143,0.031046830183076867
+Pedidos registrados,Pesimista,S,contribucion_marca_eur,-13668.405649999999,-69652.3,0.0,775.424853312844
+Pedidos registrados,Pesimista,S,ventas_perdidas,-1.385,-7.0,0.0,0.21314362576723989
+Pedidos registrados,Pesimista,S,stock_medio,11.808458333333332,0.0,55.60416666666666,0.6250260457688837
+Pedidos registrados,Pesimista,S,servicio_unidades_pct,0.17760267813546107,0.0,0.8410543704661315,0.02677260266272096
+Pedidos registrados,Pesimista,SSUV,contribucion_marca_eur,-165949.22409,-356930.4074999995,-42240.0,3066.4349436448547
+Pedidos registrados,Pesimista,SSUV,ventas_perdidas,-117.637,-409.05,0.0,4.47644611279984
+Pedidos registrados,Pesimista,SSUV,stock_medio,140.26304166666668,45.083333333333314,250.5895833333333,1.9139782164418842
+Pedidos registrados,Pesimista,SSUV,servicio_unidades_pct,1.950888869616029,0.0,6.556247917497283,0.07178543263360676
+Pedidos registrados,Pesimista,TOTAL,contribucion_marca_eur,-176431.64236,-386183.9404999986,-1963.7509999998908,3569.8694724550555
+Pedidos registrados,Pesimista,TOTAL,ventas_perdidas,-146.234,-456.0,0.0,4.885390494554584
+Pedidos registrados,Pesimista,TOTAL,stock_medio,169.4851666666667,90.69791666666666,273.92083333333363,1.7631782819712607
+Pedidos registrados,Pesimista,TOTAL,servicio_unidades_pct,0.7172468037420312,0.0,2.2273217743293166,0.02396996389834542
+Sin transfers,Central,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Central,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Central,B,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Central,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Central,C,contribucion_marca_eur,-20639.811200000004,-96787.79999999981,0.0,1106.7455177266374
+Sin transfers,Central,C,ventas_perdidas,32.74,0.0,151.0999999999999,1.721977818558534
+Sin transfers,Central,C,stock_medio,-0.39308333333333373,-2.5875000000000337,0.0,0.05132252370001833
+Sin transfers,Central,C,servicio_unidades_pct,-0.9103755769741085,-4.212451977883795,0.0,0.04798725315220822
+Sin transfers,Central,CSUV,contribucion_marca_eur,-18624.130799999995,-12846.0,0.0,3763.972991097651
+Sin transfers,Central,CSUV,ventas_perdidas,7.249,0.0,5.0,1.4650369730257093
+Sin transfers,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Central,CSUV,servicio_unidades_pct,-0.1640181141800521,-0.14755625652220275,0.0,0.030688320806419016
+Sin transfers,Central,MD,contribucion_marca_eur,-40265.017,-142074.04999999973,0.0,1554.9996234340606
+Sin transfers,Central,MD,ventas_perdidas,15.173,0.0,51.0,0.5510759981670004
+Sin transfers,Central,MD,stock_medio,-1.1267499999999997,-5.252083333333332,0.0,0.059569114855959546
+Sin transfers,Central,MD,servicio_unidades_pct,-2.056799398629185,-6.862978232234037,0.0,0.07467257455668055
+Sin transfers,Central,MSUV,contribucion_marca_eur,-431834.8836,-1477362.2299999997,0.0,16843.016745208588
+Sin transfers,Central,MSUV,ventas_perdidas,98.628,0.0,341.0999999999999,3.743651498542906
+Sin transfers,Central,MSUV,stock_medio,-8.06125,-38.94166666666663,0.0,0.4310830245638567
+Sin transfers,Central,MSUV,servicio_unidades_pct,-1.373429740421448,-4.901275777205729,0.0,0.05247201038227678
+Sin transfers,Central,S,contribucion_marca_eur,-172038.04860000004,-534229.8,0.0,5941.625232264638
+Sin transfers,Central,S,ventas_perdidas,48.559,0.0,144.04999999999995,1.5446638810775324
+Sin transfers,Central,S,stock_medio,-8.661833333333334,-37.75416666666666,0.0,0.4143066055566243
+Sin transfers,Central,S,servicio_unidades_pct,-5.895306907311731,-14.583159735679397,0.0,0.15836201886064252
+Sin transfers,Central,SSUV,contribucion_marca_eur,-870950.4608000001,-1821108.4300000006,-223698.67000000062,16206.195073352601
+Sin transfers,Central,SSUV,ventas_perdidas,414.926,128.0,800.0999999999999,6.662255336608631
+Sin transfers,Central,SSUV,stock_medio,-84.48008333333333,-145.79999999999995,-29.154166666666697,1.1161871940577743
+Sin transfers,Central,SSUV,servicio_unidades_pct,-6.656965549696311,-11.762283890338981,-2.329676298121561,0.09304218584129823
+Sin transfers,Central,TOTAL,contribucion_marca_eur,-1554352.3519999997,-2836977.0599999973,-588405.0400000055,21580.013290525818
+Sin transfers,Central,TOTAL,ventas_perdidas,617.275,269.95,1029.5499999999995,7.280116721212269
+Sin transfers,Central,TOTAL,stock_medio,-102.723,-163.77083333333331,-53.91041666666652,1.0885700764612825
+Sin transfers,Central,TOTAL,servicio_unidades_pct,-2.7759689873205016,-4.660183959834482,-1.1776767666453791,0.032474704240468374
+Sin transfers,Optimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Optimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Optimista,B,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Optimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Optimista,C,contribucion_marca_eur,-81524.99318,-266017.4939999987,0.0,3023.4810479653997
+Sin transfers,Optimista,C,ventas_perdidas,94.963,0.0,298.04999999999995,3.2820166459456392
+Sin transfers,Optimista,C,stock_medio,-4.0527500000000005,-19.91666666666663,0.0,0.22059240783022604
+Sin transfers,Optimista,C,servicio_unidades_pct,-2.176836888329407,-6.82395648441678,0.0,0.07387205511636384
+Sin transfers,Optimista,CSUV,contribucion_marca_eur,-68579.88600000007,-435967.8399999965,0.0,8968.744636277968
+Sin transfers,Optimista,CSUV,ventas_perdidas,24.225,0.0,154.0,3.168093305158513
+Sin transfers,Optimista,CSUV,stock_medio,-0.00016666666666662877,0.0,0.0,0.00016666666666662885
+Sin transfers,Optimista,CSUV,servicio_unidades_pct,-0.48006116208750066,-3.3219643241853367,0.0,0.05652599103780737
+Sin transfers,Optimista,MD,contribucion_marca_eur,-83973.01004000002,-199659.76399999976,0.0,2067.2825959311385
+Sin transfers,Optimista,MD,ventas_perdidas,29.252,0.0,65.04999999999995,0.6611608197932102
+Sin transfers,Optimista,MD,stock_medio,-4.170125,-9.916666666666657,0.0,0.10201576562925475
+Sin transfers,Optimista,MD,servicio_unidades_pct,-3.3778016968606375,-7.426915942158551,0.0,0.07386978200630892
+Sin transfers,Optimista,MSUV,contribucion_marca_eur,-1429817.23906,-3635988.8449999955,-8812.959999993818,35499.82389751041
+Sin transfers,Optimista,MSUV,ventas_perdidas,299.117,2.0,736.2999999999997,7.061578378818733
+Sin transfers,Optimista,MSUV,stock_medio,-29.111916666666666,-69.7625,0.0,0.7487121903035818
+Sin transfers,Optimista,MSUV,servicio_unidades_pct,-3.351753200579115,-8.209519335679648,-0.021514136103245828,0.07828874389173514
+Sin transfers,Optimista,S,contribucion_marca_eur,-366275.11549000005,-1044304.3815000003,-11575.868499999899,10999.687942317463
+Sin transfers,Optimista,S,ventas_perdidas,93.963,4.0,251.0999999999999,2.5953067734370534
+Sin transfers,Optimista,S,stock_medio,-12.593083333333334,-49.266666666666666,0.0,0.4851727451836696
+Sin transfers,Optimista,S,servicio_unidades_pct,-9.037507574190297,-19.765538364267723,-0.6975504063945492,0.19761738029611975
+Sin transfers,Optimista,SSUV,contribucion_marca_eur,-6469794.35356,-9005293.399500005,-3951551.2705000015,49981.41304042834
+Sin transfers,Optimista,SSUV,ventas_perdidas,2485.924,1523.8,3456.1499999999996,18.83692703293305
+Sin transfers,Optimista,SSUV,stock_medio,-111.58458333333334,-184.60625,-64.6583333333333,1.2463135671855645
+Sin transfers,Optimista,SSUV,servicio_unidades_pct,-24.079725812144957,-29.72156011787207,-17.646562644880508,0.11814448512028806
+Sin transfers,Optimista,TOTAL,contribucion_marca_eur,-8499964.597329998,-11295333.0475,-5985189.648000008,52397.360144239414
+Sin transfers,Optimista,TOTAL,ventas_perdidas,3027.444,2124.65,3989.0,18.0317673981088
+Sin transfers,Optimista,TOTAL,stock_medio,-161.512625,-243.2124999999997,-97.6645833333332,1.3932201578451036
+Sin transfers,Optimista,TOTAL,servicio_unidades_pct,-10.079801743128876,-12.899496316833318,-7.284361878364889,0.055201222390432576
+Sin transfers,Pesimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,B,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,C,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,C,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MD,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,S,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,TOTAL,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Sin transfers,Pesimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,B,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,C,contribucion_marca_eur,20615.391999999996,0.0,96787.80000000031,1076.0402556265187
+Transfer de todo el déficit rentable,Central,C,ventas_perdidas,-32.822,-153.0,0.0,1.7033971579986502
+Transfer de todo el déficit rentable,Central,C,stock_medio,0.2736250000000001,0.0,1.5958333333333599,0.04006162685287352
+Transfer de todo el déficit rentable,Central,C,servicio_unidades_pct,0.9133011863008785,0.0,4.238741996046672,0.047644382992701
+Transfer de todo el déficit rentable,Central,CSUV,contribucion_marca_eur,18842.512799999997,0.0,12846.0,3797.57072194757
+Transfer de todo el déficit rentable,Central,CSUV,ventas_perdidas,-7.334,-5.0,0.0,1.478114090747147
+Transfer de todo el déficit rentable,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Central,CSUV,servicio_unidades_pct,0.16604292716457586,0.0,0.14755625652218918,0.03097923500378008
+Transfer de todo el déficit rentable,Central,MD,contribucion_marca_eur,35990.4374,0.0,113149.28999999998,1216.7852351625047
+Transfer de todo el déficit rentable,Central,MD,ventas_perdidas,-14.013,-43.0,0.0,0.4607245360278722
+Transfer de todo el déficit rentable,Central,MD,stock_medio,1.1810833333333335,0.0,5.670833333333334,0.06321735859305608
+Transfer de todo el déficit rentable,Central,MD,servicio_unidades_pct,1.9067802574097008,0.0,5.795055666817402,0.06347684410481938
+Transfer de todo el déficit rentable,Central,MSUV,contribucion_marca_eur,399544.6197999998,0.0,1359353.0900000029,14575.167942615139
+Transfer de todo el déficit rentable,Central,MSUV,ventas_perdidas,-92.152,-310.1,0.0,3.3175199825825974
+Transfer de todo el déficit rentable,Central,MSUV,stock_medio,8.1635,0.0,42.00416666666666,0.4459676456898115
+Transfer de todo el déficit rentable,Central,MSUV,servicio_unidades_pct,1.2858719549545945,0.0,4.397518054621421,0.04693092722797227
+Transfer de todo el déficit rentable,Central,S,contribucion_marca_eur,151489.48039999997,0.0,410446.52999999933,4536.070048100633
+Transfer de todo el déficit rentable,Central,S,ventas_perdidas,-43.012,-113.0,0.0,1.2302305976211627
+Transfer de todo el déficit rentable,Central,S,stock_medio,5.863916666666666,0.0,23.26249999999999,0.2505779842846386
+Transfer de todo el déficit rentable,Central,S,servicio_unidades_pct,5.349665388960395,0.0,12.413658605772644,0.13435649918197864
+Transfer de todo el déficit rentable,Central,SSUV,contribucion_marca_eur,491890.09880000004,168522.40000000037,865697.1999999993,7048.9059061314865
+Transfer de todo el déficit rentable,Central,SSUV,ventas_perdidas,-263.882,-426.05,-105.95000000000005,3.2003825590895416
+Transfer de todo el déficit rentable,Central,SSUV,stock_medio,77.6875,28.83124999999993,136.08750000000003,0.9944352697246509
+Transfer de todo el déficit rentable,Central,SSUV,servicio_unidades_pct,4.293911161146647,1.8485817633279005,6.688261912505269,0.04655809414003517
+Transfer de todo el déficit rentable,Central,TOTAL,contribucion_marca_eur,1118372.5412,441920.1200000063,2094154.9700000084,16398.090881056134
+Transfer de todo el déficit rentable,Central,TOTAL,ventas_perdidas,-453.215,-726.2,-228.95000000000005,4.919336199493143
+Transfer de todo el déficit rentable,Central,TOTAL,stock_medio,93.16962499999998,49.56041666666638,155.3437500000001,1.0591013803489828
+Transfer de todo el déficit rentable,Central,TOTAL,servicio_unidades_pct,2.038913040830277,1.0010596126248423,3.275339415880114,0.021923262473112073
+Transfer de todo el déficit rentable,Optimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Optimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Optimista,B,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Optimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Optimista,C,contribucion_marca_eur,74806.93708000002,0.0,232693.8570000007,2521.628009315998
+Transfer de todo el déficit rentable,Optimista,C,ventas_perdidas,-89.258,-272.05,0.0,2.929265442398833
+Transfer de todo el déficit rentable,Optimista,C,stock_medio,2.933458333333332,0.0,16.0,0.1677384239570049
+Transfer de todo el déficit rentable,Optimista,C,servicio_unidades_pct,2.0518748657293675,0.0,6.153869847308865,0.06679197367536607
+Transfer de todo el déficit rentable,Optimista,CSUV,contribucion_marca_eur,69284.91504,0.0,439081.8960000004,9028.240692778078
+Transfer de todo el déficit rentable,Optimista,CSUV,ventas_perdidas,-24.474,-155.1,0.0,3.1891092395435034
+Transfer de todo el déficit rentable,Optimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Optimista,CSUV,servicio_unidades_pct,0.485472193277296,0.0,3.3529724448885085,0.0569433933005094
+Transfer de todo el déficit rentable,Optimista,MD,contribucion_marca_eur,73270.56451999999,0.0,163821.4979999995,1544.2219560729184
+Transfer de todo el déficit rentable,Optimista,MD,ventas_perdidas,-26.341,-58.0,0.0,0.5334015712727478
+Transfer de todo el déficit rentable,Optimista,MD,stock_medio,3.65925,0.0,8.337500000000006,0.08426139374310804
+Transfer de todo el déficit rentable,Optimista,MD,servicio_unidades_pct,3.054889648921902,0.0,6.474553571428576,0.06082856191872949
+Transfer de todo el déficit rentable,Optimista,MSUV,contribucion_marca_eur,1164765.9408199997,8755.960000008345,2704019.311999995,25165.106763226668
+Transfer de todo el déficit rentable,Optimista,MSUV,ventas_perdidas,-249.259,-570.0,-2.0,5.234232427788062
+Transfer de todo el déficit rentable,Optimista,MSUV,stock_medio,29.645625,0.0,75.75416666666666,0.7988749183191913
+Transfer de todo el déficit rentable,Optimista,MSUV,servicio_unidades_pct,2.8079993151247202,0.021627844116265747,6.359964144203481,0.059132715082000825
+Transfer de todo el déficit rentable,Optimista,S,contribucion_marca_eur,303409.75248,14086.610000000335,763038.105999999,7758.4349988037775
+Transfer de todo el déficit rentable,Optimista,S,ventas_perdidas,-78.756,-191.29999999999998,-5.0,1.9339386191352048
+Transfer de todo el déficit rentable,Optimista,S,stock_medio,6.887125,0.25,20.33749999999999,0.2003405731058618
+Transfer de todo el déficit rentable,Optimista,S,servicio_unidades_pct,7.757496110609897,0.8287854498046252,15.597529188544373,0.15304013375510567
+Transfer de todo el déficit rentable,Optimista,SSUV,contribucion_marca_eur,2634540.46229,1509504.045,3838185.434500001,23360.49506322167
+Transfer de todo el déficit rentable,Optimista,SSUV,ventas_perdidas,-1058.771,-1588.05,-607.0,9.749465761858012
+Transfer de todo el déficit rentable,Optimista,SSUV,stock_medio,82.46995833333334,28.120833333333334,151.26666666666665,1.2283175309916066
+Transfer de todo el déficit rentable,Optimista,SSUV,servicio_unidades_pct,10.233875028399783,6.881831256182061,14.052605512836356,0.06944686289677401
+Transfer de todo el déficit rentable,Optimista,TOTAL,contribucion_marca_eur,4320078.57223,2855527.871999993,5992778.01,30843.91861227865
+Transfer de todo el déficit rentable,Optimista,TOTAL,ventas_perdidas,-1526.859,-2072.15,-1020.8500000000001,10.328662856120118
+Transfer de todo el déficit rentable,Optimista,TOTAL,stock_medio,125.59541666666665,56.52708333333319,214.14166666666677,1.544378849073946
+Transfer de todo el déficit rentable,Optimista,TOTAL,servicio_unidades_pct,5.084005739967986,3.4949636770163175,6.8212981164457345,0.03213579320444297
+Transfer de todo el déficit rentable,Pesimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,B,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,C,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,C,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,CSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MD,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,S,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,TOTAL,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Transfer de todo el déficit rentable,Pesimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline -25%,Central,B,contribucion_marca_eur,1932.748,-6419.0,3961.949999999998,115.42077775874859
+Pipeline -25%,Central,B,ventas_perdidas,24.776,0.0,80.0,0.9083198053928302
+Pipeline -25%,Central,B,stock_medio,-6.877416666666667,-11.210416666666676,-4.743750000000006,0.07814080599757621
+Pipeline -25%,Central,B,servicio_unidades_pct,-1.4480286734402759,-4.408264172981302,0.0,0.05192502777496794
+Pipeline -25%,Central,C,contribucion_marca_eur,167102.33719999998,79375.7899999998,310779.8899999997,2251.8655939989076
+Pipeline -25%,Central,C,ventas_perdidas,5.852,0.0,49.049999999999955,0.5976598474829083
+Pipeline -25%,Central,C,stock_medio,-105.667625,-150.08333333333337,-75.25,0.6718877763449116
+Pipeline -25%,Central,C,servicio_unidades_pct,-0.1646403063078574,-1.3455659365235242,0.0,0.01702746290522854
+Pipeline -25%,Central,CSUV,contribucion_marca_eur,171260.1296,73560.0,290953.0,3062.2761508026433
+Pipeline -25%,Central,CSUV,ventas_perdidas,1.882,0.0,0.0,0.329008088536319
+Pipeline -25%,Central,CSUV,stock_medio,-183.33891666666665,-251.08333333333326,-110.24583333333334,1.4648132705492873
+Pipeline -25%,Central,CSUV,servicio_unidades_pct,-0.04526596629492773,0.0,0.0,0.00779350456111367
+Pipeline -25%,Central,MD,contribucion_marca_eur,1568.84,900.0,3485.1999999999916,25.07559354814541
+Pipeline -25%,Central,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline -25%,Central,MD,stock_medio,-1.25,-1.25,-1.25,1.0053619802808784e-17
+Pipeline -25%,Central,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline -25%,Central,MSUV,contribucion_marca_eur,39492.195,30600.0,93195.0,649.9547267724334
+Pipeline -25%,Central,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline -25%,Central,MSUV,stock_medio,-42.5,-42.5,-42.5,0.0
+Pipeline -25%,Central,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline -25%,Central,S,contribucion_marca_eur,-36136.54100000004,-76108.87000000039,1260.0,652.5172394595802
+Pipeline -25%,Central,S,ventas_perdidas,6.053,0.0,12.0,0.10460943616201233
+Pipeline -25%,Central,S,stock_medio,-1.71175,-3.3333333333333153,0.2083333333333286,0.034225711227544316
+Pipeline -25%,Central,S,servicio_unidades_pct,-0.8779452509408593,-1.6132765830346443,0.0,0.0141977826112511
+Pipeline -25%,Central,SSUV,contribucion_marca_eur,-297570.61860000016,-405751.9000000028,-229666.79999999888,2192.598079239068
+Pipeline -25%,Central,SSUV,ventas_perdidas,79.326,62.0,107.0,0.5600691041303755
+Pipeline -25%,Central,SSUV,stock_medio,-10.503708333333332,-16.0,-0.6229166666666704,0.16186481845610806
+Pipeline -25%,Central,SSUV,servicio_unidades_pct,-1.311814583424608,-1.7776502937742122,-0.9802797781194124,0.008487490934634358
+Pipeline -25%,Central,TOTAL,contribucion_marca_eur,47649.09020000016,-184860.83999999164,253348.9999999939,4296.7771990443425
+Pipeline -25%,Central,TOTAL,ventas_perdidas,117.889,70.0,191.0,1.2280646651629636
+Pipeline -25%,Central,TOTAL,stock_medio,-351.8494166666667,-431.4791666666668,-275.74375,1.575303176916548
+Pipeline -25%,Central,TOTAL,servicio_unidades_pct,-0.5298143665082954,-0.84836074336475,-0.3099291143224825,0.005498975279737972
+Pipeline -25%,Optimista,B,contribucion_marca_eur,-4276.707280000001,-23859.67199999993,3960.0,319.0878966251621
+Pipeline -25%,Optimista,B,ventas_perdidas,36.387,0.0,106.0,1.218864578967599
+Pipeline -25%,Optimista,B,stock_medio,-7.267208333333334,-13.129166666666665,-3.8312499999999847,0.09917410406879612
+Pipeline -25%,Optimista,B,servicio_unidades_pct,-1.7403046997629152,-4.881440695164745,0.0,0.0564025950916742
+Pipeline -25%,Optimista,C,contribucion_marca_eur,125814.51525999999,4012.7780000000744,232166.01799999984,2144.1861538146277
+Pipeline -25%,Optimista,C,ventas_perdidas,11.089,0.0,71.04999999999995,0.8439427221786551
+Pipeline -25%,Optimista,C,stock_medio,-93.11129166666666,-132.59166666666658,-71.75,0.595025881935767
+Pipeline -25%,Optimista,C,servicio_unidades_pct,-0.26837266235965057,-1.73290755752068,0.0,0.021035608366039887
+Pipeline -25%,Optimista,CSUV,contribucion_marca_eur,172980.60736000002,-79637.5920000019,300652.0,3859.502215091939
+Pipeline -25%,Optimista,CSUV,ventas_perdidas,4.124,0.0,38.0,0.45210510174407786
+Pipeline -25%,Optimista,CSUV,stock_medio,-153.21904166666667,-243.26666666666668,-98.25,1.3598888693154048
+Pipeline -25%,Optimista,CSUV,servicio_unidades_pct,-0.09268409826117315,-0.8463444912965471,0.0,0.009944131921924228
+Pipeline -25%,Optimista,MD,contribucion_marca_eur,1110.6667199999993,900.0,1820.0,20.174727794218295
+Pipeline -25%,Optimista,MD,ventas_perdidas,-0.001,0.0,0.0,0.0026468860961526104
+Pipeline -25%,Optimista,MD,stock_medio,-1.219625,-1.25,-1.25,0.005821577451852456
+Pipeline -25%,Optimista,MD,servicio_unidades_pct,5.676216454480709e-05,0.0,0.0,0.0002981158432346456
+Pipeline -25%,Optimista,MSUV,contribucion_marca_eur,31834.88410000004,30600.0,45069.217999999935,258.9994434518422
+Pipeline -25%,Optimista,MSUV,ventas_perdidas,0.025,0.0,0.0,0.014232975007972774
+Pipeline -25%,Optimista,MSUV,stock_medio,-42.35995833333334,-42.5,-42.5,0.027527358428648525
+Pipeline -25%,Optimista,MSUV,servicio_unidades_pct,-0.00026778775493339424,0.0,0.0,0.00015400468814277853
+Pipeline -25%,Optimista,S,contribucion_marca_eur,-52211.588529999986,-82882.08000000022,-32956.058500000276,497.81296420492157
+Pipeline -25%,Optimista,S,ventas_perdidas,8.171,5.0,13.0,0.07213156009654832
+Pipeline -25%,Optimista,S,stock_medio,-1.2125,-2.75,0.8354166666666738,0.03975725930500271
+Pipeline -25%,Optimista,S,servicio_unidades_pct,-0.9570203554674068,-1.4541590400650826,-0.5455891731028139,0.00876029905802429
+Pipeline -25%,Optimista,SSUV,contribucion_marca_eur,-474171.5329700001,-554060.0299999977,-391205.7004999973,1556.3482102740911
+Pipeline -25%,Optimista,SSUV,ventas_perdidas,118.583,99.95,138.0,0.36845742206104615
+Pipeline -25%,Optimista,SSUV,stock_medio,-2.3781250000000003,-12.335416666666703,2.9187500000000153,0.15926975655665926
+Pipeline -25%,Optimista,SSUV,servicio_unidades_pct,-1.172456222855285,-1.4297646162774413,-0.946892835435454,0.004731162444978804
+Pipeline -25%,Optimista,TOTAL,contribucion_marca_eur,-198919.15534000003,-497917.8549999758,-8298.254000000748,4700.652224309849
+Pipeline -25%,Optimista,TOTAL,ventas_perdidas,178.378,115.0,270.0999999999999,1.6302781734792757
+Pipeline -25%,Optimista,TOTAL,stock_medio,-300.76775,-389.51666666666665,-238.0145833333332,1.447757991526352
+Pipeline -25%,Optimista,TOTAL,servicio_unidades_pct,-0.5944134869907497,-0.9050984115030111,-0.3874903906669445,0.005316599674419585
+Pipeline -25%,Pesimista,B,contribucion_marca_eur,61190.48179999997,3960.0,176310.3199999995,2237.9697806925324
+Pipeline -25%,Pesimista,B,ventas_perdidas,19.765,0.0,61.0,0.7767232931192899
+Pipeline -25%,Pesimista,B,stock_medio,-6.850458333333333,-10.333333333333343,-5.5,0.06109561181589196
+Pipeline -25%,Pesimista,B,servicio_unidades_pct,-1.267457555334823,-3.7245177045177122,0.0,0.049404049293623534
+Pipeline -25%,Pesimista,C,contribucion_marca_eur,218750.58821999998,128622.0,333924.92399999994,2447.2402024647945
+Pipeline -25%,Pesimista,C,ventas_perdidas,6.269,0.0,43.19999999999982,0.8083576442893833
+Pipeline -25%,Pesimista,C,stock_medio,-112.24929166666666,-158.2583333333332,-73.91666666666674,0.7517493000921308
+Pipeline -25%,Pesimista,C,servicio_unidades_pct,-0.20774017611008713,-1.431443498220678,0.0,0.028012755602145556
+Pipeline -25%,Pesimista,CSUV,contribucion_marca_eur,164834.50928,78180.0,289165.19999999995,2451.903613721875
+Pipeline -25%,Pesimista,CSUV,ventas_perdidas,1.976,0.0,0.0,0.5444353348505532
+Pipeline -25%,Pesimista,CSUV,stock_medio,-196.69008333333332,-251.08333333333337,-118.33333333333337,1.4375249572021238
+Pipeline -25%,Pesimista,CSUV,servicio_unidades_pct,-0.04904599380002774,0.0,0.0,0.013486729249314476
+Pipeline -25%,Pesimista,MD,contribucion_marca_eur,1656.4239999999998,900.0,3660.0,28.67979495852199
+Pipeline -25%,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline -25%,Pesimista,MD,stock_medio,-1.25,-1.25,-1.25,0.0
+Pipeline -25%,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline -25%,Pesimista,MSUV,contribucion_marca_eur,48682.544999999984,30600.0,116790.0,937.6062704922797
+Pipeline -25%,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline -25%,Pesimista,MSUV,stock_medio,-42.5,-42.5,-42.5,0.0
+Pipeline -25%,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline -25%,Pesimista,S,contribucion_marca_eur,5054.6604300000035,1260.0,13955.386500000039,143.5627472691288
+Pipeline -25%,Pesimista,S,ventas_perdidas,7.567,0.0,18.0,0.23958069602935442
+Pipeline -25%,Pesimista,S,stock_medio,-2.8113750000000004,-5.583333333333314,-1.2916666666666572,0.05301798622600336
+Pipeline -25%,Pesimista,S,servicio_unidades_pct,-1.3748105105402315,-3.4784771793207887,0.0,0.039784231207422076
+Pipeline -25%,Pesimista,SSUV,contribucion_marca_eur,97134.13328999984,66382.98000000045,160515.87449999948,1031.3663586552143
+Pipeline -25%,Pesimista,SSUV,ventas_perdidas,178.797,114.0,304.0999999999999,1.9833435008697922
+Pipeline -25%,Pesimista,SSUV,stock_medio,-5.901875000000001,-10.0,5.464583333333309,0.14702176145404253
+Pipeline -25%,Pesimista,SSUV,servicio_unidades_pct,-3.1482919669984257,-5.022723697396932,-1.8945532217556782,0.03253740268858828
+Pipeline -25%,Pesimista,TOTAL,contribucion_marca_eur,597303.3420199999,387672.33100000024,823720.4964999995,4165.911087625293
+Pipeline -25%,Pesimista,TOTAL,ventas_perdidas,214.374,123.0,343.04999999999995,2.241696975358028
+Pipeline -25%,Pesimista,TOTAL,stock_medio,-368.25308333333334,-441.98125000000016,-286.21458333333334,1.5452996058760036
+Pipeline -25%,Pesimista,TOTAL,servicio_unidades_pct,-1.0547478558687493,-1.6959189170853086,-0.6012781191828033,0.010956576623389818
+Pipeline +25%,Central,B,contribucion_marca_eur,-1804.095,-3960.0,6390.0,117.74118825367096
+Pipeline +25%,Central,B,ventas_perdidas,-14.787,-54.0,0.0,0.676451933413024
+Pipeline +25%,Central,B,stock_medio,4.941625,0.49791666666666584,6.918750000000016,0.07728714970877973
+Pipeline +25%,Central,B,servicio_unidades_pct,0.8672845177167672,0.0,3.07289318221768,0.03918529201279006
+Pipeline +25%,Central,C,contribucion_marca_eur,-210007.30380000002,-323736.0,-117342.0,2215.585912941859
+Pipeline +25%,Central,C,ventas_perdidas,-4.752,-38.099999999999994,0.0,0.5140357270936805
+Pipeline +25%,Central,C,stock_medio,118.7555,77.0,165.6583333333333,0.7838596543968344
+Pipeline +25%,Central,C,servicio_unidades_pct,0.14172086537507567,0.0,1.1434015724174658,0.01596740038463208
+Pipeline +25%,Central,CSUV,contribucion_marca_eur,-158325.82280000002,-294204.0,-77562.00000000001,2948.2127740829205
+Pipeline +25%,Central,CSUV,ventas_perdidas,-1.471,0.0,0.0,0.30965310275216684
+Pipeline +25%,Central,CSUV,stock_medio,206.158875,125.95,253.0,1.3746650485540841
+Pipeline +25%,Central,CSUV,servicio_unidades_pct,0.0346265918784847,0.0,0.0,0.007112123697443754
+Pipeline +25%,Central,MD,contribucion_marca_eur,-1703.16,-3660.0,-900.0,27.333658505353565
+Pipeline +25%,Central,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline +25%,Central,MD,stock_medio,1.25,1.25,1.25,7.108982738037453e-18
+Pipeline +25%,Central,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline +25%,Central,MSUV,contribucion_marca_eur,-40129.62740000001,-145275.0,292345.2899999964,3810.8757693175216
+Pipeline +25%,Central,MSUV,ventas_perdidas,-4.831,-52.0,0.0,0.45726527369846326
+Pipeline +25%,Central,MSUV,stock_medio,63.04875,58.91666666666663,86.87708333333333,0.3344233177404113
+Pipeline +25%,Central,MSUV,servicio_unidades_pct,0.06441205869191231,0.0,0.6284778909419888,0.006106727605238566
+Pipeline +25%,Central,S,contribucion_marca_eur,26988.302999999956,-1440.0,74415.11000000019,822.5904066209952
+Pipeline +25%,Central,S,ventas_perdidas,-4.542,-11.049999999999997,0.0,0.1282992466723663
+Pipeline +25%,Central,S,stock_medio,1.8122916666666664,-0.7083333333333286,3.4166666666666723,0.04345259103434631
+Pipeline +25%,Central,S,servicio_unidades_pct,0.6313114276501226,0.0,1.4799937358076873,0.01694812036637265
+Pipeline +25%,Central,SSUV,contribucion_marca_eur,264763.1699999999,199946.83,375649.0,2083.1201135582505
+Pipeline +25%,Central,SSUV,ventas_perdidas,-71.583,-100.0,-55.0,0.5327616220655781
+Pipeline +25%,Central,SSUV,stock_medio,13.212750000000003,7.75,15.754166666666665,0.09703181665967923
+Pipeline +25%,Central,SSUV,servicio_unidades_pct,1.1824523043693012,0.8737973553109732,1.65215615087316,0.008015108148655876
+Pipeline +25%,Central,TOTAL,contribucion_marca_eur,-120218.53600000002,-368650.7699999936,247951.85999999114,5719.461937810582
+Pipeline +25%,Central,TOTAL,ventas_perdidas,-101.966,-170.0,-62.0,1.162711805540282
+Pipeline +25%,Central,TOTAL,stock_medio,409.17979166666663,325.5791666666668,479.35208333333344,1.5161174603009728
+Pipeline +25%,Central,TOTAL,servicio_unidades_pct,0.4579356504165096,0.2696813518190687,0.7669007293818766,0.0051311794854057196
+Pipeline +25%,Optimista,B,contribucion_marca_eur,684.4027999999995,-4320.000000000003,18564.58799999997,261.32102320256706
+Pipeline +25%,Optimista,B,ventas_perdidas,-21.095,-87.05,0.0,1.0126151116610715
+Pipeline +25%,Optimista,B,stock_medio,6.695541666666666,5.079166666666649,12.012499999999989,0.08199003616880236
+Pipeline +25%,Optimista,B,servicio_unidades_pct,1.006904538214709,0.0,4.113829058635842,0.04710391800308509
+Pipeline +25%,Optimista,C,contribucion_marca_eur,-139605.48718,-291167.7,49667.5269999992,2819.4867632378623
+Pipeline +25%,Optimista,C,ventas_perdidas,-14.467,-99.0,0.0,0.9841552075117382
+Pipeline +25%,Optimista,C,stock_medio,107.609625,74.58333333333337,145.76666666666665,0.6564259001526453
+Pipeline +25%,Optimista,C,servicio_unidades_pct,0.3347989979558988,0.0,2.242299576346836,0.022697157768139766
+Pipeline +25%,Optimista,CSUV,contribucion_marca_eur,-181227.15416000003,-302795.9999999999,-20399.488000001907,3650.2375285438125
+Pipeline +25%,Optimista,CSUV,ventas_perdidas,-3.049,-20.049999999999997,0.0,0.4264486574694044
+Pipeline +25%,Optimista,CSUV,stock_medio,175.13241666666664,106.35625,253.0,1.4377143302012747
+Pipeline +25%,Optimista,CSUV,servicio_unidades_pct,0.06596200030056698,0.0,0.471652408115833,0.008869572476401206
+Pipeline +25%,Optimista,MD,contribucion_marca_eur,-1145.8240000000005,-1820.0,-900.0,17.74661295276637
+Pipeline +25%,Optimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline +25%,Optimista,MD,stock_medio,1.25,1.25,1.25,0.0
+Pipeline +25%,Optimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline +25%,Optimista,MSUV,contribucion_marca_eur,108039.20346000009,-122233.5,740714.1169999926,9787.220631349734
+Pipeline +25%,Optimista,MSUV,ventas_perdidas,-20.937,-102.0,1.0,1.2406563824279708
+Pipeline +25%,Optimista,MSUV,stock_medio,58.353291666666664,41.412499999999966,71.5,0.2579883279348399
+Pipeline +25%,Optimista,MSUV,servicio_unidades_pct,0.22979721292124633,-0.01023924070162252,1.1799220022322017,0.01358137816487607
+Pipeline +25%,Optimista,S,contribucion_marca_eur,47898.92608999999,3416.4299999996556,87080.10149999971,726.9435139723826
+Pipeline +25%,Optimista,S,ventas_perdidas,-7.523,-13.0,-1.0,0.104930841421774
+Pipeline +25%,Optimista,S,stock_medio,1.518708333333333,-1.0833333333333428,3.25,0.04949727453894815
+Pipeline +25%,Optimista,S,servicio_unidades_pct,0.8618944709828529,0.11451288285894706,1.4212613547075112,0.011544347048817839
+Pipeline +25%,Optimista,SSUV,contribucion_marca_eur,457397.5098699999,381368.4200000018,503469.2204999985,1621.488956211148
+Pipeline +25%,Optimista,SSUV,ventas_perdidas,-114.553,-125.05,-96.95000000000005,0.3835443876493271
+Pipeline +25%,Optimista,SSUV,stock_medio,2.939916666666665,-2.708333333333317,12.54166666666669,0.16121521521385565
+Pipeline +25%,Optimista,SSUV,servicio_unidades_pct,1.1318358081947804,0.9119231177965232,1.3816235918122934,0.004613322894359408
+Pipeline +25%,Optimista,TOTAL,contribucion_marca_eur,292041.57688000007,-74436.7824999839,1032638.6879999958,11029.699295745026
+Pipeline +25%,Optimista,TOTAL,ventas_perdidas,-181.624,-298.0,-108.95000000000005,1.9180415812769827
+Pipeline +25%,Optimista,TOTAL,stock_medio,353.4995,278.6583333333332,438.9624999999997,1.5470162428149588
+Pipeline +25%,Optimista,TOTAL,servicio_unidades_pct,0.605609745053287,0.36410755583827453,0.989980893011144,0.006345937276413281
+Pipeline +25%,Pesimista,B,contribucion_marca_eur,-33658.772119999994,-136885.1199999998,-3960.0,1574.2108739477555
+Pipeline +25%,Pesimista,B,ventas_perdidas,-10.491,-46.0,0.0,0.5576925137922688
+Pipeline +25%,Pesimista,B,stock_medio,5.252125,2.579166666666649,7.0020833333333306,0.055714867906878164
+Pipeline +25%,Pesimista,B,servicio_unidades_pct,0.6648872530958881,0.0,3.0949191119217407,0.034943527201660184
+Pipeline +25%,Pesimista,C,contribucion_marca_eur,-268928.86727999995,-343093.36800000013,-142724.7,2239.0797606725273
+Pipeline +25%,Pesimista,C,ventas_perdidas,-8.206,-65.0,0.0,0.9906901791332299
+Pipeline +25%,Pesimista,C,stock_medio,127.7245,87.25,177.04375000000007,0.8653272193234519
+Pipeline +25%,Pesimista,C,servicio_unidades_pct,0.2679720751960882,0.0,2.0514751844521744,0.03263560441890139
+Pipeline +25%,Pesimista,CSUV,contribucion_marca_eur,-146679.26824,-288582.80000000045,-80262.00000000001,2388.5653818534456
+Pipeline +25%,Pesimista,CSUV,ventas_perdidas,-1.533,0.0,0.0,0.4892098090157609
+Pipeline +25%,Pesimista,CSUV,stock_medio,218.025875,135.8291666666666,253.0,1.2615972217979525
+Pipeline +25%,Pesimista,CSUV,servicio_unidades_pct,0.03693677036880412,0.0,0.0,0.011136188755564233
+Pipeline +25%,Pesimista,MD,contribucion_marca_eur,-1861.5710000000006,-3660.0,-900.0,29.909931845157782
+Pipeline +25%,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Pipeline +25%,Pesimista,MD,stock_medio,1.25,1.25,1.25,0.0
+Pipeline +25%,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Pipeline +25%,Pesimista,MSUV,contribucion_marca_eur,-85439.93262,-144675.0,-42420.0,1201.7434344989545
+Pipeline +25%,Pesimista,MSUV,ventas_perdidas,-1.383,0.0,0.0,0.49576011244258966
+Pipeline +25%,Pesimista,MSUV,stock_medio,62.412375,58.91666666666663,75.08333333333326,0.21246412936875061
+Pipeline +25%,Pesimista,MSUV,servicio_unidades_pct,0.021556274942596317,0.0,0.0,0.0076756011657729455
+Pipeline +25%,Pesimista,S,contribucion_marca_eur,-5422.884350000007,-17220.240000000013,-1440.0,183.21478241946488
+Pipeline +25%,Pesimista,S,ventas_perdidas,-6.215,-17.0,0.0,0.25972722851721425
+Pipeline +25%,Pesimista,S,stock_medio,3.702458333333333,2.0,8.170833333333347,0.07612180443675734
+Pipeline +25%,Pesimista,S,servicio_unidades_pct,1.075447061527184,0.0,3.494215889067651,0.04365205412216097
+Pipeline +25%,Pesimista,SSUV,contribucion_marca_eur,-126735.36702000017,-206766.39900000006,-75694.55999999963,1431.8011948904095
+Pipeline +25%,Pesimista,SSUV,ventas_perdidas,-188.086,-344.0,-108.0,2.6063886636236475
+Pipeline +25%,Pesimista,SSUV,stock_medio,37.887833333333326,24.583333333333314,45.541666666666686,0.18943134225326153
+Pipeline +25%,Pesimista,SSUV,servicio_unidades_pct,3.2604422682705825,1.9735543468704906,5.505689177928178,0.03918975385463955
+Pipeline +25%,Pesimista,TOTAL,contribucion_marca_eur,-668726.6626300002,-882597.2639999996,-474418.25550000026,4033.479074155762
+Pipeline +25%,Pesimista,TOTAL,ventas_perdidas,-215.914,-413.0,-124.0,3.0010289533389676
+Pipeline +25%,Pesimista,TOTAL,stock_medio,456.25516666666664,368.73125,521.1104166666668,1.4494816595935822
+Pipeline +25%,Pesimista,TOTAL,servicio_unidades_pct,1.0618635272530956,0.5770105088231227,2.011359271109878,0.014766035018801442
+Seguridad mitad,Central,B,contribucion_marca_eur,20733.951,299.00000000000006,36336.0,337.65867760381957
+Seguridad mitad,Central,B,ventas_perdidas,69.959,0.0,153.0,1.4274904721391481
+Seguridad mitad,Central,B,stock_medio,-40.430958333333336,-50.0,-25.416666666666686,0.24276327825975702
+Seguridad mitad,Central,B,servicio_unidades_pct,-4.149502106301959,-8.633236243605616,0.0,0.07973726491970348
+Seguridad mitad,Central,C,contribucion_marca_eur,-32860.70859999998,-120442.6000000001,56640.0,2166.2312518902386
+Seguridad mitad,Central,C,ventas_perdidas,33.515,0.0,60.0,0.880003512027754
+Seguridad mitad,Central,C,stock_medio,-42.30449999999999,-73.63125,-4.995833333333341,0.6361620895466805
+Seguridad mitad,Central,C,servicio_unidades_pct,-0.9332697175426561,-2.012708515506071,0.0,0.024722617215113367
+Seguridad mitad,Central,CSUV,contribucion_marca_eur,-10019.947199999984,-220867.43999999927,37495.999999999985,2281.568571972796
+Seguridad mitad,Central,CSUV,ventas_perdidas,5.11,0.0,46.149999999999864,0.4586264691862412
+Seguridad mitad,Central,CSUV,stock_medio,-21.511916666666668,-55.96458333333337,0.0,0.606172237851309
+Seguridad mitad,Central,CSUV,servicio_unidades_pct,-0.15700295501882192,-1.3558261364689344,0.0,0.013733488710671255
+Seguridad mitad,Central,MD,contribucion_marca_eur,-66309.18260000001,-143731.60999999972,13260.0,1460.5498840654436
+Seguridad mitad,Central,MD,ventas_perdidas,14.05,0.0,27.0,0.2532738589899235
+Seguridad mitad,Central,MD,stock_medio,-13.774458333333332,-18.293750000000003,-8.791666666666671,0.08792139610116806
+Seguridad mitad,Central,MD,servicio_unidades_pct,-1.8773393748377962,-3.6714420610818266,0.0,0.03375649701143712
+Seguridad mitad,Central,MSUV,contribucion_marca_eur,-777338.762,-1670435.2299999986,122820.0,16111.642275316528
+Seguridad mitad,Central,MSUV,ventas_perdidas,119.084,0.0,235.0,2.1028958878449298
+Seguridad mitad,Central,MSUV,stock_medio,-137.6055,-170.375,-100.20416666666671,0.6320284335391193
+Seguridad mitad,Central,MSUV,servicio_unidades_pct,-1.639650826654098,-3.2363047865291152,0.0,0.028393894711502447
+Seguridad mitad,Central,S,contribucion_marca_eur,-93966.55180000002,-319403.88000000006,98761.5,4785.3530870498835
+Seguridad mitad,Central,S,ventas_perdidas,24.256,0.0,56.0,0.6552815103891287
+Seguridad mitad,Central,S,stock_medio,-46.44529166666666,-62.500000000000014,-19.03750000000001,0.5046983697780382
+Seguridad mitad,Central,S,servicio_unidades_pct,-3.1185874195112615,-6.6312676412632445,0.0,0.08207354374634893
+Seguridad mitad,Central,SSUV,contribucion_marca_eur,-300650.9424000001,-747781.9200000025,114000.0,7841.932265102806
+Seguridad mitad,Central,SSUV,ventas_perdidas,104.193,0.0,215.0,1.9598864522991903
+Seguridad mitad,Central,SSUV,stock_medio,-133.4149166666667,-158.33333333333331,-97.70416666666665,0.5613541701374628
+Seguridad mitad,Central,SSUV,servicio_unidades_pct,-1.6928114320695726,-3.4217911077818854,0.0,0.03040407146623836
+Seguridad mitad,Central,TOTAL,contribucion_marca_eur,-1260412.1435999998,-2189781.990000012,-360545.0799999986,17531.950431521716
+Seguridad mitad,Central,TOTAL,ventas_perdidas,370.167,201.0,541.05,3.207056020608203
+Seguridad mitad,Central,TOTAL,stock_medio,-435.48754166666663,-493.79999999999984,-373.404166666667,1.1623510538863613
+Seguridad mitad,Central,TOTAL,servicio_unidades_pct,-1.6624388278422295,-2.407261235542194,-0.9038624740909392,0.014151477119170487
+Seguridad mitad,Optimista,B,contribucion_marca_eur,-1423.871759999999,-35444.43199999994,28101.091999999986,640.7851881138951
+Seguridad mitad,Optimista,B,ventas_perdidas,111.629,25.950000000000003,215.04999999999995,1.863165248641071
+Seguridad mitad,Optimista,B,stock_medio,-38.525875,-49.95833333333333,-24.24791666666667,0.25660695092771196
+Seguridad mitad,Optimista,B,servicio_unidades_pct,-5.442208968731641,-9.894024740365142,-1.4498108448928069,0.08138420010575
+Seguridad mitad,Optimista,C,contribucion_marca_eur,-99508.34942,-279305.3580000005,49560.0,2834.4081532389314
+Seguridad mitad,Optimista,C,ventas_perdidas,56.347,0.0,130.0,1.1321008096646001
+Seguridad mitad,Optimista,C,stock_medio,-37.698625,-68.8541666666667,-8.914583333333299,0.556316871862175
+Seguridad mitad,Optimista,C,servicio_unidades_pct,-1.3001351482433876,-2.905835437623708,0.0,0.025924630370939804
+Seguridad mitad,Optimista,CSUV,contribucion_marca_eur,-50368.47935999998,-317293.57199999766,43748.99999999999,3871.036688502303
+Seguridad mitad,Optimista,CSUV,ventas_perdidas,13.586,0.0,61.0,0.7133719250878209
+Seguridad mitad,Optimista,CSUV,stock_medio,-29.637541666666667,-61.0,0.0,0.6133568119775678
+Seguridad mitad,Optimista,CSUV,servicio_unidades_pct,-0.3769212432321223,-1.6982655669361193,0.0,0.019463676014210708
+Seguridad mitad,Optimista,MD,contribucion_marca_eur,-87847.00116000003,-153286.84999999954,-28882.040000000037,1320.8274606639272
+Seguridad mitad,Optimista,MD,ventas_perdidas,17.093,7.0,28.0,0.2202199987463624
+Seguridad mitad,Optimista,MD,stock_medio,-13.324583333333335,-16.83333333333333,-9.041666666666671,0.0747356812640284
+Seguridad mitad,Optimista,MD,servicio_unidades_pct,-2.010904551498374,-3.337284214680126,-0.7633172013504187,0.026388885371425395
+Seguridad mitad,Optimista,MSUV,contribucion_marca_eur,-1412745.0181800001,-2567846.6780000078,-462397.7200000059,19923.979196741126
+Seguridad mitad,Optimista,MSUV,ventas_perdidas,195.231,74.0,342.0,2.526798834761357
+Seguridad mitad,Optimista,MSUV,stock_medio,-121.60720833333333,-154.54999999999995,-82.61041666666668,0.7178432527488954
+Seguridad mitad,Optimista,MSUV,servicio_unidades_pct,-2.191777912025919,-3.619236922015227,-0.9412259603683587,0.026438934190480372
+Seguridad mitad,Optimista,S,contribucion_marca_eur,-128271.95268,-463343.8714999993,111572.79999999999,5364.846812841796
+Seguridad mitad,Optimista,S,ventas_perdidas,28.176,0.0,72.04999999999995,0.6882781056744073
+Seguridad mitad,Optimista,S,stock_medio,-43.08745833333334,-62.500000000000014,-13.533333333333339,0.548807951786402
+Seguridad mitad,Optimista,S,servicio_unidades_pct,-2.8576873505822555,-5.973087347785166,0.0,0.0670630195187687
+Seguridad mitad,Optimista,SSUV,contribucion_marca_eur,-975089.6054999998,-1459697.4700000025,-631169.399500001,8185.556643033875
+Seguridad mitad,Optimista,SSUV,ventas_perdidas,255.33,173.95,376.0,1.9926810778139783
+Seguridad mitad,Optimista,SSUV,stock_medio,-67.622,-113.67500000000001,-35.410416666666634,0.7609999777482254
+Seguridad mitad,Optimista,SSUV,servicio_unidades_pct,-2.5298849050059955,-3.9127004131382703,-1.6549391194869163,0.021797971263394535
+Seguridad mitad,Optimista,TOTAL,contribucion_marca_eur,-2755254.2780599995,-4070282.9989999956,-1635691.3105000078,23164.95232093495
+Seguridad mitad,Optimista,TOTAL,ventas_perdidas,677.392,478.95,895.0,4.024959457514402
+Seguridad mitad,Optimista,TOTAL,stock_medio,-351.5032916666667,-419.5958333333335,-283.3416666666667,1.3088364818411626
+Seguridad mitad,Optimista,TOTAL,servicio_unidades_pct,-2.257916988619655,-2.9593808154867274,-1.6451289189775382,0.012889358382509099
+Seguridad mitad,Pesimista,B,contribucion_marca_eur,205117.46932,36616.0,431839.5360000004,3742.7042196987964
+Seguridad mitad,Pesimista,B,ventas_perdidas,61.101,0.0,145.0,1.3610029860834725
+Seguridad mitad,Pesimista,B,stock_medio,-42.60179166666667,-50.0,-30.82291666666667,0.2006132709675702
+Seguridad mitad,Pesimista,B,servicio_unidades_pct,-3.9530659774087527,-8.99219429523209,0.0,0.08349642449392573
+Seguridad mitad,Pesimista,C,contribucion_marca_eur,114193.40027999999,28320.0,240446.4899999998,2212.889629504107
+Seguridad mitad,Pesimista,C,ventas_perdidas,62.456,0.0,118.0,1.8137259069842018
+Seguridad mitad,Pesimista,C,stock_medio,-43.160083333333326,-68.83333333333337,-9.70833333333337,0.5707791175369803
+Seguridad mitad,Pesimista,C,servicio_unidades_pct,-1.8723244580742024,-4.207224505314157,0.0,0.05378257124989568
+Seguridad mitad,Pesimista,CSUV,contribucion_marca_eur,4758.339600000011,-43930.46400000033,36600.0,842.620019550857
+Seguridad mitad,Pesimista,CSUV,ventas_perdidas,6.695,0.0,60.149999999999864,0.7477587298842576
+Seguridad mitad,Pesimista,CSUV,stock_medio,-16.785041666666665,-50.83333333333337,0.0,0.5668979778354049
+Seguridad mitad,Pesimista,CSUV,servicio_unidades_pct,-0.21452133672642076,-2.0148046144199014,0.0,0.023343156913024635
+Seguridad mitad,Pesimista,MD,contribucion_marca_eur,-23520.903160000005,-62504.19199999986,13260.0,727.3794919962353
+Seguridad mitad,Pesimista,MD,ventas_perdidas,32.814,2.0,64.0,0.5830654932075551
+Seguridad mitad,Pesimista,MD,stock_medio,-14.107583333333332,-18.12708333333333,-10.916666666666671,0.061356564068917936
+Seguridad mitad,Pesimista,MD,servicio_unidades_pct,-4.937442764153651,-9.87900397474866,-0.3133819666207658,0.08389885853088337
+Seguridad mitad,Pesimista,MSUV,contribucion_marca_eur,-178793.3282800001,-445602.9849999996,118812.31399999987,5717.212163979382
+Seguridad mitad,Pesimista,MSUV,ventas_perdidas,319.198,37.0,580.05,5.5714994752223035
+Seguridad mitad,Pesimista,MSUV,stock_medio,-132.267,-170.58333333333326,-95.48333333333335,0.6542112207666058
+Seguridad mitad,Pesimista,MSUV,servicio_unidades_pct,-4.7918631582507984,-9.020213551035459,-0.6170519604292267,0.08113009708567095
+Seguridad mitad,Pesimista,S,contribucion_marca_eur,74666.30609999999,49233.8,102030.76900000001,513.42261636859
+Seguridad mitad,Pesimista,S,ventas_perdidas,37.29,0.0,94.0,1.2309830296227562
+Seguridad mitad,Pesimista,S,stock_medio,-54.07525,-62.500000000000014,-34.87083333333334,0.33083246650189135
+Seguridad mitad,Pesimista,S,servicio_unidades_pct,-6.154785492590612,-14.941730085645444,0.0,0.19466561450001119
+Seguridad mitad,Pesimista,SSUV,contribucion_marca_eur,283287.06827999995,170105.91599999968,412622.35499999934,2611.8443823546118
+Seguridad mitad,Pesimista,SSUV,ventas_perdidas,339.804,99.95,611.0,5.51163275987068
+Seguridad mitad,Pesimista,SSUV,stock_medio,-136.72683333333333,-164.87708333333333,-102.60000000000002,0.6140760029223931
+Seguridad mitad,Pesimista,SSUV,servicio_unidades_pct,-5.824131428885162,-9.947161741028639,-2.0157802191196152,0.08266695565789464
+Seguridad mitad,Pesimista,TOTAL,contribucion_marca_eur,479708.3521399999,69022.5984999991,908082.1745,8208.68955947717
+Seguridad mitad,Pesimista,TOTAL,ventas_perdidas,859.358,493.95,1259.0,7.4191870290600015
+Seguridad mitad,Pesimista,TOTAL,stock_medio,-439.7235833333333,-498.2625,-384.41250000000025,1.0918936847059084
+Seguridad mitad,Pesimista,TOTAL,servicio_unidades_pct,-4.216498632929039,-6.181040413661009,-2.5429161988889843,0.035205335580305995
+Seguridad +50%,Central,B,contribucion_marca_eur,-27163.037,-40425.4,-9000.0,325.04108072024803
+Seguridad +50%,Central,B,ventas_perdidas,-36.125,-84.05,0.0,1.041583540226741
+Seguridad +50%,Central,B,stock_medio,42.212208333333336,26.316666666666677,50.0,0.2667253007327605
+Seguridad +50%,Central,B,servicio_unidades_pct,2.133630510053268,0.0,4.8640319398939305,0.060342136372861586
+Seguridad +50%,Central,C,contribucion_marca_eur,-9096.069200000004,-90530.25,111889.60000000006,2006.2640713885485
+Seguridad +50%,Central,C,ventas_perdidas,-18.2,-59.0,0.0,0.7855756673479195
+Seguridad +50%,Central,C,stock_medio,49.84966666666667,7.383333333333299,71.5,0.6403651888593576
+Seguridad +50%,Central,C,servicio_unidades_pct,0.5101105920237179,0.0,1.7908370176691097,0.022258460903932412
+Seguridad +50%,Central,CSUV,contribucion_marca_eur,-12273.659999999989,-50510.0,0.0,1509.5220483385142
+Seguridad +50%,Central,CSUV,ventas_perdidas,-1.724,0.0,0.0,0.28315013331799443
+Seguridad +50%,Central,CSUV,stock_medio,27.190958333333334,0.0,61.5,0.666385927280387
+Seguridad +50%,Central,CSUV,servicio_unidades_pct,0.04411574295621529,0.0,0.0,0.007165544233045418
+Seguridad +50%,Central,MD,contribucion_marca_eur,28030.02139999999,-17809.2,95883.11999999956,1166.4512133450828
+Seguridad +50%,Central,MD,ventas_perdidas,-7.525,-19.0,0.0,0.20249538113097637
+Seguridad +50%,Central,MD,stock_medio,15.609916666666667,10.833333333333343,18.333333333333343,0.08516496170754198
+Seguridad +50%,Central,MD,servicio_unidades_pct,1.0177614339687824,0.0,2.4857445421961546,0.027524315615534097
+Seguridad +50%,Central,MSUV,contribucion_marca_eur,304377.1933999999,-181658.25,944688.2600000012,13384.831016859858
+Seguridad +50%,Central,MSUV,ventas_perdidas,-58.958,-143.0,0.0,1.7473217704159043
+Seguridad +50%,Central,MSUV,stock_medio,157.75270833333335,120.69583333333337,175.83333333333337,0.5944059712797879
+Seguridad +50%,Central,MSUV,servicio_unidades_pct,0.8173614159402682,0.0,1.9363705941566525,0.02435785837421188
+Seguridad +50%,Central,S,contribucion_marca_eur,34618.63259999998,-94420.8,224039.60000000012,4038.804476962838
+Seguridad +50%,Central,S,ventas_perdidas,-15.249,-38.0,0.0,0.5682040609278104
+Seguridad +50%,Central,S,stock_medio,51.66516666666667,21.620833333333348,62.5,0.4823954243735814
+Seguridad +50%,Central,S,servicio_unidades_pct,1.874452346925243,0.0,5.452201385626559,0.0694132484317101
+Seguridad +50%,Central,SSUV,contribucion_marca_eur,84645.60679999995,-123120.0,363778.0199999993,6368.899754954971
+Seguridad +50%,Central,SSUV,ventas_perdidas,-50.636,-120.05,0.0,1.5884705671628743
+Seguridad +50%,Central,SSUV,stock_medio,144.72716666666668,110.91666666666663,158.33333333333337,0.5014493537724856
+Seguridad +50%,Central,SSUV,servicio_unidades_pct,0.8111876327545976,0.0,1.853710128456273,0.025304442476485726
+Seguridad +50%,Central,TOTAL,contribucion_marca_eur,403138.6880000001,-294251.2999999918,1136439.3900000018,14485.582494028442
+Seguridad +50%,Central,TOTAL,ventas_perdidas,-188.417,-319.0,-60.0,2.4858597324888647
+Seguridad +50%,Central,TOTAL,stock_medio,489.00779166666666,426.6749999999997,549.875,1.177165697871449
+Seguridad +50%,Central,TOTAL,servicio_unidades_pct,0.8474661477305934,0.28115599201227826,1.455597558705164,0.011160121693170879
+Seguridad +50%,Optimista,B,contribucion_marca_eur,-10605.37032,-36000.0,21533.571999999982,529.638342514535
+Seguridad +50%,Optimista,B,ventas_perdidas,-66.997,-146.0,0.0,1.3873441226727834
+Seguridad +50%,Optimista,B,stock_medio,38.84229166666667,22.31250000000001,50.0,0.27740969974890695
+Seguridad +50%,Optimista,B,servicio_unidades_pct,3.2392888946720912,0.0,6.83576687686719,0.06332432981635987
+Seguridad +50%,Optimista,C,contribucion_marca_eur,49373.528379999996,-56640.0,139767.2949999995,2528.1991445865488
+Seguridad +50%,Optimista,C,ventas_perdidas,-37.493,-73.05,0.0,0.9378579468813647
+Seguridad +50%,Optimista,C,stock_medio,43.747,6.33125000000004,76.21458333333325,0.6814390636143792
+Seguridad +50%,Optimista,C,servicio_unidades_pct,0.8677009236649162,0.0,1.8837950967535324,0.02194304736775463
+Seguridad +50%,Optimista,CSUV,contribucion_marca_eur,-229.49536000002269,-51660.0,267105.48800000054,2720.1321743511057
+Seguridad +50%,Optimista,CSUV,ventas_perdidas,-5.274,-54.05,0.0,0.48941235011843376
+Seguridad +50%,Optimista,CSUV,stock_medio,37.820875,0.0,68.66041666666663,0.655068154623725
+Seguridad +50%,Optimista,CSUV,servicio_unidades_pct,0.12331619644036547,0.0,1.1891212125192046,0.011423108987527046
+Seguridad +50%,Optimista,MD,contribucion_marca_eur,61352.39051999999,-13200.0,128079.67999999963,1183.1679772555742
+Seguridad +50%,Optimista,MD,ventas_perdidas,-12.536,-23.0,0.0,0.1977974414086993
+Seguridad +50%,Optimista,MD,stock_medio,13.260458333333332,8.831249999999995,18.33333333333333,0.08884936792497052
+Seguridad +50%,Optimista,MD,servicio_unidades_pct,1.4704899481725946,0.0,2.8403756555320627,0.023748334829615712
+Seguridad +50%,Optimista,MSUV,contribucion_marca_eur,869608.61902,-123457.13399999886,1730322.9389999986,16061.415644619074
+Seguridad +50%,Optimista,MSUV,ventas_perdidas,-127.229,-235.0,-2.0,2.0305594624956766
+Seguridad +50%,Optimista,MSUV,stock_medio,141.296,96.75,175.58333333333337,0.7140977870786478
+Seguridad +50%,Optimista,MSUV,servicio_unidades_pct,1.4262584403643919,0.021627844116265747,2.611483690396638,0.021931253377911096
+Seguridad +50%,Optimista,S,contribucion_marca_eur,78109.96049000001,-97736.0,247288.13099999938,4687.04662410321
+Seguridad +50%,Optimista,S,ventas_perdidas,-20.683,-44.05,0.0,0.6230607640637595
+Seguridad +50%,Optimista,S,stock_medio,47.43745833333333,16.625,62.5,0.5397752487127789
+Seguridad +50%,Optimista,S,servicio_unidades_pct,2.0379198494004327,0.0,4.637035743392713,0.06063770335989057
+Seguridad +50%,Optimista,SSUV,contribucion_marca_eur,709453.8721099999,288663.0500000043,917099.649999995,6950.08647833936
+Seguridad +50%,Optimista,SSUV,ventas_perdidas,-191.009,-235.0,-95.0,1.6170880906409808
+Seguridad +50%,Optimista,SSUV,stock_medio,78.21133333333334,35.41666666666663,137.67916666666662,0.9958840773604046
+Seguridad +50%,Optimista,SSUV,servicio_unidades_pct,1.882316266036954,0.9495585313842817,2.537288504694971,0.016331356750049673
+Seguridad +50%,Optimista,TOTAL,contribucion_marca_eur,1757063.50484,784891.9339999907,2718435.364000005,17979.450982044636
+Seguridad +50%,Optimista,TOTAL,ventas_perdidas,-461.221,-616.05,-300.0,3.075581467033569
+Seguridad +50%,Optimista,TOTAL,stock_medio,400.61541666666665,322.78541666666695,476.7124999999998,1.4814280632926045
+Seguridad +50%,Optimista,TOTAL,servicio_unidades_pct,1.5371915304358972,1.0128467418396128,2.059300790096118,0.009918875254342699
+Seguridad +50%,Pesimista,B,contribucion_marca_eur,-110743.62359999999,-206991.2000000002,-36000.0,2519.05912871736
+Seguridad +50%,Pesimista,B,ventas_perdidas,-26.83,-60.0,0.0,0.9335912878196181
+Seguridad +50%,Pesimista,B,stock_medio,44.90058333333333,32.5,50.0,0.20947148650311453
+Seguridad +50%,Pesimista,B,servicio_unidades_pct,1.7283196922840158,0.0,4.342322231996192,0.0593496987342311
+Seguridad +50%,Pesimista,C,contribucion_marca_eur,-88717.85507999998,-210865.75499999983,-28320.0,1958.8329620453783
+Seguridad +50%,Pesimista,C,ventas_perdidas,-31.816,-118.0,0.0,1.5154183041776406
+Seguridad +50%,Pesimista,C,stock_medio,50.83325,13.162499999999966,76.5,0.5769754905383415
+Seguridad +50%,Pesimista,C,servicio_unidades_pct,0.9591687322574285,0.0,3.732229295787638,0.04569599283418111
+Seguridad +50%,Pesimista,CSUV,contribucion_marca_eur,-14335.862799999997,-45991.0,0.0,697.8588438778991
+Seguridad +50%,Pesimista,CSUV,ventas_perdidas,-2.135,0.0,0.0,0.46279472118203113
+Seguridad +50%,Pesimista,CSUV,stock_medio,21.888625,0.0,61.42083333333329,0.642703308970064
+Seguridad +50%,Pesimista,CSUV,servicio_unidades_pct,0.05632762014206371,0.0,0.0,0.011934897700988252
+Seguridad +50%,Pesimista,MD,contribucion_marca_eur,3902.7517999999973,-22032.0,27143.000000000065,467.7810703322822
+Seguridad +50%,Pesimista,MD,ventas_perdidas,-18.62,-38.0,0.0,0.3681672814729021
+Seguridad +50%,Pesimista,MD,stock_medio,15.396833333333332,12.5,18.333333333333343,0.06034327178185012
+Seguridad +50%,Pesimista,MD,servicio_unidades_pct,2.828298028490764,0.0,5.812578303883865,0.055902822118867386
+Seguridad +50%,Pesimista,MSUV,contribucion_marca_eur,4962.370660000028,-215325.0,279874.47099999944,4678.406043736455
+Seguridad +50%,Pesimista,MSUV,ventas_perdidas,-166.831,-445.15,0.0,4.251259536495819
+Seguridad +50%,Pesimista,MSUV,stock_medio,151.38470833333332,115.84791666666668,175.83333333333337,0.6506423988720913
+Seguridad +50%,Pesimista,MSUV,servicio_unidades_pct,2.5097517728033707,0.0,6.418873626723872,0.06348140182261174
+Seguridad +50%,Pesimista,S,contribucion_marca_eur,-65501.558039999996,-101435.45049999996,-27000.0,792.1315160109627
+Seguridad +50%,Pesimista,S,ventas_perdidas,-10.276,-62.099999999999994,0.0,0.650749797771232
+Seguridad +50%,Pesimista,S,stock_medio,59.91108333333334,44.70833333333333,62.5,0.19392357504213814
+Seguridad +50%,Pesimista,S,servicio_unidades_pct,1.6333136870039373,0.0,10.001497005988021,0.10360950345195002
+Seguridad +50%,Pesimista,SSUV,contribucion_marca_eur,-188722.78349999993,-298069.34249999956,-120813.47099999998,1828.6569075950956
+Seguridad +50%,Pesimista,SSUV,ventas_perdidas,-138.55,-369.05,0.0,3.770665646728628
+Seguridad +50%,Pesimista,SSUV,stock_medio,151.00875,121.57916666666665,166.16666666666669,0.448109691010049
+Seguridad +50%,Pesimista,SSUV,servicio_unidades_pct,2.3355231114898807,0.0,5.75990564178076,0.06150551657741633
+Seguridad +50%,Pesimista,TOTAL,contribucion_marca_eur,-459156.56055999995,-802657.7744999996,-136814.61300000007,6479.404582397499
+Seguridad +50%,Pesimista,TOTAL,ventas_perdidas,-395.058,-705.1,-125.95000000000005,5.5886418344311135
+Seguridad +50%,Pesimista,TOTAL,stock_medio,495.32383333333337,441.19791666666686,550.9270833333336,1.0479192060784186
+Seguridad +50%,Pesimista,TOTAL,servicio_unidades_pct,1.939065023432674,0.6464675855561026,3.415187036457701,0.02709277746804901
+Edades iniciales jóvenes,Central,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,C,contribucion_marca_eur,-1510.5439999999999,-7448.0,0.0,106.68136606704061
+Edades iniciales jóvenes,Central,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,CSUV,contribucion_marca_eur,-3476.06,-17028.2,0.0,188.8318285880002
+Edades iniciales jóvenes,Central,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MD,contribucion_marca_eur,-730.128,-1596.0,-168.0,14.464027921700087
+Edades iniciales jóvenes,Central,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,TOTAL,contribucion_marca_eur,-5716.732,-20165.6,-196.0,210.76886704513905
+Edades iniciales jóvenes,Central,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Central,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,C,contribucion_marca_eur,-1075.648,-5964.0,0.0,79.96334658387487
+Edades iniciales jóvenes,Optimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,CSUV,contribucion_marca_eur,-1294.412,-10395.0,0.0,116.70561651944256
+Edades iniciales jóvenes,Optimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MD,contribucion_marca_eur,-532.4480000000004,-1064.0,-140.0,7.907385284532304
+Edades iniciales jóvenes,Optimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,TOTAL,contribucion_marca_eur,-2902.508,-13637.4,-140.0,138.90405251734646
+Edades iniciales jóvenes,Optimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Optimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,B,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,C,contribucion_marca_eur,-2070.347999999998,-9886.8,0.0,130.31553879160595
+Edades iniciales jóvenes,Pesimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,CSUV,contribucion_marca_eur,-5095.552,-19908.0,0.0,220.83367855669314
+Edades iniciales jóvenes,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MD,contribucion_marca_eur,-762.7480000000002,-1596.0,-196.0,14.583624604418574
+Edades iniciales jóvenes,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,TOTAL,contribucion_marca_eur,-7928.648000000003,-23493.4,-252.0,247.94965447697498
+Edades iniciales jóvenes,Pesimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales jóvenes,Pesimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,B,contribucion_marca_eur,-924.0,-924.0,-924.0,0.0
+Edades iniciales mayores,Central,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,C,contribucion_marca_eur,-98111.367,-201510.0,-54927.0,1475.4026522222657
+Edades iniciales mayores,Central,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,CSUV,contribucion_marca_eur,-148894.23,-305380.2,-50576.0,2812.4104203326183
+Edades iniciales mayores,Central,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MD,contribucion_marca_eur,-5686.851,-9234.0,312.0,96.303711214016
+Edades iniciales mayores,Central,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MSUV,contribucion_marca_eur,-37009.79,-54029.0,-34919.0,178.02872339106477
+Edades iniciales mayores,Central,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,TOTAL,contribucion_marca_eur,-290626.238,-466019.0,-156843.0,3173.193547521073
+Edades iniciales mayores,Central,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Central,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,B,contribucion_marca_eur,-924.0,-924.0,-924.0,8.235925342460956e-14
+Edades iniciales mayores,Optimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,C,contribucion_marca_eur,-105945.92100000002,-163470.0,-58320.0,1218.8823080624588
+Edades iniciales mayores,Optimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,CSUV,contribucion_marca_eur,-118598.57800000002,-303986.2,-50576.0,2743.369009655291
+Edades iniciales mayores,Optimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MD,contribucion_marca_eur,-6189.191000000004,-9169.0,-4159.0,52.30580035971404
+Edades iniciales mayores,Optimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MSUV,contribucion_marca_eur,-36386.76500000007,-50324.0,-34919.0,144.29457544994222
+Edades iniciales mayores,Optimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,TOTAL,contribucion_marca_eur,-268044.455,-481768.6,-162835.25000000003,3128.279619397394
+Edades iniciales mayores,Optimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Optimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,B,contribucion_marca_eur,-924.0,-924.0,-924.0,0.0
+Edades iniciales mayores,Pesimista,B,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,B,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,B,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,C,contribucion_marca_eur,-95269.37399999997,-228618.0,-50940.0,1667.667516229422
+Edades iniciales mayores,Pesimista,C,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,C,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,C,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,CSUV,contribucion_marca_eur,-161244.596,-305683.8,-50576.0,2765.940098598272
+Edades iniciales mayores,Pesimista,CSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,CSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,CSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MD,contribucion_marca_eur,-5651.143,-8768.0,312.0,94.54655420195104
+Edades iniciales mayores,Pesimista,MD,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MD,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MD,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MSUV,contribucion_marca_eur,-37871.884999999995,-57344.0,-34919.0,215.1439362731148
+Edades iniciales mayores,Pesimista,MSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,MSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,S,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,S,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,S,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,S,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,SSUV,contribucion_marca_eur,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,SSUV,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,SSUV,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,SSUV,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,TOTAL,contribucion_marca_eur,-300960.998,-480826.1,-158476.0,3188.5325683259493
+Edades iniciales mayores,Pesimista,TOTAL,ventas_perdidas,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,TOTAL,stock_medio,0.0,0.0,0.0,0.0
+Edades iniciales mayores,Pesimista,TOTAL,servicio_unidades_pct,0.0,0.0,0.0,0.0
+Seguridad 75%,Central,B,contribucion_marca_eur,11089.126,664.75,18840.0,174.62395800357075
+Seguridad 75%,Central,B,ventas_perdidas,30.154,0.0,73.0,0.6977285353983376
+Seguridad 75%,Central,B,stock_medio,-20.280333333333335,-25.0,-12.118750000000006,0.13332681634473725
+Seguridad 75%,Central,B,servicio_unidades_pct,-1.7866164525987749,-4.228740550754218,0.0,0.03959446968468408
+Seguridad 75%,Central,C,contribucion_marca_eur,-10052.031199999996,-59905.0,29923.34999999999,1118.948134857522
+Seguridad 75%,Central,C,ventas_perdidas,14.236,0.0,30.0,0.4532325272128246
+Seguridad 75%,Central,C,stock_medio,-22.06433333333333,-39.33333333333326,-2.4583333333333712,0.33291570660008574
+Seguridad 75%,Central,C,servicio_unidades_pct,-0.3987341684789794,-0.9769761113144397,0.0,0.012855806355362372
+Seguridad 75%,Central,CSUV,contribucion_marca_eur,-747.8847999999961,-102825.06000000033,21960.0,1082.121598134793
+Seguridad 75%,Central,CSUV,ventas_perdidas,1.822,0.0,23.049999999999955,0.21504548486438996
+Seguridad 75%,Central,CSUV,stock_medio,-11.516291666666667,-30.5,0.0,0.31673476505709125
+Seguridad 75%,Central,CSUV,servicio_unidades_pct,-0.052082762699734914,-0.5860022626970568,0.0,0.006164776046867441
+Seguridad 75%,Central,MD,contribucion_marca_eur,-29692.81080000001,-74374.91000000027,7200.0,786.1484540107336
+Seguridad 75%,Central,MD,ventas_perdidas,6.559,0.0,14.0,0.13638592346763692
+Seguridad 75%,Central,MD,stock_medio,-7.852291666666666,-10.0,-4.995833333333331,0.05022392396083897
+Seguridad 75%,Central,MD,servicio_unidades_pct,-0.8774226132778123,-1.8954002408416812,0.0,0.01825412434427622
+Seguridad 75%,Central,MSUV,contribucion_marca_eur,-330810.4724,-832912.3099999971,63000.0,8341.695508021163
+Seguridad 75%,Central,MSUV,ventas_perdidas,52.337,0.0,117.0,1.0919027807834736
+Seguridad 75%,Central,MSUV,stock_medio,-73.27075,-87.5,-54.10208333333336,0.34243962509373
+Seguridad 75%,Central,MSUV,servicio_unidades_pct,-0.7198684577956185,-1.5831546368906395,0.0,0.014734299689071279
+Seguridad 75%,Central,S,contribucion_marca_eur,-40643.10340000001,-116998.00000000009,50986.0,2380.8855878688732
+Seguridad 75%,Central,S,ventas_perdidas,11.176,0.0,20.0,0.33076945510798367
+Seguridad 75%,Central,S,stock_medio,-24.136791666666667,-31.66666666666667,-9.745833333333337,0.25961281476389275
+Seguridad 75%,Central,S,servicio_unidades_pct,-1.424930678524936,-3.2481413183468,0.0,0.04185122980587252
+Seguridad 75%,Central,SSUV,contribucion_marca_eur,-114040.21420000002,-365552.8000000011,57384.0,3957.8922597889214
+Seguridad 75%,Central,SSUV,ventas_perdidas,43.057,0.0,106.04999999999995,0.9901424812284003
+Seguridad 75%,Central,SSUV,stock_medio,-68.83045833333334,-79.16666666666669,-51.45208333333332,0.2846383340340647
+Seguridad 75%,Central,SSUV,servicio_unidades_pct,-0.696734271637301,-1.65740687919803,0.0,0.01562407020604933
+Seguridad 75%,Central,TOTAL,contribucion_marca_eur,-514897.3907999998,-1023326.2900000059,-27557.940000002836,9199.063414833905
+Seguridad 75%,Central,TOTAL,ventas_perdidas,159.341,78.95,248.04999999999995,1.6648791372173364
+Seguridad 75%,Central,TOTAL,stock_medio,-227.95125,-258.25,-195.43958333333305,0.6236382605822115
+Seguridad 75%,Central,TOTAL,servicio_unidades_pct,-0.7155830725558256,-1.0961412557641494,-0.3525339962802897,0.007360124459438333
+Seguridad 75%,Optimista,B,contribucion_marca_eur,1788.3562399999994,-14434.355999999956,18000.0,318.09453340916036
+Seguridad 75%,Optimista,B,ventas_perdidas,47.129,0.0,86.0,0.8937881271398812
+Seguridad 75%,Optimista,B,stock_medio,-19.568541666666665,-25.0,-11.250000000000014,0.140378170097829
+Seguridad 75%,Optimista,B,servicio_unidades_pct,-2.2891580373454254,-4.305441241655208,0.0,0.040015221115333975
+Seguridad 75%,Optimista,C,contribucion_marca_eur,-42023.49008000002,-140219.6530000008,24785.999999999993,1436.08614727373
+Seguridad 75%,Optimista,C,ventas_perdidas,24.958,0.0,65.0,0.5691486327543678
+Seguridad 75%,Optimista,C,stock_medio,-19.05033333333333,-34.41666666666674,-2.4583333333333712,0.3051133696887228
+Seguridad 75%,Optimista,C,servicio_unidades_pct,-0.5772692130646722,-1.4286297852474341,0.0,0.013163677526866514
+Seguridad 75%,Optimista,CSUV,contribucion_marca_eur,-15556.554800000013,-158421.59999999963,21960.0,1836.020465632228
+Seguridad 75%,Optimista,CSUV,ventas_perdidas,5.145,0.0,31.0,0.335834423131042
+Seguridad 75%,Optimista,CSUV,stock_medio,-16.011374999999997,-30.5,0.0,0.3224793716685596
+Seguridad 75%,Optimista,CSUV,servicio_unidades_pct,-0.13633470653610819,-0.7927891832957271,0.0,0.00890466617608034
+Seguridad 75%,Optimista,MD,contribucion_marca_eur,-46909.19008000003,-82159.60000000006,-23586.319999999836,707.2115306852755
+Seguridad 75%,Optimista,MD,ventas_perdidas,9.129,6.0,15.0,0.11805208721278626
+Seguridad 75%,Optimista,MD,stock_medio,-7.128625,-9.416666666666657,-4.666666666666671,0.04629246914236179
+Seguridad 75%,Optimista,MD,servicio_unidades_pct,-1.0739620087095714,-1.8031514593149383,-0.6016851754063305,0.014263733820930588
+Seguridad 75%,Optimista,MSUV,contribucion_marca_eur,-666705.8256600003,-1185473.8789999965,-318379.46000000066,10056.47560710352
+Seguridad 75%,Optimista,MSUV,ventas_perdidas,92.907,52.0,159.0,1.2756298767991374
+Seguridad 75%,Optimista,MSUV,stock_medio,-65.07058333333333,-79.87916666666666,-43.958333333333364,0.38248924282264685
+Seguridad 75%,Optimista,MSUV,servicio_unidades_pct,-1.0410484168559078,-1.6868839690554713,-0.5297672129698138,0.013352147758887095
+Seguridad 75%,Optimista,S,contribucion_marca_eur,-57971.49434000002,-232693.3300000003,60944.0,2735.477438812726
+Seguridad 75%,Optimista,S,ventas_perdidas,13.358,0.0,37.0,0.35148453362470644
+Seguridad 75%,Optimista,S,stock_medio,-22.21025,-31.66666666666667,-7.916666666666657,0.28475738290918456
+Seguridad 75%,Optimista,S,servicio_unidades_pct,-1.343176635441208,-2.89297205223646,0.0,0.03433405313074771
+Seguridad 75%,Optimista,SSUV,contribucion_marca_eur,-447267.96478999994,-719166.0390000014,-183439.51849999465,4033.894611517152
+Seguridad 75%,Optimista,SSUV,ventas_perdidas,117.641,58.0,185.0,0.9709133801693083
+Seguridad 75%,Optimista,SSUV,stock_medio,-33.998708333333326,-61.71249999999998,-17.458333333333314,0.44306613426632896
+Seguridad 75%,Optimista,SSUV,servicio_unidades_pct,-1.1647020960710321,-1.889188367523807,-0.601986868669947,0.010499479577190862
+Seguridad 75%,Optimista,TOTAL,contribucion_marca_eur,-1274646.1635099999,-1865662.7950000092,-733234.4770000064,11653.65064724974
+Seguridad 75%,Optimista,TOTAL,ventas_perdidas,310.267,211.0,411.04999999999995,1.94847896608644
+Seguridad 75%,Optimista,TOTAL,stock_medio,-183.03841666666668,-219.40625,-146.32708333333346,0.7205351579371725
+Seguridad 75%,Optimista,TOTAL,servicio_unidades_pct,-1.034319267053927,-1.3797259194439733,-0.7161620690614264,0.006293782047269508
+Seguridad 75%,Pesimista,B,contribucion_marca_eur,88613.91408,18000.0,212657.47800000003,1806.7115337066318
+Seguridad 75%,Pesimista,B,ventas_perdidas,25.544,0.0,71.0,0.6585254131160921
+Seguridad 75%,Pesimista,B,stock_medio,-21.4985,-25.0,-15.662499999999994,0.1064965229398931
+Seguridad 75%,Pesimista,B,servicio_unidades_pct,-1.6519707809671247,-4.281602504284973,0.0,0.04111433741761508
+Seguridad 75%,Pesimista,C,contribucion_marca_eur,51986.48328000001,14109.000000000004,118345.19399999984,1122.200460999848
+Seguridad 75%,Pesimista,C,ventas_perdidas,25.706,0.0,59.0,0.9079393800898371
+Seguridad 75%,Pesimista,C,stock_medio,-22.731083333333334,-34.41666666666674,-3.331250000000036,0.30457611554219066
+Seguridad 75%,Pesimista,C,servicio_unidades_pct,-0.7758703627223859,-2.0701754385964932,0.0,0.027493499040551667
+Seguridad 75%,Pesimista,CSUV,contribucion_marca_eur,4206.742160000003,0.0,18602.0,391.7460062972621
+Seguridad 75%,Pesimista,CSUV,ventas_perdidas,2.147,0.0,2.0499999999999545,0.32790076228930903
+Seguridad 75%,Pesimista,CSUV,stock_medio,-9.048291666666668,-26.7291666666667,0.0,0.29908066452871307
+Seguridad 75%,Pesimista,CSUV,servicio_unidades_pct,-0.0641662976134991,-0.07017742750153738,0.0,0.009825029148313876
+Seguridad 75%,Pesimista,MD,contribucion_marca_eur,-9320.069240000004,-30939.351999999963,8153.415999999917,364.3941403700046
+Seguridad 75%,Pesimista,MD,ventas_perdidas,15.296,0.0,33.0,0.2941375543872304
+Seguridad 75%,Pesimista,MD,stock_medio,-8.026166666666667,-10.0,-6.5,0.031460450196925976
+Seguridad 75%,Pesimista,MD,servicio_unidades_pct,-2.3067686593716887,-5.030535741678172,0.0,0.04296814887991123
+Seguridad 75%,Pesimista,MSUV,contribucion_marca_eur,-65249.703919999985,-219951.9189999985,76713.31600000085,2978.9624235276697
+Seguridad 75%,Pesimista,MSUV,ventas_perdidas,139.322,0.0,290.04999999999995,2.907221741500681
+Seguridad 75%,Pesimista,MSUV,stock_medio,-70.65916666666668,-87.5,-49.57500000000004,0.3625837129454904
+Seguridad 75%,Pesimista,MSUV,servicio_unidades_pct,-2.0909960145699915,-4.332640709015363,0.0,0.04266482197199655
+Seguridad 75%,Pesimista,S,contribucion_marca_eur,36583.29415000001,18838.169000000016,53058.86900000001,315.8035507816756
+Seguridad 75%,Pesimista,S,ventas_perdidas,14.835,0.0,38.0,0.5931927618006246
+Seguridad 75%,Pesimista,S,stock_medio,-27.748208333333334,-31.666666666666686,-16.745833333333337,0.18265567130310997
+Seguridad 75%,Pesimista,S,servicio_unidades_pct,-2.4094242133918717,-7.350808930472452,0.0,0.09557110509344681
+Seguridad 75%,Pesimista,SSUV,contribucion_marca_eur,124153.77671999997,61560.0,189588.70050000065,1315.068347793396
+Seguridad 75%,Pesimista,SSUV,ventas_perdidas,132.296,0.0,267.0,2.7750836876522254
+Seguridad 75%,Pesimista,SSUV,stock_medio,-71.62216666666666,-83.125,-53.039583333333354,0.32401160034178556
+Seguridad 75%,Pesimista,SSUV,servicio_unidades_pct,-2.252559563679024,-4.457410224182731,0.0,0.04347437677381497
+Seguridad 75%,Pesimista,TOTAL,contribucion_marca_eur,230974.43722999995,14131.941000000485,443835.4935000004,4185.160717997832
+Seguridad 75%,Pesimista,TOTAL,ventas_perdidas,355.146,170.0,576.05,3.9130467181748063
+Seguridad 75%,Pesimista,TOTAL,stock_medio,-231.3335833333333,-262.63125,-201.04166666666694,0.6005763992976564
+Seguridad 75%,Pesimista,TOTAL,servicio_unidades_pct,-1.742802972832869,-2.839771862843347,-0.8625769413261609,0.01881141633233335
+Seguridad 125%,Central,B,contribucion_marca_eur,-12765.144,-19848.0,-3292.500000000007,170.12135381629284
+Seguridad 125%,Central,B,ventas_perdidas,-21.424,-59.0,0.0,0.5939419087680133
+Seguridad 125%,Central,B,stock_medio,20.764833333333335,12.733333333333334,25.0,0.137959347286532
+Seguridad 125%,Central,B,servicio_unidades_pct,1.267344477425057,0.0,3.3372319688109213,0.034358525297506624
+Seguridad 125%,Central,C,contribucion_marca_eur,-812.1379999999994,-43295.25,58035.60000000006,1071.436456324619
+Seguridad 125%,Central,C,ventas_perdidas,-10.394,-30.0,0.0,0.42495334961540115
+Seguridad 125%,Central,C,stock_medio,24.126791666666673,2.4583333333333712,37.16666666666663,0.3353234177435205
+Seguridad 125%,Central,C,servicio_unidades_pct,0.29155296455959273,0.0,0.9394741625564904,0.012094772137159164
+Seguridad 125%,Central,CSUV,contribucion_marca_eur,-4510.687999999991,-22806.0,0.0,857.2281920712245
+Seguridad 125%,Central,CSUV,ventas_perdidas,-1.046,0.0,0.0,0.16555147625826624
+Seguridad 125%,Central,CSUV,stock_medio,13.040125,0.0,31.0,0.33537829310591855
+Seguridad 125%,Central,CSUV,servicio_unidades_pct,0.027501543004264193,0.0,0.0,0.004381798543122029
+Seguridad 125%,Central,MD,contribucion_marca_eur,16994.206399999995,-8624.0,60367.080000000096,636.7084584777053
+Seguridad 125%,Central,MD,ventas_perdidas,-4.258,-12.0,0.0,0.11090417366238177
+Seguridad 125%,Central,MD,stock_medio,7.667083333333334,5.041666666666657,9.166666666666671,0.04548327469397953
+Seguridad 125%,Central,MD,servicio_unidades_pct,0.5741576905612691,0.0,1.5604681404421257,0.014952935868518464
+Seguridad 125%,Central,MSUV,contribucion_marca_eur,207774.25519999993,-84270.0,722488.4299999956,7684.802253099025
+Seguridad 125%,Central,MSUV,ventas_perdidas,-36.509,-106.05,0.0,1.003574152756078
+Seguridad 125%,Central,MSUV,stock_medio,77.055125,56.57500000000003,88.33333333333337,0.34914484889894254
+Seguridad 125%,Central,MSUV,servicio_unidades_pct,0.5033821181509647,0.0,1.3195726034430038,0.013784208031371824
+Seguridad 125%,Central,S,contribucion_marca_eur,24068.71679999999,-49536.799999999996,114421.79999999981,2186.894144404449
+Seguridad 125%,Central,S,ventas_perdidas,-8.706,-19.0,0.0,0.30648898756643683
+Seguridad 125%,Central,S,stock_medio,25.530083333333337,10.162499999999993,31.666666666666686,0.25602385172118275
+Seguridad 125%,Central,S,servicio_unidades_pct,1.0830140295151147,0.0,2.8661517657460895,0.03807451128111985
+Seguridad 125%,Central,SSUV,contribucion_marca_eur,59906.55420000003,-61560.0,260080.43000000046,3526.290676354282
+Seguridad 125%,Central,SSUV,ventas_perdidas,-29.625,-80.0,0.0,0.8825719847742213
+Seguridad 125%,Central,SSUV,stock_medio,71.65529166666666,54.62291666666667,79.16666666666674,0.26347008700970537
+Seguridad 125%,Central,SSUV,servicio_unidades_pct,0.47584491066190565,0.0,1.1986559648525905,0.014117301749546186
+Seguridad 125%,Central,TOTAL,contribucion_marca_eur,290655.76259999996,-123964.97999999448,746149.9300000141,8271.704797461713
+Seguridad 125%,Central,TOTAL,ventas_perdidas,-111.962,-190.0,-39.950000000000045,1.4109093596759579
+Seguridad 125%,Central,TOTAL,stock_medio,239.83933333333331,208.5770833333335,271.98333333333346,0.6246408673228132
+Seguridad 125%,Central,TOTAL,servicio_unidades_pct,0.503035559051057,0.17908617869854523,0.844579743096768,0.006286578351906399
+Seguridad 125%,Optimista,B,contribucion_marca_eur,-4246.46032,-18000.0,12782.667999999969,287.2529891643109
+Seguridad 125%,Optimista,B,ventas_perdidas,-37.472,-82.0,0.0,0.7700169752298596
+Seguridad 125%,Optimista,B,stock_medio,19.439416666666666,10.333333333333343,25.0,0.14479166972128
+Seguridad 125%,Optimista,B,servicio_unidades_pct,1.8141395384380472,0.0,3.793696596905685,0.03514625885212809
+Seguridad 125%,Optimista,C,contribucion_marca_eur,29921.079800000018,-28320.0,81955.44699999972,1336.4958840316467
+Seguridad 125%,Optimista,C,ventas_perdidas,-20.44,-42.05,0.0,0.5098257764396796
+Seguridad 125%,Optimista,C,stock_medio,20.704666666666665,2.4583333333333712,36.881249999999994,0.33701391797474245
+Seguridad 125%,Optimista,C,servicio_unidades_pct,0.47335898726787334,0.0,1.0153139708569763,0.011877170226253637
+Seguridad 125%,Optimista,CSUV,contribucion_marca_eur,2733.370239999994,-24720.0,155326.3599999994,1532.7477374896428
+Seguridad 125%,Optimista,CSUV,ventas_perdidas,-3.054,-31.0,0.0,0.27801146446572017
+Seguridad 125%,Optimista,CSUV,stock_medio,18.30291666666667,0.0,33.793750000000074,0.3375212322420007
+Seguridad 125%,Optimista,CSUV,servicio_unidades_pct,0.07313771666212279,0.0,0.6904244440400824,0.006701084592089594
+Seguridad 125%,Optimista,MD,contribucion_marca_eur,34128.92624,-6600.0,68315.20599999983,629.6802810589961
+Seguridad 125%,Optimista,MD,ventas_perdidas,-6.772,-12.0,0.0,0.10539033695326684
+Seguridad 125%,Optimista,MD,stock_medio,6.4995,4.164583333333338,9.166666666666657,0.045055928923679066
+Seguridad 125%,Optimista,MD,servicio_unidades_pct,0.7962780844183881,0.0,1.5094558762299244,0.012776264376687108
+Seguridad 125%,Optimista,MSUV,contribucion_marca_eur,506088.34242000006,-48130.760000004986,942337.1590000041,9097.905736766877
+Seguridad 125%,Optimista,MSUV,ventas_perdidas,-72.669,-127.05,-2.0,1.1516274070569372
+Seguridad 125%,Optimista,MSUV,stock_medio,69.611,45.45625000000003,88.08333333333337,0.39047458227059995
+Seguridad 125%,Optimista,MSUV,servicio_unidades_pct,0.8144583340236281,0.021627844116265747,1.3885327855686709,0.012367212878185485
+Seguridad 125%,Optimista,S,contribucion_marca_eur,47011.37536,-53276.8,151435.9800000015,2521.806088456612
+Seguridad 125%,Optimista,S,ventas_perdidas,-11.532,-26.0,0.0,0.33504213052872805
+Seguridad 125%,Optimista,S,stock_medio,23.358708333333336,7.916666666666671,31.666666666666686,0.2820346006162439
+Seguridad 125%,Optimista,S,servicio_unidades_pct,1.1458865739182074,0.0,2.6134800550206316,0.033040166039686895
+Seguridad 125%,Optimista,SSUV,contribucion_marca_eur,381792.62795000005,143089.3200000003,462689.8100000024,3515.7079698710577
+Seguridad 125%,Optimista,SSUV,ventas_perdidas,-101.945,-119.05,-48.0,0.8116481674640484
+Seguridad 125%,Optimista,SSUV,stock_medio,37.43266666666666,17.5,68.125,0.5110519155834685
+Seguridad 125%,Optimista,SSUV,servicio_unidades_pct,1.0053124657540404,0.4791739399181466,1.3283145311909847,0.008336834492114328
+Seguridad 125%,Optimista,TOTAL,contribucion_marca_eur,997429.2616900001,471215.33399998845,1490983.910500005,10043.704208033121
+Seguridad 125%,Optimista,TOTAL,ventas_perdidas,-253.884,-341.0,-165.0,1.6792058469039097
+Seguridad 125%,Optimista,TOTAL,stock_medio,195.348875,155.2770833333332,234.75208333333333,0.7687822429167942
+Seguridad 125%,Optimista,TOTAL,servicio_unidades_pct,0.8460917080025951,0.5586804801244171,1.1282101773615267,0.005399675023544889
+Seguridad 125%,Pesimista,B,contribucion_marca_eur,-63364.102759999994,-110413.0259999996,-18000.0,1437.801339308006
+Seguridad 125%,Pesimista,B,ventas_perdidas,-16.393,-33.05,0.0,0.5299220398967837
+Seguridad 125%,Pesimista,B,stock_medio,22.085125,16.074999999999985,25.0,0.11102042995532257
+Seguridad 125%,Pesimista,B,servicio_unidades_pct,1.0582540872794195,0.0,2.373700047179758,0.03374198087488397
+Seguridad 125%,Pesimista,C,contribucion_marca_eur,-46424.257020000005,-114227.3489999999,-14160.0,1063.211408136323
+Seguridad 125%,Pesimista,C,ventas_perdidas,-18.679,-59.0,0.0,0.8382748139265928
+Seguridad 125%,Pesimista,C,stock_medio,24.650875,4.533333333333406,37.16666666666674,0.3084545212668374
+Seguridad 125%,Pesimista,C,servicio_unidades_pct,0.565657719327153,0.0,1.9851951547779265,0.025494302853701536
+Seguridad 125%,Pesimista,CSUV,contribucion_marca_eur,-6320.588879999998,-22320.0,0.0,364.5447413186615
+Seguridad 125%,Pesimista,CSUV,ventas_perdidas,-1.271,0.0,0.0,0.2612926191702185
+Seguridad 125%,Pesimista,CSUV,stock_medio,10.389208333333336,0.0,31.0,0.32103759796048
+Seguridad 125%,Pesimista,CSUV,servicio_unidades_pct,0.034668937780191866,0.0,0.0,0.007054747688505756
+Seguridad 125%,Pesimista,MD,contribucion_marca_eur,3735.417199999997,-10648.0,22586.824,264.01664866727947
+Seguridad 125%,Pesimista,MD,ventas_perdidas,-10.505,-27.0,0.0,0.20929352302156604
+Seguridad 125%,Pesimista,MD,stock_medio,7.592541666666667,5.958333333333343,9.166666666666671,0.030266920910987764
+Seguridad 125%,Pesimista,MD,servicio_unidades_pct,1.5935442413880714,0.0,3.8364176421159626,0.031637346715108504
+Seguridad 125%,Pesimista,MSUV,contribucion_marca_eur,18129.60578000003,-104940.0,199198.2020000015,2673.4958698950672
+Seguridad 125%,Pesimista,MSUV,ventas_perdidas,-96.323,-271.0,0.0,2.4971296176464945
+Seguridad 125%,Pesimista,MSUV,stock_medio,74.60504166666665,55.5729166666667,88.33333333333337,0.3499799932091668
+Seguridad 125%,Pesimista,MSUV,servicio_unidades_pct,1.446895695789994,0.0,3.9679345057090316,0.03696575716500892
+Seguridad 125%,Pesimista,S,contribucion_marca_eur,-34412.56975,-54333.06900000002,-13680.0,410.0807293787112
+Seguridad 125%,Pesimista,S,ventas_perdidas,-7.675,-38.0,0.0,0.4443904340305469
+Seguridad 125%,Pesimista,S,stock_medio,29.70045833333333,19.741666666666653,31.666666666666686,0.1336996635850333
+Seguridad 125%,Pesimista,S,servicio_unidades_pct,1.2288020465802372,0.0,6.628464128464131,0.07167883386856753
+Seguridad 125%,Pesimista,SSUV,contribucion_marca_eur,-102348.18585,-175660.81349999947,-59326.565999999366,1104.2168604774547
+Seguridad 125%,Pesimista,SSUV,ventas_perdidas,-86.005,-238.05,0.0,2.303138167896234
+Seguridad 125%,Pesimista,SSUV,stock_medio,74.63404166666666,57.787499999999966,83.12916666666672,0.27307113627905205
+Seguridad 125%,Pesimista,SSUV,servicio_unidades_pct,1.4514977108178335,0.0,3.8160058027079393,0.037228189927778474
+Seguridad 125%,Pesimista,TOTAL,contribucion_marca_eur,-231004.68127999996,-418159.40199999954,-38539.010500000084,3663.7860713222735
+Seguridad 125%,Pesimista,TOTAL,ventas_perdidas,-236.851,-426.0,-81.65000000000032,3.3346410046104857
+Seguridad 125%,Pesimista,TOTAL,stock_medio,243.65729166666668,214.5604166666668,274.0854166666668,0.5684338311969728
+Seguridad 125%,Pesimista,TOTAL,servicio_unidades_pct,1.1620878181307335,0.39579591433709144,2.070835730313422,0.01611773738276126
+Seguridad doble,Central,B,contribucion_marca_eur,-61475.369,-83064.2,-26682.000000000015,565.4728609467534
+Seguridad doble,Central,B,ventas_perdidas,-49.945,-120.0,0.0,1.59142030701936
+Seguridad doble,Central,B,stock_medio,88.366625,57.916666666666686,100.00000000000003,0.45751350563914195
+Seguridad doble,Central,B,servicio_unidades_pct,2.940856926579286,0.0,7.634494148925453,0.09199102744064398
+Seguridad doble,Central,C,contribucion_marca_eur,-48837.0066,-202072.8000000002,190687.06000000008,3523.077321011093
+Seguridad doble,Central,C,ventas_perdidas,-27.105,-118.0,0.0,1.2723280998994693
+Seguridad doble,Central,C,stock_medio,107.79545833333333,30.237500000000107,150.16666666666663,1.1336897755681286
+Seguridad doble,Central,C,servicio_unidades_pct,0.7551451877835037,0.0,3.251453467315374,0.0356960416928824
+Seguridad doble,Central,CSUV,contribucion_marca_eur,-34724.40839999999,-117068.0,0.0,2638.7787272998366
+Seguridad doble,Central,CSUV,ventas_perdidas,-2.889,-5.0,0.0,0.4598370680242396
+Seguridad doble,Central,CSUV,stock_medio,59.559083333333334,0.0,123.75833333333333,1.317841672647827
+Seguridad doble,Central,CSUV,servicio_unidades_pct,0.07147701508741375,0.0,0.14755625652218918,0.01123261168292067
+Seguridad doble,Central,MD,contribucion_marca_eur,34933.2004,-38619.6,131783.71000000008,1987.166535535548
+Seguridad doble,Central,MD,ventas_perdidas,-11.712,-28.0,0.0,0.34334376496587343
+Seguridad doble,Central,MD,stock_medio,32.85733333333334,23.664583333333326,37.5,0.15881224561454607
+Seguridad doble,Central,MD,servicio_unidades_pct,1.5919421355385652,0.0,3.9285714285714173,0.04728974590218318
+Seguridad doble,Central,MSUV,contribucion_marca_eur,320341.8317999998,-417604.5,1388092.4699999997,21179.93257222679
+Seguridad doble,Central,MSUV,ventas_perdidas,-83.025,-214.2,0.0,2.755654551464499
+Seguridad doble,Central,MSUV,stock_medio,325.435375,255.24583333333334,351.66666666666674,0.9898758457261723
+Seguridad doble,Central,MSUV,servicio_unidades_pct,1.1561194716425824,0.0,3.2458571004078745,0.038771971239983674
+Seguridad doble,Central,S,contribucion_marca_eur,16818.097599999994,-175805.4,418972.57999999996,6252.482721543601
+Seguridad doble,Central,S,ventas_perdidas,-22.178,-76.0,0.0,0.9052943575842467
+Seguridad doble,Central,S,stock_medio,110.14641666666665,53.1125,125.83333333333334,0.7751956075552986
+Seguridad doble,Central,S,servicio_unidades_pct,2.6830423135079027,0.0,8.944619896232792,0.10729857700036485
+Seguridad doble,Central,SSUV,contribucion_marca_eur,42312.19219999998,-252350.4,543821.8000000018,9855.128849616009
+Seguridad doble,Central,SSUV,ventas_perdidas,-70.445,-191.0,0.0,2.430146618537159
+Seguridad doble,Central,SSUV,stock_medio,295.577875,239.6604166666667,316.66666666666674,0.8432517419514316
+Seguridad doble,Central,SSUV,servicio_unidades_pct,1.1279100781232816,0.0,3.2133593862496332,0.03879191578467612
+Seguridad doble,Central,TOTAL,contribucion_marca_eur,269368.5380000001,-746744.0299999944,1481773.3299999884,22576.48732530363
+Seguridad doble,Central,TOTAL,ventas_perdidas,-267.299,-473.05,-79.95000000000005,3.78640125098139
+Seguridad doble,Central,TOTAL,stock_medio,1019.7381666666666,911.5979166666671,1127.027083333333,2.0910326960718706
+Seguridad doble,Central,TOTAL,servicio_unidades_pct,1.2034116284106748,0.36004315339743087,2.1480187605206185,0.01706018677313944
+Seguridad doble,Optimista,B,contribucion_marca_eur,-28440.84272,-73629.6,26468.503999999954,957.2485431880993
+Seguridad doble,Optimista,B,ventas_perdidas,-108.862,-247.05,0.0,2.2853309812133764
+Seguridad doble,Optimista,B,stock_medio,77.93766666666666,45.49583333333333,100.0,0.5583892135095052
+Seguridad doble,Optimista,B,servicio_unidades_pct,5.249853800074339,0.0,11.373990551453497,0.10436789429875605
+Seguridad doble,Optimista,C,contribucion_marca_eur,56563.80538,-122405.25,259427.4800000002,4559.610280085954
+Seguridad doble,Optimista,C,ventas_perdidas,-61.163,-120.05,0.0,1.6314294324281982
+Seguridad doble,Optimista,C,stock_medio,96.227375,17.75,154.32708333333338,1.3631138027412086
+Seguridad doble,Optimista,C,servicio_unidades_pct,1.4140920375183095,0.0,3.277438574369983,0.03805363955953998
+Seguridad doble,Optimista,CSUV,contribucion_marca_eur,-18047.219680000006,-107399.0,358252.2840000013,4610.731232591662
+Seguridad doble,Optimista,CSUV,ventas_perdidas,-8.532,-74.0,0.0,0.8024580455792781
+Seguridad doble,Optimista,CSUV,stock_medio,80.6075,4.650000000000069,133.41666666666663,1.2508586206904528
+Seguridad doble,Optimista,CSUV,servicio_unidades_pct,0.19225986145723864,0.0,1.6456502029713422,0.01777493254797962
+Seguridad doble,Optimista,MD,contribucion_marca_eur,94433.32236000002,-27000.0,214393.90600000016,2117.7634088859168
+Seguridad doble,Optimista,MD,ventas_perdidas,-20.578,-42.0,0.0,0.3475092497742739
+Seguridad doble,Optimista,MD,stock_medio,28.226375,18.704166666666662,37.499999999999986,0.18710280990307548
+Seguridad doble,Optimista,MD,servicio_unidades_pct,2.4025606290758974,0.0,4.928200910931172,0.04094836509963607
+Seguridad doble,Optimista,MSUV,contribucion_marca_eur,1293707.4503000001,-253200.0,2866418.9230000065,27337.52576507303
+Seguridad doble,Optimista,MSUV,ventas_perdidas,-198.145,-397.0,-2.0,3.443550495493716
+Seguridad doble,Optimista,MSUV,stock_medio,291.58683333333335,217.25625000000008,351.41666666666663,1.290917962576542
+Seguridad doble,Optimista,MSUV,servicio_unidades_pct,2.2239109189026123,0.021627844116265747,4.353969302062146,0.037855014135714335
+Seguridad doble,Optimista,S,contribucion_marca_eur,105180.33261000001,-174417.4,475352.6799999989,8411.354541031304
+Seguridad doble,Optimista,S,ventas_perdidas,-34.467,-77.0,0.0,1.1260323529365663
+Seguridad doble,Optimista,S,stock_medio,100.5195,37.4125,125.83333333333334,1.0047694408648995
+Seguridad doble,Optimista,S,servicio_unidades_pct,3.336233903071434,0.0,8.559041002671217,0.10647906288368612
+Seguridad doble,Optimista,SSUV,contribucion_marca_eur,1195853.4529000001,594279.7000000015,1760368.0300000012,12393.496601855255
+Seguridad doble,Optimista,SSUV,ventas_perdidas,-326.47,-459.05,-190.0,2.940977805161143
+Seguridad doble,Optimista,SSUV,stock_medio,156.95058333333336,72.77708333333335,261.42916666666673,1.826074891750367
+Seguridad doble,Optimista,SSUV,servicio_unidades_pct,3.214220482523351,1.8343842404037303,4.603907297908994,0.02912907949262269
+Seguridad doble,Optimista,TOTAL,contribucion_marca_eur,2699250.3011499997,1007288.4194999837,4394497.037000002,30276.01625421629
+Seguridad doble,Optimista,TOTAL,ventas_perdidas,-758.217,-1024.05,-488.0,5.113237439050538
+Seguridad doble,Optimista,TOTAL,stock_medio,832.0558333333332,691.8312500000002,969.6395833333333,2.680217833367461
+Seguridad doble,Optimista,TOTAL,servicio_unidades_pct,2.527772325333414,1.662572863535741,3.4170115907896514,0.016636262660425442
+Seguridad doble,Pesimista,B,contribucion_marca_eur,-171936.69376,-394074.09200000024,-73678.6,3617.145126625188
+Seguridad doble,Pesimista,B,ventas_perdidas,-34.868,-120.0,0.0,1.3521815599138198
+Seguridad doble,Pesimista,B,stock_medio,93.03325,69.07083333333334,100.00000000000003,0.32429676103162747
+Seguridad doble,Pesimista,B,servicio_unidades_pct,2.241275172109471,0.0,7.814031862745096,0.08586078521012878
+Seguridad doble,Pesimista,C,contribucion_marca_eur,-166719.79518000002,-379711.9439999998,-58620.0,3232.0339990813827
+Seguridad doble,Pesimista,C,ventas_perdidas,-45.761,-236.0,0.0,2.399542390265837
+Seguridad doble,Pesimista,C,stock_medio,107.62379166666668,39.65000000000007,147.83333333333337,1.0254131485303855
+Seguridad doble,Pesimista,C,servicio_unidades_pct,1.3776494265448027,0.0,6.810813509214654,0.0720699681402285
+Seguridad doble,Pesimista,CSUV,contribucion_marca_eur,-35881.39864,-107724.0,0.0,1406.705102883504
+Seguridad doble,Pesimista,CSUV,ventas_perdidas,-3.463,0.0,0.0,0.7601199993510324
+Seguridad doble,Pesimista,CSUV,stock_medio,48.594958333333345,0.0,120.42083333333329,1.3032173671304281
+Seguridad doble,Pesimista,CSUV,servicio_unidades_pct,0.08848833993764481,0.0,0.0,0.018869776871391467
+Seguridad doble,Pesimista,MD,contribucion_marca_eur,-4658.617080000002,-47976.0,32989.520000000055,844.1356551823224
+Seguridad doble,Pesimista,MD,ventas_perdidas,-30.068,-59.0,0.0,0.6489688255506089
+Seguridad doble,Pesimista,MD,stock_medio,32.44383333333334,26.375,37.5,0.12260625704460892
+Seguridad doble,Pesimista,MD,servicio_unidades_pct,4.572842758501709,0.0,8.92945896052258,0.09925389566741825
+Seguridad doble,Pesimista,MSUV,contribucion_marca_eur,-94872.18342,-472847.99999999825,300958.2729999999,7915.718546659171
+Seguridad doble,Pesimista,MSUV,ventas_perdidas,-254.853,-606.25,0.0,6.732550380474373
+Seguridad doble,Pesimista,MSUV,stock_medio,311.4504583333333,250.96875,351.66666666666674,1.1889646787366415
+Seguridad doble,Pesimista,MSUV,servicio_unidades_pct,3.8372745404655535,0.0,9.034746994261955,0.10126294709094386
+Seguridad doble,Pesimista,S,contribucion_marca_eur,-120462.83841,-188360.50000000006,-54360.0,1485.848994258883
+Seguridad doble,Pesimista,S,ventas_perdidas,-10.629,-62.099999999999994,0.0,0.6950110786163048
+Seguridad doble,Pesimista,S,stock_medio,123.15145833333331,108.03958333333333,125.83333333333334,0.2084715914897704
+Seguridad doble,Pesimista,S,servicio_unidades_pct,1.679370126283743,0.0,10.519891132319794,0.10825333828921671
+Seguridad doble,Pesimista,SSUV,contribucion_marca_eur,-337748.54939999996,-479403.97200000024,-244509.6,2732.0745955198377
+Seguridad doble,Pesimista,SSUV,ventas_perdidas,-191.42,-486.15,0.0,5.588510091701101
+Seguridad doble,Pesimista,SSUV,stock_medio,305.90358333333336,256.58124999999995,326.3354166666667,0.6767303626869371
+Seguridad doble,Pesimista,SSUV,servicio_unidades_pct,3.2228409003941088,0.0,7.8269484055684355,0.09190605625359678
+Seguridad doble,Pesimista,TOTAL,contribucion_marca_eur,-932280.0758899999,-1504300.4645000005,-389528.9480000008,10749.340945594808
+Seguridad doble,Pesimista,TOTAL,ventas_perdidas,-571.062,-1019.1,-142.95000000000005,8.455593486989379
+Seguridad doble,Pesimista,TOTAL,stock_medio,1022.2013333333335,923.7604166666665,1125.375,1.929394345725906
+Seguridad doble,Pesimista,TOTAL,servicio_unidades_pct,2.805407809120783,0.7244513820746449,5.007092675621746,0.041242969680803716
+Seguridad mitad y transfer completo,Central,B,contribucion_marca_eur,20733.951,299.00000000000006,36336.0,337.65867760381957
+Seguridad mitad y transfer completo,Central,B,ventas_perdidas,69.959,0.0,153.0,1.4274904721391481
+Seguridad mitad y transfer completo,Central,B,stock_medio,-40.430958333333336,-50.0,-25.416666666666686,0.24276327825975702
+Seguridad mitad y transfer completo,Central,B,servicio_unidades_pct,-4.149502106301959,-8.633236243605616,0.0,0.07973726491970348
+Seguridad mitad y transfer completo,Central,C,contribucion_marca_eur,9408.8032,-64618.369999999995,74905.6599999998,1449.943819974205
+Seguridad mitad y transfer completo,Central,C,ventas_perdidas,-32.822,-153.0,0.0,1.7033971579986502
+Seguridad mitad y transfer completo,Central,C,stock_medio,-40.96925,-73.63125,-4.9166666666667425,0.6703820904082953
+Seguridad mitad y transfer completo,Central,C,servicio_unidades_pct,0.9133011863008785,0.0,4.238741996046672,0.047644382992701
+Seguridad mitad y transfer completo,Central,CSUV,contribucion_marca_eur,21951.177600000003,-48143.69999999972,43920.0,3456.2328304077973
+Seguridad mitad y transfer completo,Central,CSUV,ventas_perdidas,-7.334,-5.0,0.0,1.478114090747147
+Seguridad mitad y transfer completo,Central,CSUV,stock_medio,-21.511916666666668,-55.96458333333337,0.0,0.606172237851309
+Seguridad mitad y transfer completo,Central,CSUV,servicio_unidades_pct,0.16604292716457586,0.0,0.14755625652218918,0.03097923500378008
+Seguridad mitad y transfer completo,Central,MD,contribucion_marca_eur,10212.508400000002,-34502.7699999999,76294.07999999968,1052.0179362911867
+Seguridad mitad y transfer completo,Central,MD,ventas_perdidas,-14.013,-43.0,0.0,0.4607245360278722
+Seguridad mitad y transfer completo,Central,MD,stock_medio,-11.526291666666667,-18.168750000000003,-4.708333333333329,0.1322194123907057
+Seguridad mitad y transfer completo,Central,MD,servicio_unidades_pct,1.9067802574097008,0.0,5.795055666817402,0.06347684410481938
+Seguridad mitad y transfer completo,Central,MSUV,contribucion_marca_eur,167319.15039999993,-283098.46000000165,1031547.0999999999,12654.3213726514
+Seguridad mitad y transfer completo,Central,MSUV,ventas_perdidas,-92.152,-310.1,0.0,3.3175199825825974
+Seguridad mitad y transfer completo,Central,MSUV,stock_medio,-118.42829166666665,-169.54166666666674,-63.65624999999998,0.9481271355323827
+Seguridad mitad y transfer completo,Central,MSUV,servicio_unidades_pct,1.2858719549545945,0.0,4.397518054621421,0.04693092722797227
+Seguridad mitad y transfer completo,Central,S,contribucion_marca_eur,148779.14119999998,-21770.070000000156,397126.85000000015,3863.023311149625
+Seguridad mitad y transfer completo,Central,S,ventas_perdidas,-43.012,-113.0,0.0,1.2302305976211627
+Seguridad mitad y transfer completo,Central,S,stock_medio,-40.57316666666667,-62.5,-15.747916666666669,0.5081037802526789
+Seguridad mitad y transfer completo,Central,S,servicio_unidades_pct,5.349665388960395,0.0,12.413658605772644,0.13435649918197864
+Seguridad mitad y transfer completo,Central,SSUV,contribucion_marca_eur,459520.4947999999,138080.93999999968,795853.3000000003,6369.941447066157
+Seguridad mitad y transfer completo,Central,SSUV,ventas_perdidas,-263.882,-426.05,-105.95000000000005,3.2003825590895416
+Seguridad mitad y transfer completo,Central,SSUV,stock_medio,-56.23966666666667,-104.3395833333333,-9.583333333333258,0.9124818752418412
+Seguridad mitad y transfer completo,Central,SSUV,servicio_unidades_pct,4.293911161146647,1.8485817633279005,6.688261912505269,0.04655809414003517
+Seguridad mitad y transfer completo,Central,TOTAL,contribucion_marca_eur,837925.2266000004,198138.6500000112,1737425.2500000107,14555.50722717381
+Seguridad mitad y transfer completo,Central,TOTAL,ventas_perdidas,-383.256,-666.0,-130.9000000000001,5.199861057664813
+Seguridad mitad y transfer completo,Central,TOTAL,stock_medio,-329.6795416666667,-407.76875,-250.30416666666684,1.5176208268940192
+Seguridad mitad y transfer completo,Central,TOTAL,servicio_unidades_pct,1.725547995134546,0.5927085913449147,2.9990300557596803,0.023345609282138392
+Seguridad mitad y transfer completo,Optimista,B,contribucion_marca_eur,-1423.871759999999,-35444.43199999994,28101.091999999986,640.7851881138951
+Seguridad mitad y transfer completo,Optimista,B,ventas_perdidas,111.629,25.950000000000003,215.04999999999995,1.863165248641071
+Seguridad mitad y transfer completo,Optimista,B,stock_medio,-38.525875,-49.95833333333333,-24.24791666666667,0.25660695092771196
+Seguridad mitad y transfer completo,Optimista,B,servicio_unidades_pct,-5.442208968731641,-9.894024740365142,-1.4498108448928069,0.08138420010575
+Seguridad mitad y transfer completo,Optimista,C,contribucion_marca_eur,28075.365879999972,-76742.39999999986,184826.3969999994,2522.1189783885366
+Seguridad mitad y transfer completo,Optimista,C,ventas_perdidas,-89.258,-272.05,0.0,2.929265442398833
+Seguridad mitad y transfer completo,Optimista,C,stock_medio,-30.74025,-68.83958333333337,-3.289583333333299,0.6547311959786235
+Seguridad mitad y transfer completo,Optimista,C,servicio_unidades_pct,2.0518748657293675,0.0,6.153869847308865,0.06679197367536607
+Seguridad mitad y transfer completo,Optimista,CSUV,contribucion_marca_eur,57484.33663999998,-95837.027999999,297475.1199999975,8492.00999476266
+Seguridad mitad y transfer completo,Optimista,CSUV,ventas_perdidas,-24.474,-155.1,0.0,3.1891092395435034
+Seguridad mitad y transfer completo,Optimista,CSUV,stock_medio,-29.514458333333334,-61.0,0.0,0.6137550167225921
+Seguridad mitad y transfer completo,Optimista,CSUV,servicio_unidades_pct,0.485472193277296,0.0,3.3529724448885085,0.0569433933005094
+Seguridad mitad y transfer completo,Optimista,MD,contribucion_marca_eur,39346.567319999995,-25219.383999999798,117274.92400000036,1418.1504262632823
+Seguridad mitad y transfer completo,Optimista,MD,ventas_perdidas,-26.341,-58.0,0.0,0.5334015712727478
+Seguridad mitad y transfer completo,Optimista,MD,stock_medio,-7.390333333333333,-13.835416666666676,-0.7916666666666707,0.13038955657659865
+Seguridad mitad y transfer completo,Optimista,MD,servicio_unidades_pct,3.054889648921902,0.0,6.474553571428576,0.06082856191872949
+Seguridad mitad y transfer completo,Optimista,MSUV,contribucion_marca_eur,756680.9262199998,-217630.51800000295,2220721.7999999938,23336.467671201834
+Seguridad mitad y transfer completo,Optimista,MSUV,ventas_perdidas,-249.259,-570.0,-2.0,5.234232427788062
+Seguridad mitad y transfer completo,Optimista,MSUV,stock_medio,-77.316625,-134.77291666666667,-25.870833333333334,1.0602677832908238
+Seguridad mitad y transfer completo,Optimista,MSUV,servicio_unidades_pct,2.8079993151247202,0.021627844116265747,6.359964144203481,0.059132715082000825
+Seguridad mitad y transfer completo,Optimista,S,contribucion_marca_eur,287793.17727999995,26348.252999999633,673261.3294999992,6504.786975734859
+Seguridad mitad y transfer completo,Optimista,S,ventas_perdidas,-78.756,-191.29999999999998,-5.0,1.9339386191352048
+Seguridad mitad y transfer completo,Optimista,S,stock_medio,-36.208125,-60.08333333333333,-9.160416666666677,0.5534781652020222
+Seguridad mitad y transfer completo,Optimista,S,servicio_unidades_pct,7.757496110609897,0.8287854498046252,15.597529188544373,0.15304013375510567
+Seguridad mitad y transfer completo,Optimista,SSUV,contribucion_marca_eur,2392579.57649,1333861.6605000019,3513141.1895000055,21918.401101520845
+Seguridad mitad y transfer completo,Optimista,SSUV,ventas_perdidas,-1058.771,-1588.05,-607.0,9.749465761858012
+Seguridad mitad y transfer completo,Optimista,SSUV,stock_medio,6.160416666666668,-20.679166666666628,43.60625000000001,0.6209360890871922
+Seguridad mitad y transfer completo,Optimista,SSUV,servicio_unidades_pct,10.233875028399783,6.881831256182061,14.052605512836356,0.06944686289677401
+Seguridad mitad y transfer completo,Optimista,TOTAL,contribucion_marca_eur,3560536.0780700007,2157898.6145000095,5160248.923499979,29362.68533640922
+Seguridad mitad y transfer completo,Optimista,TOTAL,ventas_perdidas,-1415.23,-1956.1,-916.95,10.303862998540533
+Seguridad mitad y transfer completo,Optimista,TOTAL,stock_medio,-213.53525,-298.2583333333333,-134.0520833333335,1.6107439274960014
+Seguridad mitad y transfer completo,Optimista,TOTAL,servicio_unidades_pct,4.713437204024649,3.111649704297154,6.4631236236017555,0.032507465445097264
+Seguridad mitad y transfer completo,Pesimista,B,contribucion_marca_eur,205117.46932,36616.0,431839.5360000004,3742.7042196987964
+Seguridad mitad y transfer completo,Pesimista,B,ventas_perdidas,61.101,0.0,145.0,1.3610029860834725
+Seguridad mitad y transfer completo,Pesimista,B,stock_medio,-42.60179166666667,-50.0,-30.82291666666667,0.2006132709675702
+Seguridad mitad y transfer completo,Pesimista,B,servicio_unidades_pct,-3.9530659774087527,-8.99219429523209,0.0,0.08349642449392573
+Seguridad mitad y transfer completo,Pesimista,C,contribucion_marca_eur,114193.40027999999,28320.0,240446.4899999998,2212.889629504107
+Seguridad mitad y transfer completo,Pesimista,C,ventas_perdidas,62.456,0.0,118.0,1.8137259069842018
+Seguridad mitad y transfer completo,Pesimista,C,stock_medio,-43.160083333333326,-68.83333333333337,-9.70833333333337,0.5707791175369803
+Seguridad mitad y transfer completo,Pesimista,C,servicio_unidades_pct,-1.8723244580742024,-4.207224505314157,0.0,0.05378257124989568
+Seguridad mitad y transfer completo,Pesimista,CSUV,contribucion_marca_eur,4758.339600000011,-43930.46400000033,36600.0,842.620019550857
+Seguridad mitad y transfer completo,Pesimista,CSUV,ventas_perdidas,6.695,0.0,60.149999999999864,0.7477587298842576
+Seguridad mitad y transfer completo,Pesimista,CSUV,stock_medio,-16.785041666666665,-50.83333333333337,0.0,0.5668979778354049
+Seguridad mitad y transfer completo,Pesimista,CSUV,servicio_unidades_pct,-0.21452133672642076,-2.0148046144199014,0.0,0.023343156913024635
+Seguridad mitad y transfer completo,Pesimista,MD,contribucion_marca_eur,-23520.903160000005,-62504.19199999986,13260.0,727.3794919962353
+Seguridad mitad y transfer completo,Pesimista,MD,ventas_perdidas,32.814,2.0,64.0,0.5830654932075551
+Seguridad mitad y transfer completo,Pesimista,MD,stock_medio,-14.107583333333332,-18.12708333333333,-10.916666666666671,0.061356564068917936
+Seguridad mitad y transfer completo,Pesimista,MD,servicio_unidades_pct,-4.937442764153651,-9.87900397474866,-0.3133819666207658,0.08389885853088337
+Seguridad mitad y transfer completo,Pesimista,MSUV,contribucion_marca_eur,-178793.3282800001,-445602.9849999996,118812.31399999987,5717.212163979382
+Seguridad mitad y transfer completo,Pesimista,MSUV,ventas_perdidas,319.198,37.0,580.05,5.5714994752223035
+Seguridad mitad y transfer completo,Pesimista,MSUV,stock_medio,-132.267,-170.58333333333326,-95.48333333333335,0.6542112207666058
+Seguridad mitad y transfer completo,Pesimista,MSUV,servicio_unidades_pct,-4.7918631582507984,-9.020213551035459,-0.6170519604292267,0.08113009708567095
+Seguridad mitad y transfer completo,Pesimista,S,contribucion_marca_eur,74666.30609999999,49233.8,102030.76900000001,513.42261636859
+Seguridad mitad y transfer completo,Pesimista,S,ventas_perdidas,37.29,0.0,94.0,1.2309830296227562
+Seguridad mitad y transfer completo,Pesimista,S,stock_medio,-54.07525,-62.500000000000014,-34.87083333333334,0.33083246650189135
+Seguridad mitad y transfer completo,Pesimista,S,servicio_unidades_pct,-6.154785492590612,-14.941730085645444,0.0,0.19466561450001119
+Seguridad mitad y transfer completo,Pesimista,SSUV,contribucion_marca_eur,283287.06827999995,170105.91599999968,412622.35499999934,2611.8443823546118
+Seguridad mitad y transfer completo,Pesimista,SSUV,ventas_perdidas,339.804,99.95,611.0,5.51163275987068
+Seguridad mitad y transfer completo,Pesimista,SSUV,stock_medio,-136.72683333333333,-164.87708333333333,-102.60000000000002,0.6140760029223931
+Seguridad mitad y transfer completo,Pesimista,SSUV,servicio_unidades_pct,-5.824131428885162,-9.947161741028639,-2.0157802191196152,0.08266695565789464
+Seguridad mitad y transfer completo,Pesimista,TOTAL,contribucion_marca_eur,479708.3521399999,69022.5984999991,908082.1745,8208.68955947717
+Seguridad mitad y transfer completo,Pesimista,TOTAL,ventas_perdidas,859.358,493.95,1259.0,7.4191870290600015
+Seguridad mitad y transfer completo,Pesimista,TOTAL,stock_medio,-439.7235833333333,-498.2625,-384.41250000000025,1.0918936847059084
+Seguridad mitad y transfer completo,Pesimista,TOTAL,servicio_unidades_pct,-4.216498632929039,-6.181040413661009,-2.5429161988889843,0.035205335580305995
+Seguridad +50% y transfer completo,Central,B,contribucion_marca_eur,-27163.037,-40425.4,-9000.0,325.04108072024803
+Seguridad +50% y transfer completo,Central,B,ventas_perdidas,-36.125,-84.05,0.0,1.041583540226741
+Seguridad +50% y transfer completo,Central,B,stock_medio,42.212208333333336,26.316666666666677,50.0,0.2667253007327605
+Seguridad +50% y transfer completo,Central,B,servicio_unidades_pct,2.133630510053268,0.0,4.8640319398939305,0.060342136372861586
+Seguridad +50% y transfer completo,Central,C,contribucion_marca_eur,122.96800000000175,-90530.25,159044.69000000018,2475.2215404299277
+Seguridad +50% y transfer completo,Central,C,ventas_perdidas,-32.822,-153.0,0.0,1.7033971579986502
+Seguridad +50% y transfer completo,Central,C,stock_medio,49.892500000000005,7.383333333333299,71.5,0.6386463144403806
+Seguridad +50% y transfer completo,Central,C,servicio_unidades_pct,0.9133011863008785,0.0,4.238741996046672,0.047644382992701
+Seguridad +50% y transfer completo,Central,CSUV,contribucion_marca_eur,2139.552000000013,-50510.0,0.0,4367.285506292217
+Seguridad +50% y transfer completo,Central,CSUV,ventas_perdidas,-7.334,-5.0,0.0,1.478114090747147
+Seguridad +50% y transfer completo,Central,CSUV,stock_medio,27.190958333333334,0.0,61.5,0.666385927280387
+Seguridad +50% y transfer completo,Central,CSUV,servicio_unidades_pct,0.16604292716457586,0.0,0.14755625652218918,0.03097923500378008
+Seguridad +50% y transfer completo,Central,MD,contribucion_marca_eur,44296.5548,-17809.2,143127.7499999999,1743.8292558013086
+Seguridad +50% y transfer completo,Central,MD,ventas_perdidas,-14.013,-43.0,0.0,0.4607245360278722
+Seguridad +50% y transfer completo,Central,MD,stock_medio,16.048791666666663,11.372916666666667,18.333333333333343,0.08132681681173777
+Seguridad +50% y transfer completo,Central,MD,servicio_unidades_pct,1.9067802574097008,0.0,5.795055666817402,0.06347684410481938
+Seguridad +50% y transfer completo,Central,MSUV,contribucion_marca_eur,446418.31299999997,-181658.25,1611496.980000004,19501.928184611355
+Seguridad +50% y transfer completo,Central,MSUV,ventas_perdidas,-92.152,-310.1,0.0,3.3175199825825974
+Seguridad +50% y transfer completo,Central,MSUV,stock_medio,160.2745,121.86666666666656,175.83333333333337,0.5900293716497589
+Seguridad +50% y transfer completo,Central,MSUV,servicio_unidades_pct,1.2858719549545945,0.0,4.397518054621421,0.04693092722797227
+Seguridad +50% y transfer completo,Central,S,contribucion_marca_eur,129034.3064,-80353.6,472499.7799999997,5998.5291826342755
+Seguridad +50% y transfer completo,Central,S,ventas_perdidas,-43.012,-113.0,0.0,1.2302305976211627
+Seguridad +50% y transfer completo,Central,S,stock_medio,58.16366666666667,22.331249999999994,85.41874999999999,0.5937827706332706
+Seguridad +50% y transfer completo,Central,S,servicio_unidades_pct,5.349665388960395,0.0,12.413658605772644,0.13435649918197864
+Seguridad +50% y transfer completo,Central,SSUV,contribucion_marca_eur,448192.9544,53176.00000000038,895350.2399999982,9045.911069357071
+Seguridad +50% y transfer completo,Central,SSUV,ventas_perdidas,-263.882,-426.05,-105.95000000000005,3.2003825590895416
+Seguridad +50% y transfer completo,Central,SSUV,stock_medio,222.2700833333333,162.15,292.32291666666663,1.2727332937322235
+Seguridad +50% y transfer completo,Central,SSUV,servicio_unidades_pct,4.293911161146647,1.8485817633279005,6.688261912505269,0.04655809414003517
+Seguridad +50% y transfer completo,Central,TOTAL,contribucion_marca_eur,1043041.6116,63056.98999999166,2263208.2099999906,21649.022527624187
+Seguridad +50% y transfer completo,Central,TOTAL,ventas_perdidas,-489.34,-761.05,-262.95000000000005,4.9901801869570095
+Seguridad +50% y transfer completo,Central,TOTAL,stock_medio,576.0527083333334,500.20208333333346,654.3958333333334,1.5122427999105725
+Seguridad +50% y transfer completo,Central,TOTAL,servicio_unidades_pct,2.2010468841213986,1.1844052642530052,3.4466785112184493,0.022196121506647896
+Seguridad +50% y transfer completo,Optimista,B,contribucion_marca_eur,-10605.37032,-36000.0,21533.571999999982,529.638342514535
+Seguridad +50% y transfer completo,Optimista,B,ventas_perdidas,-66.997,-146.0,0.0,1.3873441226727834
+Seguridad +50% y transfer completo,Optimista,B,stock_medio,38.84229166666667,22.31250000000001,50.0,0.27740969974890695
+Seguridad +50% y transfer completo,Optimista,B,servicio_unidades_pct,3.2392888946720912,0.0,6.83576687686719,0.06332432981635987
+Seguridad +50% y transfer completo,Optimista,C,contribucion_marca_eur,92568.66328000001,-56640.0,305512.05299999955,3926.460994561922
+Seguridad +50% y transfer completo,Optimista,C,ventas_perdidas,-89.258,-272.05,0.0,2.929265442398833
+Seguridad +50% y transfer completo,Optimista,C,stock_medio,44.522375,6.495833333333332,76.21458333333325,0.6700185856879795
+Seguridad +50% y transfer completo,Optimista,C,servicio_unidades_pct,2.0518748657293675,0.0,6.153869847308865,0.06679197367536607
+Seguridad +50% y transfer completo,Optimista,CSUV,contribucion_marca_eur,54124.93664,-51660.0,539764.5520000014,9928.67653576987
+Seguridad +50% y transfer completo,Optimista,CSUV,ventas_perdidas,-24.474,-155.1,0.0,3.1891092395435034
+Seguridad +50% y transfer completo,Optimista,CSUV,stock_medio,37.820875,0.0,68.66041666666663,0.655068154623725
+Seguridad +50% y transfer completo,Optimista,CSUV,servicio_unidades_pct,0.485472193277296,0.0,3.3529724448885085,0.0569433933005094
+Seguridad +50% y transfer completo,Optimista,MD,contribucion_marca_eur,98980.56052000001,-13200.0,211347.39399999977,1993.1390001542368
+Seguridad +50% y transfer completo,Optimista,MD,ventas_perdidas,-26.341,-58.0,0.0,0.5334015712727478
+Seguridad +50% y transfer completo,Optimista,MD,stock_medio,14.94875,10.285416666666658,19.08749999999999,0.08655461827655735
+Seguridad +50% y transfer completo,Optimista,MD,servicio_unidades_pct,3.054889648921902,0.0,6.474553571428576,0.06082856191872949
+Seguridad +50% y transfer completo,Optimista,MSUV,contribucion_marca_eur,1426021.8726199998,-123457.13399999886,3138305.402000002,29559.517593170905
+Seguridad +50% y transfer completo,Optimista,MSUV,ventas_perdidas,-249.259,-570.0,-2.0,5.234232427788062
+Seguridad +50% y transfer completo,Optimista,MSUV,stock_medio,154.9272083333333,103.0,200.26041666666666,0.8916401999623489
+Seguridad +50% y transfer completo,Optimista,MSUV,servicio_unidades_pct,2.8079993151247202,0.021627844116265747,6.359964144203481,0.059132715082000825
+Seguridad +50% y transfer completo,Optimista,S,contribucion_marca_eur,298276.38707999996,-69931.26999999974,847540.358999999,9425.84915937599
+Seguridad +50% y transfer completo,Optimista,S,ventas_perdidas,-78.756,-191.29999999999998,-5.0,1.9339386191352048
+Seguridad +50% y transfer completo,Optimista,S,stock_medio,55.11691666666667,20.03750000000002,81.5958333333333,0.6258092752524906
+Seguridad +50% y transfer completo,Optimista,S,servicio_unidades_pct,7.757496110609897,0.8287854498046252,15.597529188544373,0.15304013375510567
+Seguridad +50% y transfer completo,Optimista,SSUV,contribucion_marca_eur,2797875.21209,1604283.9165000021,4068839.147500002,24979.318433868153
+Seguridad +50% y transfer completo,Optimista,SSUV,ventas_perdidas,-1058.771,-1588.05,-607.0,9.749465761858012
+Seguridad +50% y transfer completo,Optimista,SSUV,stock_medio,162.2471666666667,70.20416666666665,274.2979166666666,2.0291122126874193
+Seguridad +50% y transfer completo,Optimista,SSUV,servicio_unidades_pct,10.233875028399783,6.881831256182061,14.052605512836356,0.06944686289677401
+Seguridad +50% y transfer completo,Optimista,TOTAL,contribucion_marca_eur,4757242.26191,3101618.3309999905,6674936.249999992,34710.120232757385
+Seguridad +50% y transfer completo,Optimista,TOTAL,ventas_perdidas,-1593.856,-2137.25,-1071.0,10.512346583646046
+Seguridad +50% y transfer completo,Optimista,TOTAL,stock_medio,508.42558333333335,398.2104166666667,642.1854166666669,2.3583739861965256
+Seguridad +50% y transfer completo,Optimista,TOTAL,servicio_unidades_pct,5.306527762594653,3.660037778304224,7.008999197259748,0.03251940497681016
+Seguridad +50% y transfer completo,Pesimista,B,contribucion_marca_eur,-110743.62359999999,-206991.2000000002,-36000.0,2519.05912871736
+Seguridad +50% y transfer completo,Pesimista,B,ventas_perdidas,-26.83,-60.0,0.0,0.9335912878196181
+Seguridad +50% y transfer completo,Pesimista,B,stock_medio,44.90058333333333,32.5,50.0,0.20947148650311453
+Seguridad +50% y transfer completo,Pesimista,B,servicio_unidades_pct,1.7283196922840158,0.0,4.342322231996192,0.0593496987342311
+Seguridad +50% y transfer completo,Pesimista,C,contribucion_marca_eur,-88717.85507999998,-210865.75499999983,-28320.0,1958.8329620453783
+Seguridad +50% y transfer completo,Pesimista,C,ventas_perdidas,-31.816,-118.0,0.0,1.5154183041776406
+Seguridad +50% y transfer completo,Pesimista,C,stock_medio,50.83325,13.162499999999966,76.5,0.5769754905383415
+Seguridad +50% y transfer completo,Pesimista,C,servicio_unidades_pct,0.9591687322574285,0.0,3.732229295787638,0.04569599283418111
+Seguridad +50% y transfer completo,Pesimista,CSUV,contribucion_marca_eur,-14335.862799999997,-45991.0,0.0,697.8588438778991
+Seguridad +50% y transfer completo,Pesimista,CSUV,ventas_perdidas,-2.135,0.0,0.0,0.46279472118203113
+Seguridad +50% y transfer completo,Pesimista,CSUV,stock_medio,21.888625,0.0,61.42083333333329,0.642703308970064
+Seguridad +50% y transfer completo,Pesimista,CSUV,servicio_unidades_pct,0.05632762014206371,0.0,0.0,0.011934897700988252
+Seguridad +50% y transfer completo,Pesimista,MD,contribucion_marca_eur,3902.7517999999973,-22032.0,27143.000000000065,467.7810703322822
+Seguridad +50% y transfer completo,Pesimista,MD,ventas_perdidas,-18.62,-38.0,0.0,0.3681672814729021
+Seguridad +50% y transfer completo,Pesimista,MD,stock_medio,15.396833333333332,12.5,18.333333333333343,0.06034327178185012
+Seguridad +50% y transfer completo,Pesimista,MD,servicio_unidades_pct,2.828298028490764,0.0,5.812578303883865,0.055902822118867386
+Seguridad +50% y transfer completo,Pesimista,MSUV,contribucion_marca_eur,4962.370660000028,-215325.0,279874.47099999944,4678.406043736455
+Seguridad +50% y transfer completo,Pesimista,MSUV,ventas_perdidas,-166.831,-445.15,0.0,4.251259536495819
+Seguridad +50% y transfer completo,Pesimista,MSUV,stock_medio,151.38470833333332,115.84791666666668,175.83333333333337,0.6506423988720913
+Seguridad +50% y transfer completo,Pesimista,MSUV,servicio_unidades_pct,2.5097517728033707,0.0,6.418873626723872,0.06348140182261174
+Seguridad +50% y transfer completo,Pesimista,S,contribucion_marca_eur,-65501.558039999996,-101435.45049999996,-27000.0,792.1315160109627
+Seguridad +50% y transfer completo,Pesimista,S,ventas_perdidas,-10.276,-62.099999999999994,0.0,0.650749797771232
+Seguridad +50% y transfer completo,Pesimista,S,stock_medio,59.91108333333334,44.70833333333333,62.5,0.19392357504213814
+Seguridad +50% y transfer completo,Pesimista,S,servicio_unidades_pct,1.6333136870039373,0.0,10.001497005988021,0.10360950345195002
+Seguridad +50% y transfer completo,Pesimista,SSUV,contribucion_marca_eur,-188722.78349999993,-298069.34249999956,-120813.47099999998,1828.6569075950956
+Seguridad +50% y transfer completo,Pesimista,SSUV,ventas_perdidas,-138.55,-369.05,0.0,3.770665646728628
+Seguridad +50% y transfer completo,Pesimista,SSUV,stock_medio,151.00875,121.57916666666665,166.16666666666669,0.448109691010049
+Seguridad +50% y transfer completo,Pesimista,SSUV,servicio_unidades_pct,2.3355231114898807,0.0,5.75990564178076,0.06150551657741633
+Seguridad +50% y transfer completo,Pesimista,TOTAL,contribucion_marca_eur,-459156.56055999995,-802657.7744999996,-136814.61300000007,6479.404582397499
+Seguridad +50% y transfer completo,Pesimista,TOTAL,ventas_perdidas,-395.058,-705.1,-125.95000000000005,5.5886418344311135
+Seguridad +50% y transfer completo,Pesimista,TOTAL,stock_medio,495.32383333333337,441.19791666666686,550.9270833333336,1.0479192060784186
+Seguridad +50% y transfer completo,Pesimista,TOTAL,servicio_unidades_pct,1.939065023432674,0.6464675855561026,3.415187036457701,0.02709277746804901

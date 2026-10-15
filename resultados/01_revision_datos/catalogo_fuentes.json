@@ -1,0 +1,195 @@
+{
+  "fuentes": [
+    {
+      "nombre": "ventas_mensual",
+      "ruta": "data/ventas_mensual.csv",
+      "filas": 2520,
+      "columnas": [
+        "t",
+        "periodo",
+        "anio",
+        "mes",
+        "segmento",
+        "descripcion",
+        "canal",
+        "unidades",
+        "u_automatriculacion",
+        "u_venta_especial",
+        "u_0_90",
+        "u_91_180",
+        "u_mas_180",
+        "pvp_medio",
+        "pff_medio",
+        "vm_medio",
+        "dias_0_90_medio",
+        "dias_91_180_medio",
+        "dias_mas_180_medio",
+        "renovacion_gama",
+        "meses_desde_renovacion"
+      ],
+      "clave": [
+        "t",
+        "segmento",
+        "canal"
+      ],
+      "sha256": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+    },
+    {
+      "nombre": "mercado_mensual",
+      "ruta": "data/mercado_mensual.csv",
+      "filas": 3024,
+      "columnas": [
+        "t",
+        "periodo",
+        "anio",
+        "mes",
+        "segmento",
+        "descripcion",
+        "canal",
+        "unidades",
+        "marca_propia",
+        "pct_diesel",
+        "pct_electrificado",
+        "pct_renting",
+        "cv_medio",
+        "n_marcas"
+      ],
+      "clave": [
+        "t",
+        "segmento",
+        "canal"
+      ],
+      "sha256": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74"
+    },
+    {
+      "nombre": "stock_mensual",
+      "ruta": "data/stock_mensual.csv",
+      "filas": 336,
+      "columnas": [
+        "t",
+        "periodo",
+        "anio",
+        "mes",
+        "segmento",
+        "descripcion",
+        "stock_total",
+        "s_0_90",
+        "s_91_180",
+        "s_mas_180",
+        "s_sin_cliente",
+        "wholesale"
+      ],
+      "clave": [
+        "t",
+        "segmento"
+      ],
+      "sha256": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc"
+    },
+    {
+      "nombre": "macro_mensual",
+      "ruta": "data/macro_mensual.csv",
+      "filas": 144,
+      "columnas": [
+        "t",
+        "periodo",
+        "anio",
+        "mes",
+        "pib_var",
+        "consumo_privado_var",
+        "paro",
+        "confianza_consumidor",
+        "hipotecas",
+        "tipo_credito_consumo",
+        "indice_actividad",
+        "indice_comercio",
+        "viajeros_var",
+        "incentivo_publico",
+        "adelanto_compras",
+        "caida_tras_adelanto",
+        "subida_iva",
+        "dias_laborables",
+        "semana_santa"
+      ],
+      "clave": [
+        "t"
+      ],
+      "sha256": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd"
+    },
+    {
+      "nombre": "segmentos",
+      "ruta": "data/segmentos.csv",
+      "filas": 7,
+      "columnas": [
+        "segmento",
+        "descripcion",
+        "letra",
+        "primer_mes",
+        "unidades_totales",
+        "unidades_ult_anio",
+        "codigos",
+        "codigos_A013",
+        "codigos_nuevos_A013",
+        "pvp_medio",
+        "pff_medio",
+        "iedmt_pct",
+        "margen_conc_base_pct",
+        "margen_conc_var_pct",
+        "margen_bruto_conc_eur",
+        "precio_conc_eur",
+        "beneficio_bruto_marca_eur",
+        "prima_co2_eur",
+        "vm_tarifa_eur",
+        "cvp_tarifa_eur",
+        "vm_real_eur",
+        "cvp_real_eur",
+        "vm_real_0_90_eur",
+        "vm_real_91_180_eur",
+        "vm_real_mas_180_eur",
+        "credito_dia_0_90_eur",
+        "credito_dia_91_180_eur"
+      ],
+      "clave": [
+        "segmento"
+      ],
+      "sha256": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244"
+    },
+    {
+      "nombre": "codigos",
+      "ruta": "data/codigos.csv",
+      "filas": 76,
+      "columnas": [
+        "letra",
+        "segmento",
+        "codigo_modelo",
+        "generacion",
+        "primer_mes",
+        "ultimo_mes",
+        "unidades",
+        "en_tarifa_A013"
+      ],
+      "clave": [
+        "segmento",
+        "codigo_modelo",
+        "generacion"
+      ],
+      "sha256": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde"
+    },
+    {
+      "nombre": "calendario_A013",
+      "ruta": "data/calendario_A013.csv",
+      "filas": 12,
+      "columnas": [
+        "t",
+        "periodo",
+        "anio",
+        "mes",
+        "dias_laborables",
+        "semana_santa"
+      ],
+      "clave": [
+        "t"
+      ],
+      "sha256": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02"
+    }
+  ]
+}

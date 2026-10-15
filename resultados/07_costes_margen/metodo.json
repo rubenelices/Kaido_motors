@@ -1,0 +1,42 @@
+{
+  "configuracion": {
+    "coste_marca_eur_dia": 2.0,
+    "tipo_credito_0_90": 0.01,
+    "tipo_credito_91_180": 0.05,
+    "dias_anio_financiero": 365,
+    "transfer_fraccion_bruto": 0.2,
+    "csuv_vm_mas_180_factor": 1.2,
+    "base_arancel_cambio": "nuevas_y_transfers",
+    "nota": "CSUV >180: 120% de su VM 91-180, hipótesis. Arancel y ahorro de cambio se imputan al vender llegadas A013 y transfers, sin recargar el stock ya importado en A012. Transfers: proxy de coste escenario del 04. CO2 se aplica a todo retail A013."
+  },
+  "fuentes_sha256": {
+    "calendario_A013.csv": "4efd35a4f3ce79c9b6f53a4056151d7f32d30778029da6398ae144928a5cde02",
+    "codigos.csv": "c59c60960e2843302758c737bef1eaf4bf9d2ad10ee84ad1096f8201b157adde",
+    "macro_mensual.csv": "f1e5d049b88627daa57135bff23c53e7a7915d2811f463b53faa1a8175b523fd",
+    "mercado_mensual.csv": "da778686b6800bb10cb0f4d427c047c9879bc496637c2bf253256a91ea165e74",
+    "segmentos.csv": "c95ef7aaf29b4f0d3a9d8ca72d0c20646f6f098eba1ece5bf2ed0d13eadc6244",
+    "stock_mensual.csv": "afc0a7546043172122cd9e2e99e58ec1e5c1531c138918a43a26f35eec7a67cc",
+    "ventas_mensual.csv": "e553b683672f061446c69f62ccaa010540da6a25fe7d85a2d99060e8f04c4d54"
+  },
+  "etapa_06_sha256": {
+    "ejemplos_mensuales_5_replicas.csv": "a5601681e4da7f5b62394015de452b407da1b8095ae9d970e695e360d5a59360",
+    "metodo.json": "691dc07366dfbc7ab78a80534ba5e31226bd05e295a11ac83afd263fac2f9a9a",
+    "resultados_anuales_replicas.csv": "a9ddf7238949c964b51d48049acec6b4527ab802fc0f7a808fe75747ffc26090",
+    "resumen_anual.csv": "834869ac4e49cd51dd69b6f803a209ca050d9f853739582d5262547e16472613",
+    "resumen_mensual.csv": "cb3bebd01d8e82ba6aaebf6c8ae0cd15b2ac7fa3e0371b5994125311cf917649",
+    "sensibilidad_operativa.csv": "d855492f7f6a71654134d167939411f79ab7ae572992ad0dc9a3549a87ab92e7",
+    "trayectorias_A013.npz": "a870d8998a18846ebac251097863d7a5c28eb1a192d74cf9b220515f55334f1b"
+  },
+  "salidas_sha256": {
+    "costes_mensuales_A013.npz": "b8af036d3d2714bc665c7539865497fcaf4411f2cf4adb3fd04b5f16a9b6bbf8",
+    "parametros_vm.csv": "c5ad57dcb9c5ec478b63bfad2b619649ad1abb5c328365e815648f52eedcee66",
+    "resultados_economicos_replicas.csv": "09d5aa081537d4851e77a39ca1b5eccd800c66e37c190805b2e5a4dffe499196",
+    "resumen_economico.csv": "570c35275ff3fff2a86318c23df49a84dff5df0879846d6020319a162486a402",
+    "tabla_5.csv": "e7e94a47400c46767d92b0f3e9f006249c2935fbc2fa8a8ee61266d7503402b5"
+  },
+  "definicion_margen": "Contribución de marca tras VM, permanencia hasta 180 días, transfers y costes adicionales del escenario. No beneficio neto: sin costes fijos ni impuestos de sociedades.",
+  "perdidas": "Oportunidad positiva de una venta fresca local; informativa, nunca deducida del margen realizado.",
+  "credito": "Intereses de red separados. Vencimiento nuevo de principal es salida de caja, no gasto de la marca.",
+  "arancel_cambio": "Proxy de coste importación sobre ventas nuevas A013 y transfers; stock inicial exento. Costes de coches no vendidos permanecen sin realizar.",
+  "CSUV": "VM >180 imputado, no dato observado. Sensibilidad en 08."
+}

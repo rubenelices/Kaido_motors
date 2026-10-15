@@ -1,0 +1,8 @@
+segmento,t,periodo,anio,mes,descripcion,stock_total,s_0_90,s_91_180,s_mas_180,s_sin_cliente,wholesale
+B,144,A0121201,A012,12,Pequeño,97,97,0,0,73,97.0
+C,144,A0121201,A012,12,Compacto,1107,628,281,198,982,543.0
+MD,144,A0121201,A012,12,Berlina media,125,17,57,51,117,8.0
+SSUV,144,A0121201,A012,12,SUV pequeño,0,0,0,0,0,2.0
+CSUV,144,A0121201,A012,12,SUV compacto,1011,684,327,0,870,580.0
+MSUV,144,A0121201,A012,12,SUV medio,536,435,66,35,458,576.0
+S,144,A0121201,A012,12,Descapotable,1,0,0,1,1,33.0

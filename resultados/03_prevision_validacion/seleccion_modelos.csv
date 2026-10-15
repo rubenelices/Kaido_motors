@@ -1,0 +1,8 @@
+segmento,alpha,ventana,wape_cv_pct,wape_ingenua_cv_pct,ultimo_t_seleccion,regla
+B,30.0,12,36.61636501769133,40.2918524523713,132,Menor WAPE mensual agregado por segmento; solo pasado
+C,30.0,12,21.53582509906289,23.280208163929096,132,Menor WAPE mensual agregado por segmento; solo pasado
+MD,30.0,12,27.14640690364488,30.975954738330973,132,Menor WAPE mensual agregado por segmento; solo pasado
+SSUV,30.0,24,25.105459507347366,22.83943906946407,132,Menor WAPE mensual agregado por segmento; solo pasado
+CSUV,10.0,12,,,132,Predeterminada: segmento sin historia validable
+MSUV,1.0,12,21.612468152069038,27.591385246502085,132,Menor WAPE mensual agregado por segmento; solo pasado
+S,10.0,24,51.97280172799815,51.536098310291855,132,Menor WAPE mensual agregado por segmento; solo pasado
