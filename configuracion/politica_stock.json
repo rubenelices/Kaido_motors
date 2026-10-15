@@ -1,0 +1,19 @@
+{
+  "nivel_servicio_objetivo": 0.90,
+  "metodo_seguridad": "max_formula_y_bootstrap",
+  "multiplicador_seguridad": 1.0,
+  "pipeline_multiplicador": 1.0,
+  "continuacion_A014_multiplicador": 1.0,
+  "capacidad_multiplicador_plan": 1.25,
+  "fraccion_transfer_deficit": 0.50,
+  "permitir_transfers_no_rentables": false,
+  "revision_activa": true,
+  "observacion_revision": "ventas",
+  "ventana_revision_meses": 3,
+  "peso_nueva_revision": 0.50,
+  "revision_minima": 0.50,
+  "revision_maxima": 1.75,
+  "dias_mes": 30,
+  "dia_venta": 15,
+  "edades_iniciales": "centros"
+}

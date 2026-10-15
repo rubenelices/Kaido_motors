@@ -1,0 +1,10 @@
+{
+  "coste_marca_eur_dia": 2.0,
+  "tipo_credito_0_90": 0.01,
+  "tipo_credito_91_180": 0.05,
+  "dias_anio_financiero": 365,
+  "transfer_fraccion_bruto": 0.20,
+  "csuv_vm_mas_180_factor": 1.20,
+  "base_arancel_cambio": "nuevas_y_transfers",
+  "nota": "CSUV >180: 120% de su VM 91-180, hipótesis. Arancel y ahorro de cambio se imputan al vender llegadas A013 y transfers, sin recargar el stock ya importado en A012. Transfers: proxy de coste escenario del 04. CO2 se aplica a todo retail A013."
+}
